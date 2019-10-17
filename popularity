@@ -22,12 +22,12 @@ check_pop()
 	echo -e "\t\"${MODULE_NAME}\": {" >> ${FILENAME}
 	
 	VIEWS=`curl --silent -H "Authorization: token ${TOKEN}" https://api.github.com/repos/${PROJECT}/${MODULE_NAME}/traffic/views`
-	VIEW_COUNT=`parseJSON.py "${VIEWS}"`
+	VIEW_COUNT=`./parseJSON.py "${VIEWS}"`
 	
 	echo -e "\t\t\"views\": ${VIEW_COUNT}," >> ${FILENAME}
 	
 	CLONES=`curl --silent -H "Authorization: token ${TOKEN}" https://api.github.com/repos/${PROJECT}/${MODULE_NAME}/traffic/clones`
-	CLONE_COUNT=`parseJSON.py "${CLONES}"`
+	CLONE_COUNT=`./parseJSON.py "${CLONES}"`
 	
 	echo -e "\t\t\"clones\": ${CLONE_COUNT}" >> ${FILENAME}
 	echo -e "\t}," >> ${FILENAME}
@@ -41,12 +41,12 @@ check_pop_last()
 	echo -e "\t\"${MODULE_NAME}\": {" >> ${FILENAME}
 	
 	VIEWS=`curl --silent -H "Authorization: token ${TOKEN}" https://api.github.com/repos/${PROJECT}/${MODULE_NAME}/traffic/views`
-	VIEW_COUNT=`parseJSON.py "${VIEWS}"`
+	VIEW_COUNT=`./parseJSON.py "${VIEWS}"`
 	
 	echo -e "\t\t\"views\": ${VIEW_COUNT}," >> ${FILENAME}
 	
 	CLONES=`curl --silent -H "Authorization: token ${TOKEN}" https://api.github.com/repos/${PROJECT}/${MODULE_NAME}/traffic/clones`
-	CLONE_COUNT=`parseJSON.py "${CLONES}"`
+	CLONE_COUNT=`./parseJSON.py "${CLONES}"`
 	
 	echo -e "\t\t\"clones\": ${CLONE_COUNT}" >> ${FILENAME}
 	echo -e "\t}" >> ${FILENAME}
@@ -88,7 +88,7 @@ check_pop_last epics-modules    xxx
 
 echo "}" >> ${FILENAME}
 
-reorg.py ${FILENAME}
+./reorg.py ${FILENAME}
 
 git add --all
 git commit -m "${TAG} update"

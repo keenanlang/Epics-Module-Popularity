@@ -1,130 +1,130 @@
 {
 	"alive": {
-		"views": ,
-		"clones": 
+		"views": 4,
+		"clones": 26
 	},
 	"asyn": {
-		"views": ,
-		"clones": 
+		"views": 331,
+		"clones": 323
 	},
 	"autosave": {
-		"views": ,
-		"clones": 
+		"views": 72,
+		"clones": 327
 	},
 	"busy": {
-		"views": ,
-		"clones": 
+		"views": 3,
+		"clones": 290
 	},
 	"calc": {
-		"views": ,
-		"clones": 
+		"views": 8,
+		"clones": 307
 	},
 	"camac": {
-		"views": ,
-		"clones": 
+		"views": 27,
+		"clones": 26
 	},
 	"caputRecorder": {
-		"views": ,
-		"clones": 
+		"views": 6,
+		"clones": 31
 	},
 	"dac128V": {
-		"views": ,
-		"clones": 
+		"views": 0,
+		"clones": 19
 	},
 	"delaygen": {
-		"views": ,
-		"clones": 
+		"views": 0,
+		"clones": 158
 	},
 	"dxp": {
-		"views": ,
-		"clones": 
+		"views": 26,
+		"clones": 7
 	},
 	"dxpSITORO": {
-		"views": ,
-		"clones": 
+		"views": 0,
+		"clones": 8
 	},
 	"iocStats": {
-		"views": ,
-		"clones": 
+		"views": 119,
+		"clones": 283
 	},
 	"ip": {
-		"views": ,
-		"clones": 
+		"views": 49,
+		"clones": 153
 	},
 	"ipac": {
-		"views": ,
-		"clones": 
+		"views": 50,
+		"clones": 158
 	},
 	"ip330": {
-		"views": ,
-		"clones": 
+		"views": 4,
+		"clones": 14
 	},
 	"ipUnidig": {
-		"views": ,
-		"clones": 
+		"views": 0,
+		"clones": 54
 	},
 	"love": {
-		"views": ,
-		"clones": 
+		"views": 0,
+		"clones": 16
 	},
 	"lua": {
-		"views": ,
-		"clones": 
+		"views": 52,
+		"clones": 241
 	},
 	"mca": {
-		"views": ,
-		"clones": 
+		"views": 46,
+		"clones": 25
 	},
 	"measComp": {
-		"views": ,
-		"clones": 
+		"views": 48,
+		"clones": 14
 	},
 	"modbus": {
-		"views": ,
-		"clones": 
+		"views": 102,
+		"clones": 207
 	},
 	"motor": {
-		"views": ,
-		"clones": 
+		"views": 135,
+		"clones": 74
 	},
 	"optics": {
-		"views": ,
-		"clones": 
+		"views": 5,
+		"clones": 25
 	},
 	"quadEM": {
-		"views": ,
-		"clones": 
+		"views": 2,
+		"clones": 53
 	},
 	"softGlue": {
-		"views": ,
-		"clones": 
+		"views": 1,
+		"clones": 5
 	},
 	"softGlueZynq": {
-		"views": ,
-		"clones": 
+		"views": 3,
+		"clones": 5
 	},
 	"sscan": {
-		"views": ,
-		"clones": 
+		"views": 8,
+		"clones": 294
 	},
 	"std": {
-		"views": ,
-		"clones": 
+		"views": 13,
+		"clones": 161
 	},
 	"vac": {
-		"views": ,
-		"clones": 
+		"views": 3,
+		"clones": 17
 	},
 	"vme": {
-		"views": ,
-		"clones": 
+		"views": 1,
+		"clones": 12
 	},
 	"Yokogawa_DAS": {
-		"views": ,
-		"clones": 
+		"views": 0,
+		"clones": 5
 	},
 	"xxx": {
-		"views": ,
-		"clones": 
+		"views": 125,
+		"clones": 30
 	}
 }
