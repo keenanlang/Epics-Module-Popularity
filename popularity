@@ -1,0 +1,92 @@
+#!/bin/bash
+
+TOKEN=`git config --global --get github.token`
+
+if [[ $TOKEN = "error:"* ]] ; then
+	echo "Github token not found, run git config --global github.token \"<TOKEN>\""
+	exit
+fi
+
+TAG=`date +%y-%m-%d`
+FILENAME=list_${TAG}.json
+
+echo "{" > ${FILENAME}
+
+check_pop()
+{
+	PROJECT=$1
+	MODULE_NAME=$2
+	
+	echo -e "\t\"${MODULE_NAME}\": {" >> ${FILENAME}
+	
+	VIEWS=`curl --silent -H "Authorization: token ${TOKEN}" https://api.github.com/repos/${PROJECT}/${MODULE_NAME}/traffic/views`
+	VIEW_COUNT=`parseJSON.py "${VIEWS}"`
+	
+	echo -e "\t\t\"views\": ${VIEW_COUNT}," >> ${FILENAME}
+	
+	CLONES=`curl --silent -H "Authorization: token ${TOKEN}" https://api.github.com/repos/${PROJECT}/${MODULE_NAME}/traffic/clones`
+	CLONE_COUNT=`parseJSON.py "${CLONES}"`
+	
+	echo -e "\t\t\"clones\": ${CLONE_COUNT}" >> ${FILENAME}
+	echo -e "\t}," >> ${FILENAME}
+}
+
+check_pop_last()
+{
+	PROJECT=$1
+	MODULE_NAME=$2
+	
+	echo -e "\t\"${MODULE_NAME}\": {" >> ${FILENAME}
+	
+	VIEWS=`curl --silent -H "Authorization: token ${TOKEN}" https://api.github.com/repos/${PROJECT}/${MODULE_NAME}/traffic/views`
+	VIEW_COUNT=`parseJSON.py "${VIEWS}"`
+	
+	echo -e "\t\t\"views\": ${VIEW_COUNT}," >> ${FILENAME}
+	
+	CLONES=`curl --silent -H "Authorization: token ${TOKEN}" https://api.github.com/repos/${PROJECT}/${MODULE_NAME}/traffic/clones`
+	CLONE_COUNT=`parseJSON.py "${CLONES}"`
+	
+	echo -e "\t\t\"clones\": ${CLONE_COUNT}" >> ${FILENAME}
+	echo -e "\t}" >> ${FILENAME}
+}
+
+
+check_pop epics-modules    alive
+check_pop epics-modules    asyn
+check_pop epics-modules    autosave
+check_pop epics-modules    busy
+check_pop epics-modules    calc
+check_pop epics-modules    camac
+check_pop epics-modules    caputRecorder
+check_pop epics-modules    dac128V
+check_pop epics-modules    delaygen
+check_pop epics-modules    dxp
+check_pop epics-modules    dxpSITORO
+check_pop epics-modules    iocStats
+check_pop epics-modules    ip
+check_pop epics-modules    ipac
+check_pop epics-modules    ip330
+check_pop epics-modules    ipUnidig
+check_pop epics-modules    love
+check_pop epics-modules    lua
+check_pop epics-modules    mca
+check_pop epics-modules    measComp
+check_pop epics-modules    modbus
+check_pop epics-modules    motor
+check_pop epics-modules    optics
+check_pop epics-modules    quadEM
+check_pop epics-modules    softGlue
+check_pop epics-modules    softGlueZynq
+check_pop epics-modules    sscan
+check_pop epics-modules    std
+check_pop epics-modules    vac
+check_pop epics-modules    vme
+check_pop epics-modules    Yokogawa_DAS
+check_pop_last epics-modules    xxx
+
+echo "}" >> ${FILENAME}
+
+reorg.py ${FILENAME}
+
+git add --all
+git commit -m "${TAG} update"
