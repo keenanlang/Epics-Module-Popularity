@@ -90,3 +90,4 @@ reorg.py ${FILENAME}
 
 git add --all
 git commit -m "${TAG} update"
+git push
