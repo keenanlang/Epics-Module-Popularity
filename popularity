@@ -1,5 +1,7 @@
 #!/bin/bash
 
+cd Documents/Projects/Repository/git/Epics-Module-Popularity
+
 TOKEN=`git config --global --get github.token`
 
 if [[ $TOKEN = "error:"* ]] ; then
