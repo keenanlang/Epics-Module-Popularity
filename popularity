@@ -92,4 +92,4 @@ echo "}" >> ${FILENAME}
 
 git add --all
 git commit -m "${TAG} update"
-git push
+git push --quiet 2> /dev/null
