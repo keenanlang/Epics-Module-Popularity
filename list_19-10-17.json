@@ -1,130 +1,130 @@
 {
 	"alive": {
 		"views": 4,
-		"clones": 26
+		"clones": 27
 	},
 	"asyn": {
 		"views": 331,
-		"clones": 323
+		"clones": 325
 	},
 	"autosave": {
 		"views": 72,
-		"clones": 327
+		"clones": 329
 	},
 	"busy": {
 		"views": 3,
-		"clones": 290
+		"clones": 292
 	},
 	"calc": {
 		"views": 8,
-		"clones": 307
+		"clones": 309
 	},
 	"camac": {
 		"views": 27,
-		"clones": 26
+		"clones": 28
 	},
 	"caputRecorder": {
 		"views": 6,
-		"clones": 31
+		"clones": 33
 	},
 	"dac128V": {
 		"views": 0,
-		"clones": 19
+		"clones": 21
 	},
 	"delaygen": {
 		"views": 0,
-		"clones": 158
+		"clones": 160
 	},
 	"dxp": {
 		"views": 26,
-		"clones": 7
+		"clones": 8
 	},
 	"dxpSITORO": {
 		"views": 0,
-		"clones": 8
+		"clones": 9
 	},
 	"iocStats": {
 		"views": 119,
-		"clones": 283
+		"clones": 285
 	},
 	"ip": {
 		"views": 49,
-		"clones": 153
+		"clones": 155
 	},
 	"ipac": {
 		"views": 50,
-		"clones": 158
+		"clones": 160
 	},
 	"ip330": {
 		"views": 4,
-		"clones": 14
+		"clones": 15
 	},
 	"ipUnidig": {
 		"views": 0,
-		"clones": 54
+		"clones": 56
 	},
 	"love": {
 		"views": 0,
-		"clones": 16
+		"clones": 17
 	},
 	"lua": {
-		"views": 52,
-		"clones": 241
+		"views": 54,
+		"clones": 248
 	},
 	"mca": {
 		"views": 46,
-		"clones": 25
+		"clones": 27
 	},
 	"measComp": {
 		"views": 48,
-		"clones": 14
+		"clones": 15
 	},
 	"modbus": {
 		"views": 102,
-		"clones": 207
+		"clones": 209
 	},
 	"motor": {
-		"views": 135,
-		"clones": 74
+		"views": 134,
+		"clones": 76
 	},
 	"optics": {
 		"views": 5,
-		"clones": 25
+		"clones": 26
 	},
 	"quadEM": {
 		"views": 2,
-		"clones": 53
+		"clones": 55
 	},
 	"softGlue": {
 		"views": 1,
-		"clones": 5
+		"clones": 6
 	},
 	"softGlueZynq": {
 		"views": 3,
-		"clones": 5
+		"clones": 6
 	},
 	"sscan": {
 		"views": 8,
-		"clones": 294
+		"clones": 296
 	},
 	"std": {
-		"views": 13,
-		"clones": 161
+		"views": 15,
+		"clones": 163
 	},
 	"vac": {
 		"views": 3,
-		"clones": 17
+		"clones": 18
 	},
 	"vme": {
 		"views": 1,
-		"clones": 12
+		"clones": 13
 	},
 	"Yokogawa_DAS": {
 		"views": 0,
-		"clones": 5
+		"clones": 6
 	},
 	"xxx": {
 		"views": 125,
-		"clones": 30
+		"clones": 31
 	}
 }
