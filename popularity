@@ -61,9 +61,11 @@ check_pop epics-modules    calc
 check_pop epics-modules    camac
 check_pop epics-modules    caputRecorder
 check_pop epics-modules    dac128V
+check_pop epics-modules    Dante
 check_pop epics-modules    delaygen
 check_pop epics-modules    dxp
 check_pop epics-modules    dxpSITORO
+check_pop epics-modules    ecmc
 check_pop epics-modules    iocStats
 check_pop epics-modules    ip
 check_pop epics-modules    ipac
@@ -75,12 +77,15 @@ check_pop epics-modules    mca
 check_pop epics-modules    measComp
 check_pop epics-modules    modbus
 check_pop epics-modules    motor
+check_pop epics-modules    mrfioc2
 check_pop epics-modules    optics
 check_pop epics-modules    quadEM
 check_pop epics-modules    softGlue
 check_pop epics-modules    softGlueZynq
 check_pop epics-modules    sscan
 check_pop epics-modules    std
+check_pop epics-modules    tpmac
+check_pop epics-modules    xspress3
 check_pop epics-modules    vac
 check_pop epics-modules    vme
 check_pop epics-modules    Yokogawa_DAS
@@ -91,5 +96,5 @@ echo "}" >> ${FILENAME}
 ./reorg.py ${FILENAME}
 
 git add --all
-git commit -m "${TAG} update"
-git push --quiet 2> /dev/null
+git commit -q -m "${TAG} update"
+git push --quiet > /dev/null 2> /dev/null
