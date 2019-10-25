@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 373
-   autosave, 346
-   calc, 335
-   busy, 325
-   sscan, 325
-   iocStats, 315
-   lua, 264
-   modbus, 230
-   std, 192
-   delaygen, 190
-   ipac, 175
-   ip, 170
-   ecmc, 123
+   asyn, 340
+   autosave, 321
+   calc, 302
+   busy, 291
+   sscan, 290
+   iocStats, 281
+   modbus, 229
+   lua, 212
+   delaygen, 187
+   std, 187
+   ip, 166
+   ipac, 140
+   ecmc, 126
    motor, 102
-   quadEM, 75
-   ipUnidig, 72
-   caputRecorder, 48
-   camac, 45
-   mca, 40
-   dac128V, 36
-   optics, 28
+   quadEM, 72
+   ipUnidig, 69
+   caputRecorder, 46
+   camac, 43
+   mca, 42
+   dac128V, 39
    xspress3, 27
-   alive, 26
-   xxx, 25
-   vac, 19
-   love, 17
-   ip330, 17
-   vme, 15
-   measComp, 14
-   dxpSITORO, 10
-   dxp, 9
-   softGlue, 9
-   Yokogawa_DAS, 7
-   softGlueZynq, 7
-   mrfioc2, 3
+   optics, 25
+   alive, 24
+   xxx, 21
+   measComp, 16
+   vac, 15
+   love, 14
+   ip330, 14
+   dxp, 12
+   vme, 11
+   dxpSITORO, 11
+   softGlue, 11
+   softGlueZynq, 9
+   Yokogawa_DAS, 8
+   mrfioc2, 6
    tpmac, 0
    Dante, 0
 
@@ -54,39 +54,39 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 485
-   motor, 203
-   mrfioc2, 98
-   modbus, 86
-   lua, 79
-   xxx, 77
-   ipac, 54
-   calc, 46
-   mca, 43
-   iocStats, 42
+   asyn, 488
+   motor, 244
+   mrfioc2, 104
+   xxx, 81
+   modbus, 80
+   lua, 76
+   ipac, 76
+   mca, 54
+   iocStats, 48
+   calc, 47
+   autosave, 37
    ecmc, 33
-   autosave, 20
+   sscan, 18
    ip330, 17
-   busy, 15
-   sscan, 15
-   measComp, 13
+   busy, 16
+   measComp, 12
    ip, 10
-   dxp, 10
-   Yokogawa_DAS, 7
-   camac, 7
+   Yokogawa_DAS, 8
+   softGlueZynq, 7
    quadEM, 7
+   dxp, 6
    caputRecorder, 6
-   softGlueZynq, 6
+   camac, 6
    std, 6
    Dante, 5
+   optics, 3
    alive, 2
-   optics, 2
    vme, 1
    tpmac, 1
    vac, 1
+   delaygen, 1
    xspress3, 1
    love, 0
-   delaygen, 0
    ipUnidig, 0
    dxpSITORO, 0
    softGlue, 0
