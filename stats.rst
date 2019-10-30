@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 291
-   autosave, 275
-   calc, 259
-   busy, 251
-   sscan, 247
+   asyn, 296
+   autosave, 280
+   calc, 261
+   busy, 250
+   sscan, 246
    iocStats, 244
-   modbus, 214
-   delaygen, 189
-   std, 188
-   ip, 166
-   lua, 161
-   motor, 112
-   ipac, 111
-   ecmc, 105
-   quadEM, 85
-   ipUnidig, 83
-   caputRecorder, 63
-   camac, 59
-   mca, 49
-   dac128V, 46
-   alive, 39
-   xxx, 36
-   optics, 36
-   vac, 30
-   love, 28
-   ip330, 28
-   xspress3, 28
-   vme, 25
-   measComp, 22
-   dxp, 20
-   softGlue, 16
-   softGlueZynq, 14
-   dxpSITORO, 14
-   Yokogawa_DAS, 13
+   modbus, 222
+   delaygen, 195
+   std, 194
+   ip, 173
+   lua, 145
+   motor, 111
+   ipac, 107
+   ecmc, 106
+   quadEM, 88
+   ipUnidig, 86
+   caputRecorder, 66
+   camac, 62
+   mca, 56
+   dac128V, 48
+   alive, 43
+   xxx, 37
+   optics, 37
+   vac, 34
+   love, 32
+   ip330, 32
+   vme, 29
+   xspress3, 27
+   measComp, 25
+   dxp, 23
+   softGlue, 19
+   softGlueZynq, 17
+   dxpSITORO, 17
+   Yokogawa_DAS, 16
    mrfioc2, 9
    tpmac, 0
    Dante, 0
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 459
-   motor, 292
-   mrfioc2, 139
+   asyn, 476
+   motor, 300
+   mrfioc2, 144
+   modbus, 110
    ipac, 105
-   modbus, 104
-   xxx, 79
-   lua, 78
-   iocStats, 64
-   calc, 54
+   lua, 73
+   iocStats, 66
+   calc, 59
+   autosave, 48
    tpmac, 43
-   autosave, 40
-   ecmc, 32
-   mca, 31
+   ecmc, 43
+   mca, 36
+   sscan, 24
+   xxx, 23
    measComp, 23
    busy, 22
-   sscan, 18
    quadEM, 16
    ip330, 13
    ip, 10
+   std, 9
    Yokogawa_DAS, 8
-   std, 8
+   delaygen, 8
    softGlueZynq, 7
    optics, 7
-   caputRecorder, 6
-   Dante, 5
-   camac, 4
-   alive, 4
-   xspress3, 4
+   alive, 5
+   xspress3, 5
    softGlue, 4
    dxp, 3
+   camac, 3
+   Dante, 3
    vac, 1
-   delaygen, 1
    love, 0
    vme, 0
+   caputRecorder, 0
    ipUnidig, 0
    dxpSITORO, 0
    dac128V, 0
