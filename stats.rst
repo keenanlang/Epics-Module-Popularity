@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 347
-   autosave, 331
-   modbus, 305
-   calc, 294
-   busy, 265
-   sscan, 264
-   iocStats, 263
-   delaygen, 230
-   std, 229
-   ip, 200
-   motor, 148
-   ipac, 121
-   ecmc, 114
-   ipUnidig, 86
-   quadEM, 82
-   lua, 74
-   caputRecorder, 68
-   camac, 65
-   mca, 59
-   dac128V, 53
-   alive, 45
-   xxx, 39
-   vac, 37
-   optics, 37
-   love, 35
-   ip330, 35
-   vme, 34
+   asyn, 332
+   autosave, 313
+   modbus, 295
+   calc, 280
+   sscan, 253
+   busy, 251
+   iocStats, 250
+   std, 221
+   delaygen, 220
+   ip, 192
+   motor, 155
+   ipac, 120
+   ecmc, 117
+   ipUnidig, 83
+   quadEM, 79
+   lua, 67
+   caputRecorder, 64
+   camac, 61
+   mca, 58
+   dac128V, 50
+   alive, 40
+   vac, 35
+   optics, 35
+   xxx, 34
+   love, 33
+   ip330, 33
+   vme, 32
    xspress3, 32
-   softGlueZynq, 28
-   dxp, 26
-   measComp, 24
-   softGlue, 22
-   Yokogawa_DAS, 20
-   dxpSITORO, 19
-   mrfioc2, 11
+   softGlueZynq, 27
+   dxp, 23
+   measComp, 23
+   softGlue, 21
+   Yokogawa_DAS, 19
+   dxpSITORO, 18
+   mrfioc2, 8
    tpmac, 2
    Dante, 2
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 408
-   motor, 382
-   mrfioc2, 139
-   modbus, 112
-   iocStats, 84
-   ipac, 68
-   mca, 67
-   autosave, 61
+   asyn, 410
+   motor, 331
+   modbus, 113
+   iocStats, 87
+   mrfioc2, 81
+   ipac, 78
+   mca, 62
+   autosave, 52
    measComp, 47
-   calc, 46
    tpmac, 42
-   sscan, 40
-   xxx, 25
+   calc, 35
+   sscan, 31
    std, 25
+   xxx, 21
    dxp, 18
-   quadEM, 17
-   ecmc, 15
-   busy, 14
+   ecmc, 18
+   quadEM, 16
+   busy, 12
    lua, 11
    delaygen, 10
+   Yokogawa_DAS, 8
    alive, 8
-   Yokogawa_DAS, 7
+   ip330, 7
    ip, 6
-   ip330, 6
+   optics, 6
    xspress3, 5
-   optics, 5
    softGlue, 4
+   softGlueZynq, 3
    dxpSITORO, 3
-   softGlueZynq, 2
-   camac, 1
    dac128V, 1
    love, 0
    vme, 0
    caputRecorder, 0
+   camac, 0
    vac, 0
    ipUnidig, 0
    Dante, 0
