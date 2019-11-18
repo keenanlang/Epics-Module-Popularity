@@ -9,26 +9,26 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 405
-   sscan, 359
-   autosave, 343
-   calc, 338
-   busy, 336
-   modbus, 332
-   iocStats, 330
-   std, 305
-   delaygen, 297
-   ip, 272
-   ecmc, 183
-   ipac, 145
-   motor, 127
-   ipUnidig, 85
-   mca, 73
-   caputRecorder, 72
-   camac, 71
-   dac128V, 71
+   asyn, 400
+   sscan, 354
+   autosave, 344
+   calc, 333
+   busy, 331
+   modbus, 327
+   iocStats, 325
+   std, 300
+   delaygen, 292
+   ip, 268
+   ecmc, 179
+   ipac, 144
+   motor, 125
+   ipUnidig, 84
+   mca, 72
+   caputRecorder, 71
+   camac, 70
+   dac128V, 70
    quadEM, 70
-   xspress3, 60
+   xspress3, 59
    lua, 26
    optics, 22
    Yokogawa_DAS, 16
@@ -54,28 +54,28 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 417
-   measComp, 234
-   iocStats, 221
-   modbus, 193
+   asyn, 397
+   measComp, 230
+   iocStats, 224
+   modbus, 198
    motor, 170
    mca, 113
    xspress3, 82
-   autosave, 62
+   autosave, 74
    quadEM, 56
-   sscan, 50
-   xxx, 50
-   calc, 46
-   softGlueZynq, 45
-   ipac, 42
+   xxx, 53
+   sscan, 49
+   calc, 48
+   softGlueZynq, 46
+   ipac, 43
    dxp, 40
-   ecmc, 36
+   std, 40
+   ecmc, 35
    mrfioc2, 31
-   ip330, 30
-   std, 28
-   lua, 18
-   ip, 15
-   alive, 13
+   ip330, 29
+   lua, 16
+   ip, 14
+   alive, 12
    Yokogawa_DAS, 11
    busy, 11
    delaygen, 11
