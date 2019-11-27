@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 311
-   autosave, 264
-   calc, 257
-   iocStats, 249
-   busy, 244
-   sscan, 242
-   modbus, 234
-   std, 223
-   delaygen, 220
+   asyn, 332
+   calc, 273
+   autosave, 255
+   iocStats, 241
+   busy, 235
+   sscan, 232
+   modbus, 228
+   std, 215
+   delaygen, 213
    ip, 192
-   ecmc, 129
-   motor, 71
-   ipac, 60
-   ipUnidig, 58
+   ecmc, 128
+   motor, 62
+   ipac, 50
    quadEM, 50
-   caputRecorder, 45
-   camac, 44
-   mca, 37
-   dac128V, 35
-   xspress3, 33
-   vac, 15
-   alive, 15
-   vme, 14
-   xxx, 14
-   optics, 14
-   love, 13
-   ip330, 13
-   Yokogawa_DAS, 5
-   softGlueZynq, 5
-   lua, 5
-   softGlue, 5
-   measComp, 5
-   dxp, 4
-   dxpSITORO, 4
+   ipUnidig, 49
+   caputRecorder, 36
+   camac, 35
+   mca, 28
+   xspress3, 26
+   dac128V, 26
+   vac, 13
+   alive, 13
+   vme, 12
+   xxx, 12
+   optics, 12
+   love, 11
+   ip330, 11
+   Yokogawa_DAS, 3
+   softGlueZynq, 3
+   lua, 3
+   softGlue, 3
+   measComp, 3
+   dxp, 2
+   dxpSITORO, 2
    mrfioc2, 1
    tpmac, 0
    Dante, 0
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 361
-   measComp, 232
-   modbus, 216
-   motor, 170
-   xspress3, 135
-   mca, 119
-   iocStats, 108
-   ecmc, 76
-   autosave, 71
-   quadEM, 56
-   xxx, 53
-   dxp, 52
+   asyn, 349
+   modbus, 226
+   motor, 208
+   measComp, 159
+   xspress3, 132
+   mca, 101
+   iocStats, 92
+   ecmc, 78
+   autosave, 51
+   dxp, 50
    mrfioc2, 38
-   softGlueZynq, 37
-   ipac, 35
-   ip330, 34
-   lua, 33
-   ip, 29
-   std, 24
-   calc, 19
-   sscan, 15
+   xxx, 37
+   lua, 35
+   ipac, 34
+   softGlueZynq, 27
+   calc, 24
+   std, 21
+   ip, 20
+   quadEM, 18
    Yokogawa_DAS, 14
-   busy, 9
+   ip330, 12
+   optics, 12
    love, 8
+   delaygen, 8
    dac128V, 8
-   delaygen, 7
-   optics, 5
+   sscan, 7
    softGlue, 5
-   alive, 4
    vme, 3
+   busy, 3
+   dxpSITORO, 3
+   alive, 3
    caputRecorder, 2
    tpmac, 2
-   dxpSITORO, 2
+   Dante, 1
    camac, 0
    vac, 0
    ipUnidig, 0
-   Dante, 0
