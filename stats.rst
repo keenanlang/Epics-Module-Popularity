@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 460
-   calc, 328
-   autosave, 263
-   busy, 246
-   iocStats, 246
-   sscan, 245
-   delaygen, 208
-   std, 206
-   modbus, 196
-   ip, 189
-   ipac, 114
-   ecmc, 104
-   motor, 98
-   ipUnidig, 94
-   quadEM, 82
-   caputRecorder, 73
-   camac, 62
-   alive, 58
-   ip330, 54
-   optics, 54
-   love, 53
-   vac, 52
-   xxx, 52
-   vme, 47
-   mca, 43
-   dac128V, 25
-   xspress3, 24
+   asyn, 463
+   calc, 323
+   autosave, 257
+   iocStats, 241
+   busy, 240
+   sscan, 240
+   modbus, 204
+   delaygen, 201
+   std, 199
+   ip, 182
+   ipac, 126
+   ecmc, 101
+   motor, 99
+   ipUnidig, 93
+   quadEM, 81
+   caputRecorder, 71
+   camac, 60
+   alive, 54
+   ip330, 51
+   optics, 51
+   love, 50
+   vac, 49
+   xxx, 47
+   vme, 44
+   mca, 44
+   xspress3, 27
+   dac128V, 26
    measComp, 21
-   lua, 20
-   dxp, 9
-   dxpSITORO, 7
+   lua, 19
    Yokogawa_DAS, 6
    softGlueZynq, 6
    softGlue, 6
+   dxp, 5
+   dxpSITORO, 5
    tpmac, 1
    mrfioc2, 1
    Dante, 0
@@ -54,33 +54,34 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 456
-   ecmc, 335
-   motor, 299
-   xspress3, 244
-   lua, 243
-   modbus, 124
-   mca, 83
-   autosave, 75
-   busy, 60
-   iocStats, 60
-   calc, 60
-   sscan, 56
-   ipac, 51
-   measComp, 34
-   mrfioc2, 21
-   quadEM, 19
-   ip, 17
-   xxx, 15
-   dxp, 14
+   asyn, 453
+   xspress3, 338
+   motor, 283
+   ecmc, 215
+   lua, 177
+   modbus, 131
+   autosave, 86
+   mca, 74
+   calc, 61
+   busy, 59
+   iocStats, 59
+   sscan, 54
+   ipac, 54
+   measComp, 40
+   mrfioc2, 31
+   quadEM, 31
+   ip, 20
+   xxx, 16
+   dxp, 15
    dac128V, 12
    delaygen, 9
-   std, 9
+   std, 8
    vme, 7
    camac, 6
+   ip330, 6
    ipUnidig, 6
    alive, 6
-   ip330, 5
+   dxpSITORO, 5
    Dante, 3
    softGlueZynq, 2
    optics, 2
@@ -89,5 +90,4 @@ Repository Views (last 14 days)
    love, 1
    caputRecorder, 1
    vac, 1
-   dxpSITORO, 1
    tpmac, 0
