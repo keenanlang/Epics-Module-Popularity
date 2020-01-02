@@ -9,39 +9,39 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 202
-   modbus, 169
-   autosave, 167
-   calc, 166
-   sscan, 164
-   busy, 161
-   iocStats, 159
-   delaygen, 128
-   std, 127
-   ip, 118
-   ecmc, 102
-   ipac, 81
-   motor, 64
-   quadEM, 58
-   ipUnidig, 55
-   caputRecorder, 31
-   camac, 29
-   mca, 27
+   asyn, 185
+   modbus, 163
+   autosave, 160
+   calc, 158
+   sscan, 156
+   busy, 154
+   iocStats, 152
+   delaygen, 122
+   std, 121
+   ip, 112
+   ecmc, 99
+   ipac, 76
+   motor, 59
+   ipUnidig, 57
+   quadEM, 56
+   caputRecorder, 29
+   camac, 27
    dac128V, 27
-   xspress3, 24
-   alive, 15
-   vac, 12
-   optics, 12
-   love, 11
-   vme, 11
-   lua, 10
-   ip330, 10
-   measComp, 10
-   softGlueZynq, 9
-   xxx, 9
-   softGlue, 9
-   Yokogawa_DAS, 8
-   dxp, 7
+   mca, 26
+   xspress3, 23
+   alive, 12
+   vac, 10
+   optics, 10
+   love, 9
+   vme, 9
+   lua, 9
+   ip330, 9
+   measComp, 9
+   softGlueZynq, 8
+   softGlue, 8
+   Yokogawa_DAS, 7
+   xxx, 7
+   dxp, 6
    dxpSITORO, 6
    Dante, 4
    mrfioc2, 3
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 368
-   xspress3, 223
-   motor, 146
-   modbus, 89
-   lua, 79
-   ecmc, 59
-   autosave, 48
-   busy, 41
-   quadEM, 41
-   sscan, 39
-   calc, 35
-   mrfioc2, 33
-   mca, 33
-   ipac, 25
-   iocStats, 24
-   xxx, 15
-   measComp, 15
-   ip, 14
-   dxp, 13
+   asyn, 274
+   xspress3, 172
+   motor, 127
+   modbus, 87
+   ecmc, 71
+   lua, 66
+   autosave, 45
+   quadEM, 39
+   busy, 38
+   sscan, 35
+   mca, 35
+   mrfioc2, 31
+   calc, 29
+   iocStats, 17
+   measComp, 16
    ip330, 13
-   optics, 11
-   dxpSITORO, 5
+   xxx, 13
+   ipac, 13
+   optics, 12
+   dxp, 7
+   dxpSITORO, 6
+   dac128V, 6
    Dante, 5
+   ip, 4
+   delaygen, 4
    alive, 4
-   delaygen, 3
-   ipUnidig, 2
-   Yokogawa_DAS, 1
-   love, 1
-   caputRecorder, 1
-   tpmac, 1
+   ipUnidig, 3
+   Yokogawa_DAS, 2
+   love, 2
+   caputRecorder, 2
+   tpmac, 2
+   std, 2
+   softGlue, 2
+   camac, 1
+   vac, 1
    softGlueZynq, 1
-   std, 1
-   softGlue, 1
    vme, 0
-   camac, 0
-   vac, 0
-   dac128V, 0
