@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 208
-   autosave, 172
-   iocStats, 156
-   busy, 152
-   calc, 152
-   sscan, 151
-   modbus, 145
-   ip, 138
-   delaygen, 121
-   std, 120
-   ecmc, 95
-   motor, 62
-   ipac, 58
-   ipUnidig, 55
-   quadEM, 48
-   caputRecorder, 26
-   mca, 26
-   camac, 19
-   dac128V, 19
-   xxx, 18
-   alive, 15
-   lua, 14
-   xspress3, 13
-   love, 12
-   vac, 12
-   ip330, 12
-   measComp, 12
-   vme, 7
-   optics, 7
-   Yokogawa_DAS, 6
-   dxp, 6
-   softGlueZynq, 6
-   softGlue, 6
-   dxpSITORO, 5
+   asyn, 239
+   autosave, 178
+   calc, 176
+   sscan, 174
+   iocStats, 162
+   busy, 158
+   modbus, 151
+   ip, 137
+   delaygen, 127
+   std, 126
+   ecmc, 89
+   motor, 76
+   ipac, 70
+   ipUnidig, 67
+   quadEM, 60
+   mca, 39
+   caputRecorder, 38
+   camac, 31
+   dac128V, 31
+   xxx, 23
+   alive, 20
+   xspress3, 20
+   lua, 19
+   love, 17
+   vac, 17
+   ip330, 17
+   measComp, 17
+   vme, 12
+   optics, 12
+   Yokogawa_DAS, 11
+   dxp, 11
+   softGlueZynq, 11
+   softGlue, 11
+   dxpSITORO, 10
    mrfioc2, 4
    Dante, 4
-   tpmac, 1
+   tpmac, 3
 
 
 
@@ -54,39 +54,39 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 398
-   motor, 146
-   modbus, 64
+   asyn, 412
+   motor, 185
+   modbus, 61
+   busy, 58
    ecmc, 55
-   quadEM, 41
-   calc, 38
-   autosave, 37
-   dxp, 36
-   sscan, 35
-   measComp, 35
-   busy, 34
-   std, 33
+   calc, 47
+   quadEM, 46
+   autosave, 39
+   sscan, 36
+   measComp, 36
+   std, 35
+   dxp, 34
+   mca, 31
+   ipac, 26
    ipUnidig, 25
-   mca, 25
    xspress3, 24
-   xxx, 23
    lua, 21
-   iocStats, 18
+   xxx, 20
+   iocStats, 16
    softGlueZynq, 15
-   optics, 15
-   ipac, 14
-   ip330, 11
+   optics, 14
+   mrfioc2, 13
+   ip330, 12
+   alive, 9
    dac128V, 8
-   alive, 7
    Yokogawa_DAS, 4
+   tpmac, 4
    delaygen, 4
    vac, 3
-   mrfioc2, 3
-   softGlue, 3
    love, 2
    ip, 2
-   tpmac, 2
    dxpSITORO, 2
+   softGlue, 2
    caputRecorder, 1
    camac, 1
    Dante, 1
