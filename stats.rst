@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 250
-   calc, 186
-   autosave, 180
-   sscan, 178
-   iocStats, 163
-   busy, 159
-   modbus, 151
-   ip, 138
-   delaygen, 128
-   std, 127
-   ecmc, 89
-   motor, 78
-   ipac, 71
-   ipUnidig, 68
-   quadEM, 58
-   mca, 41
-   caputRecorder, 39
-   camac, 32
-   dac128V, 32
+   asyn, 260
+   calc, 191
+   autosave, 181
+   sscan, 176
+   iocStats, 158
+   busy, 154
+   modbus, 149
+   ip, 147
+   delaygen, 124
+   std, 122
+   ecmc, 92
+   motor, 67
+   ipac, 66
+   ipUnidig, 58
+   quadEM, 50
+   mca, 31
+   caputRecorder, 29
    xxx, 24
+   dac128V, 24
+   camac, 23
+   measComp, 23
    lua, 21
-   alive, 21
-   xspress3, 20
-   love, 18
-   vac, 18
+   alive, 20
    ip330, 18
-   measComp, 18
-   vme, 13
-   optics, 13
-   Yokogawa_DAS, 12
-   dxp, 12
-   softGlueZynq, 12
+   love, 17
+   vac, 17
+   dxp, 14
+   Yokogawa_DAS, 13
+   softGlueZynq, 13
+   dxpSITORO, 13
+   vme, 12
+   optics, 12
    softGlue, 12
-   dxpSITORO, 11
-   Dante, 4
-   tpmac, 3
-   mrfioc2, 2
+   xspress3, 9
+   Dante, 5
+   tpmac, 2
+   mrfioc2, 1
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 461
-   motor, 178
-   modbus, 65
-   ecmc, 60
-   busy, 58
-   autosave, 49
-   quadEM, 44
+   asyn, 422
+   motor, 189
+   measComp, 67
+   ecmc, 65
+   dxp, 60
+   mca, 56
+   busy, 52
+   quadEM, 50
+   modbus, 44
+   autosave, 40
    calc, 39
-   measComp, 37
-   sscan, 36
-   std, 35
-   dxp, 34
-   mca, 32
-   ipac, 28
+   std, 38
+   ipac, 26
+   mrfioc2, 25
    ipUnidig, 25
-   xspress3, 24
-   tpmac, 23
-   lua, 21
-   xxx, 21
-   iocStats, 18
+   lua, 23
+   tpmac, 22
+   xspress3, 20
+   optics, 20
+   iocStats, 19
+   sscan, 18
+   xxx, 16
    softGlueZynq, 15
-   mrfioc2, 14
-   optics, 11
-   alive, 10
-   ip330, 8
-   dac128V, 8
-   Yokogawa_DAS, 4
+   alive, 11
+   dac128V, 10
+   ip330, 6
+   Yokogawa_DAS, 3
    vac, 3
-   love, 2
-   ip, 2
-   dxpSITORO, 2
+   delaygen, 2
    softGlue, 2
+   love, 1
+   ip, 1
    caputRecorder, 1
    camac, 1
-   delaygen, 1
-   Dante, 1
+   dxpSITORO, 1
    vme, 0
+   Dante, 0
