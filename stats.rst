@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 415
-   modbus, 282
-   calc, 280
-   autosave, 274
-   sscan, 266
-   iocStats, 262
-   busy, 253
-   ip, 211
-   std, 209
-   delaygen, 204
-   ecmc, 118
-   ipac, 101
-   motor, 67
-   ipUnidig, 58
-   quadEM, 55
-   lua, 47
-   alive, 45
-   caputRecorder, 40
-   vac, 32
-   camac, 30
-   mca, 30
-   optics, 30
-   vme, 29
-   dac128V, 29
-   ip330, 28
-   measComp, 26
-   love, 25
-   softGlue, 25
-   Yokogawa_DAS, 23
-   softGlueZynq, 23
-   dxp, 14
-   xxx, 14
-   dxpSITORO, 12
-   xspress3, 5
+   asyn, 432
+   calc, 295
+   modbus, 290
+   autosave, 289
+   sscan, 279
+   iocStats, 275
+   busy, 266
+   ip, 222
+   std, 220
+   delaygen, 215
+   ecmc, 119
+   ipac, 105
+   motor, 71
+   ipUnidig, 62
+   quadEM, 58
+   lua, 50
+   alive, 50
+   caputRecorder, 44
+   vac, 35
+   camac, 34
+   mca, 34
+   optics, 33
+   dac128V, 33
+   vme, 32
+   ip330, 31
+   measComp, 30
+   love, 28
+   softGlue, 28
+   Yokogawa_DAS, 26
+   softGlueZynq, 26
+   dxp, 15
+   xxx, 15
+   dxpSITORO, 13
+   xspress3, 6
+   mrfioc2, 4
    Dante, 2
    tpmac, 1
-   mrfioc2, 1
 
 
 
@@ -54,33 +54,33 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 436
-   modbus, 179
-   motor, 167
-   mca, 116
-   autosave, 107
-   mrfioc2, 80
-   dxp, 68
-   calc, 57
-   ip, 35
-   iocStats, 34
+   asyn, 416
+   modbus, 193
+   motor, 175
+   autosave, 127
+   mca, 117
+   mrfioc2, 109
+   dxp, 77
+   dxpSITORO, 69
+   calc, 56
+   ip, 44
+   quadEM, 36
+   iocStats, 33
+   tpmac, 31
    sscan, 31
-   xxx, 29
-   quadEM, 29
+   xxx, 28
+   ecmc, 28
    optics, 25
-   ecmc, 25
-   std, 23
-   busy, 15
-   vme, 14
-   tpmac, 14
+   std, 22
+   vme, 20
+   ipac, 18
+   busy, 13
    xspress3, 10
-   ipac, 10
    delaygen, 9
-   softGlue, 9
-   alive, 8
-   dxpSITORO, 7
-   vac, 6
-   measComp, 6
+   alive, 9
+   softGlue, 8
+   measComp, 8
+   vac, 4
    softGlueZynq, 4
    lua, 4
    caputRecorder, 3
