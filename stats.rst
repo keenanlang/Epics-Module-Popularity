@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 669
-   calc, 361
-   sscan, 324
-   autosave, 323
-   busy, 312
-   iocStats, 283
-   std, 259
-   modbus, 258
-   ip, 235
-   delaygen, 220
-   ipac, 159
-   motor, 111
-   ipUnidig, 108
-   quadEM, 107
-   caputRecorder, 83
-   alive, 82
-   ecmc, 73
+   asyn, 617
+   calc, 323
+   sscan, 309
+   autosave, 301
+   busy, 288
+   iocStats, 269
+   std, 246
+   modbus, 246
+   ip, 219
+   delaygen, 207
+   ipac, 161
+   ipUnidig, 113
+   motor, 112
+   quadEM, 111
+   caputRecorder, 88
+   alive, 83
+   camac, 73
+   mca, 70
    xxx, 69
-   camac, 68
-   optics, 68
    ip330, 66
-   mca, 64
+   optics, 65
    vac, 63
+   ecmc, 60
+   dac128V, 55
    love, 49
-   dac128V, 49
    vme, 48
-   measComp, 43
-   lua, 39
-   softGlue, 37
+   measComp, 44
+   lua, 40
+   softGlue, 38
    dxp, 36
-   dxpSITORO, 35
-   softGlueZynq, 34
-   Yokogawa_DAS, 31
-   xspress3, 29
+   dxpSITORO, 36
+   softGlueZynq, 35
+   xspress3, 34
+   Yokogawa_DAS, 32
    mrfioc2, 6
    Dante, 3
    tpmac, 2
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 993
-   motor, 228
-   modbus, 209
-   iocStats, 190
-   xspress3, 124
-   tpmac, 108
-   mrfioc2, 89
-   quadEM, 87
+   asyn, 928
+   iocStats, 211
+   motor, 189
+   modbus, 182
+   xspress3, 113
+   quadEM, 90
+   mrfioc2, 80
    xxx, 77
-   ecmc, 64
-   calc, 62
-   autosave, 61
-   sscan, 57
+   calc, 65
+   tpmac, 61
+   sscan, 58
+   autosave, 53
    ipac, 52
-   busy, 49
+   ecmc, 51
+   busy, 41
+   Dante, 30
    alive, 30
-   std, 30
    mca, 28
+   std, 28
    ip, 24
-   lua, 20
-   measComp, 20
-   dxp, 16
-   softGlueZynq, 15
-   optics, 15
+   lua, 22
+   measComp, 19
+   dxp, 14
+   optics, 14
    softGlue, 14
    delaygen, 9
-   Dante, 9
    dxpSITORO, 8
    ip330, 7
    vac, 5
-   dac128V, 4
+   camac, 3
+   softGlueZynq, 3
+   dac128V, 3
    Yokogawa_DAS, 2
    love, 2
-   camac, 2
    ipUnidig, 1
    vme, 0
    caputRecorder, 0
