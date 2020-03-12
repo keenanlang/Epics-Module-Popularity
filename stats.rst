@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 486
-   calc, 381
-   ip, 238
-   sscan, 226
-   autosave, 221
-   busy, 206
-   iocStats, 198
-   modbus, 197
+   asyn, 550
+   calc, 403
+   autosave, 251
+   ip, 237
+   busy, 234
+   sscan, 224
+   modbus, 207
    std, 196
-   delaygen, 144
-   ipac, 100
-   ecmc, 100
-   motor, 88
-   ipUnidig, 64
-   quadEM, 61
+   iocStats, 193
+   delaygen, 135
+   ipac, 135
+   ecmc, 106
+   motor, 84
+   ipUnidig, 55
    lua, 54
-   caputRecorder, 41
-   dac128V, 40
-   mca, 37
-   camac, 35
-   xspress3, 25
-   mrfioc2, 21
-   alive, 19
-   xxx, 18
-   optics, 17
-   ip330, 16
+   quadEM, 54
+   dac128V, 37
+   caputRecorder, 36
+   mca, 35
+   camac, 26
+   mrfioc2, 22
+   xspress3, 20
+   xxx, 19
+   alive, 18
+   optics, 18
    vac, 15
-   vme, 14
    measComp, 14
-   love, 13
-   dxp, 10
-   Yokogawa_DAS, 9
-   softGlueZynq, 9
-   dxpSITORO, 9
-   softGlue, 9
+   ip330, 12
+   vme, 10
+   love, 9
+   dxp, 6
+   Yokogawa_DAS, 5
+   softGlueZynq, 5
+   dxpSITORO, 5
+   softGlue, 5
    tpmac, 2
    Dante, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 518
-   ecmc, 170
-   motor, 169
-   iocStats, 159
-   modbus, 148
-   mca, 99
-   sscan, 96
-   Dante, 91
-   calc, 72
-   autosave, 71
-   ip, 65
-   std, 62
+   asyn, 506
+   motor, 226
+   ecmc, 190
+   modbus, 158
+   iocStats, 126
+   mca, 100
+   sscan, 95
+   autosave, 78
+   Dante, 70
+   calc, 69
+   ip, 66
+   measComp, 65
    softGlueZynq, 61
-   xxx, 59
-   quadEM, 58
-   ipac, 54
-   lua, 53
-   measComp, 48
-   mrfioc2, 39
+   xxx, 57
+   std, 56
+   lua, 55
+   quadEM, 55
+   ipac, 47
    busy, 38
-   dxp, 32
+   mrfioc2, 36
+   dxp, 31
    optics, 25
+   caputRecorder, 23
    vac, 18
    tpmac, 16
-   xspress3, 15
-   caputRecorder, 6
-   delaygen, 6
+   delaygen, 16
+   xspress3, 10
    dxpSITORO, 6
+   alive, 3
    dac128V, 3
    Yokogawa_DAS, 2
-   camac, 2
    ip330, 2
-   alive, 2
    softGlue, 2
    vme, 1
+   camac, 1
    ipUnidig, 1
    love, 0
