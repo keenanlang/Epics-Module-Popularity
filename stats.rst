@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 930
-   autosave, 526
-   busy, 508
-   sscan, 483
-   ipac, 429
-   std, 292
-   motor, 260
-   calc, 232
-   ip, 208
-   modbus, 161
-   iocStats, 152
-   delaygen, 117
-   alive, 63
-   lua, 55
-   ipUnidig, 54
-   ecmc, 49
-   quadEM, 46
-   mrfioc2, 39
-   caputRecorder, 33
-   xxx, 30
-   ip330, 29
-   dxp, 24
+   asyn, 855
+   sscan, 520
+   autosave, 415
+   busy, 397
+   ipac, 315
+   std, 312
+   calc, 223
+   ip, 214
+   modbus, 166
+   iocStats, 158
+   motor, 151
+   delaygen, 123
+   lua, 69
+   alive, 58
+   ipUnidig, 56
+   quadEM, 49
+   ecmc, 48
+   caputRecorder, 35
+   xxx, 31
+   ip330, 30
+   dxp, 25
+   camac, 24
+   dac128V, 24
    mca, 23
-   camac, 22
-   dac128V, 22
-   vac, 21
-   vme, 20
-   optics, 20
-   Yokogawa_DAS, 19
-   love, 19
-   softGlueZynq, 19
-   dxpSITORO, 18
-   softGlue, 18
-   measComp, 18
-   xspress3, 2
+   vac, 22
+   vme, 21
+   optics, 21
+   Yokogawa_DAS, 20
+   love, 20
+   softGlueZynq, 20
+   dxpSITORO, 19
+   softGlue, 19
+   measComp, 19
+   mrfioc2, 5
+   xspress3, 3
    tpmac, 1
    Dante, 1
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   modbus, 231
-   asyn, 219
-   motor, 206
-   mca, 194
-   ip, 153
-   xxx, 101
-   alive, 101
-   mrfioc2, 75
-   iocStats, 70
-   autosave, 58
-   measComp, 57
+   asyn, 253
+   modbus, 222
+   motor, 202
+   mca, 191
+   ip, 155
+   iocStats, 115
+   alive, 89
+   xxx, 84
+   mrfioc2, 68
+   softGlueZynq, 67
+   autosave, 63
    ecmc, 53
-   softGlueZynq, 52
-   calc, 46
-   lua, 29
+   measComp, 50
+   calc, 49
+   lua, 35
+   Dante, 24
    std, 24
-   dxp, 15
-   sscan, 15
+   sscan, 16
+   dxp, 14
    delaygen, 14
    ipUnidig, 13
    xspress3, 13
    ipac, 13
-   busy, 11
-   Yokogawa_DAS, 8
+   busy, 10
+   quadEM, 10
+   Yokogawa_DAS, 7
+   tpmac, 7
+   softGlue, 7
    optics, 6
    dac128V, 6
-   Dante, 4
-   tpmac, 3
-   vac, 3
+   vac, 4
    vme, 2
-   camac, 2
-   ip330, 2
-   caputRecorder, 1
-   quadEM, 1
+   caputRecorder, 2
+   camac, 1
+   ip330, 1
    love, 0
    dxpSITORO, 0
-   softGlue, 0
