@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 713
-   sscan, 545
-   calc, 427
-   autosave, 411
-   busy, 383
-   ipac, 327
-   ip, 284
-   motor, 245
-   std, 220
-   delaygen, 175
-   iocStats, 166
-   modbus, 154
-   mrfioc2, 89
-   lua, 71
-   quadEM, 50
-   caputRecorder, 49
-   ipUnidig, 48
+   asyn, 779
+   sscan, 617
+   calc, 489
+   autosave, 480
+   busy, 452
+   ipac, 393
+   motor, 310
+   ip, 268
+   std, 230
+   delaygen, 184
+   iocStats, 176
+   modbus, 160
+   mrfioc2, 121
+   lua, 76
+   caputRecorder, 58
+   ipUnidig, 56
+   quadEM, 55
+   alive, 44
    ecmc, 44
-   alive, 35
-   optics, 35
-   mca, 32
-   xxx, 27
-   camac, 23
-   love, 17
-   vac, 17
-   ip330, 17
-   measComp, 17
-   vme, 16
-   dac128V, 16
-   dxp, 13
-   softGlueZynq, 13
-   dxpSITORO, 13
-   softGlue, 12
-   Yokogawa_DAS, 11
-   xspress3, 6
+   mca, 40
+   optics, 40
+   camac, 31
+   xxx, 30
+   dac128V, 25
+   measComp, 23
+   love, 22
+   ip330, 22
+   vac, 21
+   vme, 20
+   softGlueZynq, 19
+   dxp, 18
+   dxpSITORO, 17
+   softGlue, 17
+   Yokogawa_DAS, 15
+   xspress3, 9
    tpmac, 1
    Dante, 1
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 335
-   measComp, 232
-   ip, 171
-   mrfioc2, 135
-   mca, 102
-   modbus, 94
-   motor, 87
+   asyn, 358
+   measComp, 356
+   ip, 149
+   mrfioc2, 112
+   mca, 97
+   motor, 91
+   modbus, 87
    calc, 67
-   xspress3, 67
    lua, 65
-   ipac, 58
-   xxx, 54
-   ecmc, 47
-   iocStats, 41
-   alive, 34
-   std, 31
-   busy, 27
-   tpmac, 25
-   autosave, 18
-   sscan, 18
-   dxp, 14
+   xspress3, 57
+   ipac, 55
+   xxx, 48
+   std, 45
+   ecmc, 43
+   alive, 36
+   autosave, 29
+   tpmac, 24
+   iocStats, 24
+   sscan, 22
+   dxp, 20
+   delaygen, 18
+   busy, 16
    softGlueZynq, 10
-   delaygen, 9
    camac, 8
-   optics, 7
+   optics, 8
    ipUnidig, 6
    caputRecorder, 5
+   Dante, 5
    Yokogawa_DAS, 4
    dxpSITORO, 4
    softGlue, 4
+   quadEM, 4
    vme, 3
-   quadEM, 3
    dac128V, 2
    vac, 1
    ip330, 1
-   Dante, 1
    love, 0
