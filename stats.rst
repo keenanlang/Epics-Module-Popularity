@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 720
-   sscan, 612
-   autosave, 433
-   calc, 425
-   busy, 415
-   ipac, 328
-   motor, 303
-   std, 253
-   ip, 209
+   asyn, 678
+   sscan, 596
+   autosave, 398
+   calc, 391
+   busy, 381
+   ipac, 291
+   motor, 266
+   std, 256
    iocStats, 186
-   modbus, 172
-   delaygen, 130
-   lua, 86
-   mrfioc2, 77
-   alive, 73
-   ipUnidig, 60
-   quadEM, 57
-   caputRecorder, 46
+   ip, 182
+   modbus, 170
+   delaygen, 129
+   lua, 82
+   mrfioc2, 76
+   alive, 58
+   ipUnidig, 57
+   quadEM, 54
+   caputRecorder, 43
    ecmc, 43
-   mca, 41
-   optics, 39
-   camac, 37
+   vac, 39
+   mca, 38
+   optics, 37
+   camac, 34
    xxx, 29
-   dac128V, 29
-   measComp, 28
-   love, 26
-   ip330, 26
-   dxp, 24
-   vac, 23
-   vme, 22
-   dxpSITORO, 22
-   softGlueZynq, 21
-   softGlue, 19
-   Yokogawa_DAS, 17
+   dac128V, 26
+   measComp, 25
+   love, 24
+   ip330, 23
+   dxp, 21
+   vme, 20
+   dxpSITORO, 19
+   softGlueZynq, 18
+   softGlue, 16
+   Yokogawa_DAS, 15
    xspress3, 9
    tpmac, 1
    Dante, 1
@@ -55,39 +55,39 @@ Repository Views (last 14 days)
    :header: Module, Views
 
    measComp, 406
-   asyn, 315
-   mca, 158
-   modbus, 119
-   lua, 108
-   alive, 96
-   ip, 95
-   motor, 85
-   calc, 65
-   mrfioc2, 58
+   asyn, 279
+   mca, 172
+   modbus, 116
+   lua, 102
+   motor, 98
+   iocStats, 76
+   alive, 75
+   calc, 72
+   ip, 64
+   mrfioc2, 60
+   xxx, 59
    xspress3, 55
-   xxx, 36
-   autosave, 31
-   ecmc, 31
-   iocStats, 28
-   dxp, 22
+   autosave, 37
+   ecmc, 30
+   sscan, 26
+   ipac, 25
+   dxp, 23
+   std, 23
    tpmac, 22
-   ipac, 22
-   sscan, 21
-   std, 20
+   delaygen, 22
+   Dante, 13
    busy, 10
    softGlueZynq, 10
-   delaygen, 10
+   optics, 9
+   caputRecorder, 6
    camac, 6
-   optics, 6
    Yokogawa_DAS, 5
-   caputRecorder, 5
-   Dante, 5
    dxpSITORO, 4
    softGlue, 4
    dac128V, 4
    quadEM, 4
-   vme, 2
-   vac, 1
+   vac, 2
+   vme, 1
    ip330, 1
    love, 0
    ipUnidig, 0
