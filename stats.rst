@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 891
-   motor, 814
-   autosave, 776
-   busy, 753
-   ipac, 637
-   calc, 256
-   sscan, 218
-   modbus, 178
-   iocStats, 172
-   std, 161
-   delaygen, 135
-   ip, 128
+   asyn, 920
+   autosave, 808
+   busy, 783
+   motor, 778
+   ipac, 668
+   calc, 265
+   sscan, 209
+   modbus, 179
+   iocStats, 173
+   std, 157
+   delaygen, 136
+   ip, 129
    ecmc, 52
-   ipUnidig, 45
-   quadEM, 41
-   caputRecorder, 26
-   lua, 26
-   mca, 24
-   camac, 23
-   dac128V, 23
-   xspress3, 17
-   alive, 12
-   xxx, 11
-   vac, 8
-   ip330, 8
-   optics, 8
-   measComp, 8
-   love, 6
-   dxp, 6
-   dxpSITORO, 6
-   Yokogawa_DAS, 5
-   vme, 5
-   softGlueZynq, 5
-   softGlue, 5
-   mrfioc2, 2
+   ipUnidig, 47
+   quadEM, 43
+   caputRecorder, 28
+   lua, 28
+   mca, 26
+   camac, 25
+   dac128V, 25
+   xspress3, 19
+   alive, 14
+   xxx, 13
+   vac, 10
+   ip330, 10
+   optics, 10
+   measComp, 10
+   love, 8
+   dxp, 8
+   dxpSITORO, 8
+   Yokogawa_DAS, 7
+   vme, 7
+   softGlueZynq, 7
+   softGlue, 7
    tpmac, 1
+   mrfioc2, 1
    Dante, 0
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 546
-   asyn, 270
-   mca, 110
-   iocStats, 102
-   xxx, 72
-   autosave, 70
-   mrfioc2, 65
-   modbus, 56
-   measComp, 41
-   lua, 39
-   ipac, 36
-   sscan, 33
-   calc, 24
-   std, 23
-   ecmc, 23
+   motor, 393
+   asyn, 258
+   iocStats, 136
+   mca, 100
+   autosave, 78
+   xxx, 77
+   mrfioc2, 60
+   modbus, 53
+   lua, 43
+   ipac, 39
+   ecmc, 30
+   sscan, 28
+   std, 22
    ip, 21
-   quadEM, 18
-   softGlueZynq, 14
-   Yokogawa_DAS, 10
-   busy, 9
-   alive, 9
+   calc, 21
+   quadEM, 20
+   softGlueZynq, 19
+   measComp, 18
+   alive, 14
+   vme, 13
+   Yokogawa_DAS, 12
+   busy, 10
+   vac, 9
+   xspress3, 9
    caputRecorder, 8
-   vme, 7
-   xspress3, 6
-   dxp, 5
-   vac, 5
+   dxp, 7
+   delaygen, 7
+   love, 4
+   optics, 4
    dac128V, 4
-   delaygen, 3
-   ip330, 2
-   optics, 2
-   softGlue, 2
-   camac, 1
-   dxpSITORO, 1
-   love, 0
+   camac, 3
+   ip330, 3
+   dxpSITORO, 3
+   softGlue, 3
    tpmac, 0
    ipUnidig, 0
    Dante, 0
