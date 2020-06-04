@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 1120
-   autosave, 826
-   busy, 801
-   motor, 725
-   ipac, 709
-   calc, 255
-   sscan, 199
-   modbus, 169
-   iocStats, 162
-   std, 141
-   delaygen, 121
-   ip, 111
-   ecmc, 60
-   ipUnidig, 59
-   quadEM, 52
-   alive, 39
-   caputRecorder, 34
-   camac, 30
-   mca, 30
-   dac128V, 30
-   lua, 27
+   asyn, 1121
+   autosave, 837
+   busy, 810
+   ipac, 715
+   motor, 673
+   calc, 264
+   sscan, 198
+   modbus, 176
+   iocStats, 167
+   std, 144
+   delaygen, 126
+   ip, 116
+   ipUnidig, 65
+   ecmc, 61
+   quadEM, 58
+   alive, 45
+   caputRecorder, 39
+   mca, 37
+   camac, 35
+   dac128V, 35
+   lua, 33
    xspress3, 25
-   xxx, 16
-   vac, 13
-   ip330, 13
-   optics, 13
-   measComp, 10
-   Yokogawa_DAS, 9
-   love, 9
-   vme, 9
-   dxp, 9
-   softGlueZynq, 9
-   dxpSITORO, 9
-   softGlue, 9
-   mrfioc2, 3
+   xxx, 20
+   ip330, 18
+   optics, 18
+   vac, 17
+   measComp, 15
+   love, 14
+   dxp, 14
+   dxpSITORO, 14
+   softGlue, 14
+   Yokogawa_DAS, 13
+   vme, 13
+   softGlueZynq, 13
+   mrfioc2, 5
    tpmac, 1
-   Dante, 0
+   Dante, 1
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 364
-   asyn, 295
-   iocStats, 152
+   motor, 279
+   asyn, 268
+   iocStats, 151
    mca, 126
-   mrfioc2, 63
-   xxx, 51
-   modbus, 50
-   alive, 43
+   mrfioc2, 67
+   modbus, 62
+   xxx, 49
+   alive, 46
    ipac, 42
-   lua, 41
-   measComp, 35
-   autosave, 34
-   sscan, 33
-   calc, 30
-   ecmc, 28
-   optics, 25
-   ip, 23
-   softGlueZynq, 21
+   ecmc, 38
+   measComp, 37
+   sscan, 30
+   lua, 29
+   autosave, 28
+   calc, 26
+   optics, 24
+   ip, 22
    quadEM, 20
+   std, 19
+   softGlueZynq, 18
    xspress3, 18
+   dxp, 16
    busy, 13
    Yokogawa_DAS, 12
-   std, 12
-   dxp, 9
    caputRecorder, 9
    vac, 9
    vme, 7
    love, 5
-   delaygen, 5
    camac, 4
    ip330, 4
+   delaygen, 4
+   dxpSITORO, 3
    softGlue, 3
    dac128V, 3
-   dxpSITORO, 2
    tpmac, 0
    ipUnidig, 0
    Dante, 0
