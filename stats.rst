@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 2032
-   autosave, 1116
-   busy, 1084
-   motor, 949
-   ipac, 931
-   calc, 306
-   sscan, 229
-   std, 198
-   modbus, 187
-   iocStats, 183
-   ip, 138
-   delaygen, 129
-   xxx, 70
-   ecmc, 60
-   alive, 55
-   lua, 54
-   optics, 50
-   ipUnidig, 49
-   quadEM, 49
-   caputRecorder, 38
-   softGlue, 27
-   camac, 26
-   mca, 26
-   dxp, 25
-   dac128V, 25
-   vac, 24
-   softGlueZynq, 24
-   dxpSITORO, 24
-   ip330, 23
-   love, 22
-   vme, 22
-   measComp, 22
-   Yokogawa_DAS, 21
+   asyn, 2154
+   autosave, 1223
+   busy, 1181
+   motor, 1047
+   ipac, 1029
+   calc, 402
+   sscan, 326
+   std, 314
+   modbus, 281
+   ip, 233
+   xxx, 231
+   iocStats, 207
+   optics, 182
+   delaygen, 163
+   alive, 154
+   ipUnidig, 145
+   caputRecorder, 137
+   softGlue, 121
+   dac128V, 121
+   vac, 119
+   ip330, 119
+   love, 118
+   lua, 118
+   vme, 116
+   camac, 109
+   softGlueZynq, 109
+   quadEM, 98
+   Yokogawa_DAS, 85
+   mca, 68
+   measComp, 64
+   dxp, 63
+   dxpSITORO, 62
+   ecmc, 61
    mrfioc2, 21
-   Dante, 4
+   Dante, 5
    tpmac, 2
    xspress3, 2
 
@@ -54,37 +54,37 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 512
-   motor, 221
+   asyn, 597
+   motor, 215
    autosave, 150
-   iocStats, 105
-   measComp, 80
-   calc, 78
-   modbus, 68
+   iocStats, 110
+   measComp, 89
+   calc, 85
+   modbus, 71
    quadEM, 64
-   dxp, 46
-   sscan, 43
-   busy, 36
+   dxp, 49
+   sscan, 44
+   xxx, 43
+   busy, 38
+   optics, 37
    mrfioc2, 35
-   ecmc, 34
+   ecmc, 35
    softGlueZynq, 32
-   xxx, 30
+   std, 27
    alive, 25
    tpmac, 23
-   mca, 23
-   std, 23
-   ipac, 20
+   ipac, 23
+   caputRecorder, 22
+   mca, 22
    softGlue, 20
-   optics, 17
+   ip, 13
    camac, 12
-   ip, 10
    delaygen, 9
-   caputRecorder, 8
-   xspress3, 7
+   xspress3, 9
    vac, 3
    lua, 3
-   love, 2
    ip330, 2
+   love, 1
    vme, 1
    ipUnidig, 1
    dxpSITORO, 1
