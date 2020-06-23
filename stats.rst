@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 2103
-   autosave, 1214
-   busy, 1171
-   motor, 1038
-   ipac, 989
-   calc, 379
-   std, 301
-   sscan, 299
-   modbus, 272
-   ip, 222
-   xxx, 220
-   iocStats, 199
+   asyn, 2088
+   autosave, 1220
+   busy, 1175
+   motor, 1040
+   ipac, 986
+   calc, 366
+   std, 305
+   sscan, 300
+   modbus, 278
+   ip, 226
+   xxx, 222
+   iocStats, 197
    optics, 171
-   delaygen, 160
-   ipUnidig, 142
-   alive, 139
-   caputRecorder, 128
-   dac128V, 118
-   softGlue, 116
-   vac, 114
-   ip330, 114
-   love, 113
-   vme, 111
-   lua, 107
-   camac, 106
-   softGlueZynq, 104
-   quadEM, 95
-   Yokogawa_DAS, 80
-   dxp, 60
-   mca, 60
-   measComp, 59
-   dxpSITORO, 57
-   ecmc, 55
+   delaygen, 164
+   ipUnidig, 145
+   alive, 141
+   caputRecorder, 130
+   dac128V, 121
+   softGlue, 119
+   love, 116
+   ip330, 116
+   vac, 115
+   vme, 114
+   camac, 109
+   lua, 109
+   softGlueZynq, 107
+   quadEM, 97
+   Yokogawa_DAS, 82
+   mca, 64
+   dxp, 62
+   measComp, 61
+   dxpSITORO, 59
+   ecmc, 58
    mrfioc2, 21
    Dante, 5
    tpmac, 2
-   xspress3, 1
+   xspress3, 0
 
 
 
@@ -54,38 +54,38 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 598
-   motor, 214
-   autosave, 152
-   iocStats, 115
-   measComp, 89
-   modbus, 85
-   calc, 84
+   asyn, 614
+   motor, 226
+   autosave, 162
+   iocStats, 111
+   measComp, 85
+   modbus, 83
+   calc, 82
    quadEM, 64
-   sscan, 41
-   xxx, 39
-   dxp, 38
-   busy, 38
-   optics, 37
+   sscan, 55
+   optics, 50
+   xxx, 41
+   ecmc, 36
    mrfioc2, 35
-   ecmc, 34
-   softGlueZynq, 32
-   std, 27
-   mca, 25
+   dxp, 34
+   busy, 34
+   std, 26
    ipac, 24
    tpmac, 23
+   mca, 23
    caputRecorder, 22
    softGlue, 21
-   camac, 17
+   camac, 18
    alive, 12
    ip, 10
+   softGlueZynq, 10
    delaygen, 9
    xspress3, 9
    vac, 3
-   lua, 3
+   vme, 2
+   lua, 2
    dac128V, 2
    love, 1
-   vme, 1
    ip330, 1
    ipUnidig, 1
    dxpSITORO, 1
