@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 1909
-   autosave, 1204
-   busy, 1160
-   motor, 1021
-   ipac, 963
-   calc, 352
-   std, 306
-   sscan, 304
-   modbus, 277
-   ip, 225
-   xxx, 220
-   iocStats, 199
-   optics, 167
-   delaygen, 161
-   ipUnidig, 142
-   alive, 138
-   caputRecorder, 127
-   dac128V, 118
-   softGlue, 117
-   love, 114
-   ip330, 114
-   vac, 113
-   vme, 112
-   lua, 107
-   camac, 106
-   softGlueZynq, 105
-   quadEM, 95
-   Yokogawa_DAS, 80
-   mca, 66
-   dxp, 64
-   measComp, 59
-   ecmc, 59
-   dxpSITORO, 56
+   asyn, 1856
+   autosave, 1225
+   busy, 1180
+   motor, 1017
+   ipac, 969
+   calc, 345
+   std, 324
+   sscan, 319
+   modbus, 293
+   ip, 243
+   xxx, 230
+   iocStats, 215
+   delaygen, 180
+   optics, 178
+   alive, 155
+   ipUnidig, 154
+   caputRecorder, 143
+   dac128V, 131
+   softGlue, 130
+   love, 127
+   vac, 126
+   ip330, 126
+   vme, 125
+   camac, 121
+   lua, 121
+   softGlueZynq, 118
+   quadEM, 107
+   Yokogawa_DAS, 93
+   mca, 79
+   dxp, 78
+   measComp, 71
+   dxpSITORO, 67
+   ecmc, 63
    Dante, 7
-   mrfioc2, 6
-   tpmac, 2
+   mrfioc2, 5
+   tpmac, 1
    xspress3, 0
 
 
@@ -54,36 +54,36 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 600
-   motor, 190
-   autosave, 162
-   iocStats, 106
-   calc, 86
-   modbus, 80
-   measComp, 64
-   optics, 52
-   quadEM, 52
-   xxx, 42
+   asyn, 588
+   motor, 206
+   autosave, 169
+   calc, 97
+   modbus, 89
+   iocStats, 68
+   measComp, 68
+   optics, 66
+   quadEM, 51
+   xxx, 41
+   ecmc, 40
+   std, 38
    dxp, 37
    sscan, 37
-   busy, 31
-   mrfioc2, 28
-   std, 27
-   mca, 26
-   ecmc, 26
-   ipac, 24
-   tpmac, 23
+   busy, 32
+   mrfioc2, 26
+   mca, 25
+   ipac, 25
    caputRecorder, 22
+   tpmac, 21
    softGlue, 21
-   camac, 17
-   ip, 12
+   camac, 16
+   ip, 13
    alive, 12
-   softGlueZynq, 10
+   softGlueZynq, 11
+   lua, 9
    delaygen, 9
    xspress3, 5
    vac, 4
    vme, 2
-   lua, 2
    ipUnidig, 2
    dac128V, 2
    love, 1
