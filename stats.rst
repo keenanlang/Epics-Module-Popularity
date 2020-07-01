@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 1201
-   autosave, 899
-   busy, 836
-   ipac, 608
-   motor, 588
-   calc, 375
-   std, 330
-   sscan, 322
-   modbus, 297
-   ip, 245
+   asyn, 718
+   autosave, 475
+   busy, 405
+   calc, 376
+   std, 341
+   sscan, 331
+   modbus, 285
+   ip, 250
+   iocStats, 225
    xxx, 224
-   iocStats, 215
-   delaygen, 185
+   delaygen, 194
+   ipac, 176
+   motor, 172
    optics, 171
-   alive, 153
-   ipUnidig, 150
-   caputRecorder, 138
-   dac128V, 126
-   softGlue, 125
-   love, 122
+   ipUnidig, 157
+   alive, 157
+   caputRecorder, 144
+   dac128V, 131
+   softGlue, 124
+   camac, 122
    ip330, 122
-   vac, 121
-   vme, 120
-   camac, 117
-   softGlueZynq, 113
-   lua, 113
-   quadEM, 103
-   Yokogawa_DAS, 91
-   mca, 75
-   dxp, 70
+   love, 121
+   vac, 120
+   vme, 119
+   softGlueZynq, 112
+   quadEM, 110
+   lua, 92
+   Yokogawa_DAS, 90
+   mca, 82
+   dxp, 68
    measComp, 67
-   ecmc, 64
-   dxpSITORO, 59
-   Dante, 7
-   xspress3, 2
+   ecmc, 63
+   dxpSITORO, 58
+   xspress3, 9
+   Dante, 6
+   tpmac, 1
    mrfioc2, 1
-   tpmac, 0
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 616
-   motor, 436
-   autosave, 171
-   modbus, 115
-   calc, 94
+   asyn, 578
+   motor, 421
+   autosave, 136
+   modbus, 127
+   calc, 96
    optics, 73
-   measComp, 72
-   iocStats, 56
-   xxx, 41
-   std, 40
-   dxp, 37
-   mca, 36
-   ipac, 35
-   busy, 32
-   sscan, 31
-   ecmc, 31
-   quadEM, 31
+   ecmc, 65
+   measComp, 62
+   iocStats, 58
+   std, 39
+   xxx, 37
+   dxp, 36
+   quadEM, 36
+   mca, 32
+   busy, 31
+   sscan, 30
+   ipac, 30
    alive, 25
    caputRecorder, 22
    vme, 21
    softGlue, 21
-   tpmac, 20
    camac, 17
-   softGlueZynq, 13
+   softGlueZynq, 16
+   tpmac, 14
+   ip, 12
    lua, 12
-   ip, 11
-   mrfioc2, 11
-   delaygen, 11
-   vac, 5
-   xspress3, 5
+   mrfioc2, 12
+   delaygen, 10
+   xspress3, 8
+   Dante, 6
+   vac, 4
    ipUnidig, 2
    dac128V, 2
    love, 1
    ip330, 1
    dxpSITORO, 1
-   Dante, 1
    Yokogawa_DAS, 0
