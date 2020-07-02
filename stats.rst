@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 718
-   autosave, 475
-   busy, 405
-   calc, 376
-   std, 341
-   sscan, 331
-   modbus, 285
-   ip, 250
-   iocStats, 225
-   xxx, 224
-   delaygen, 194
-   ipac, 176
-   motor, 172
-   optics, 171
-   ipUnidig, 157
-   alive, 157
-   caputRecorder, 144
-   dac128V, 131
-   softGlue, 124
-   camac, 122
-   ip330, 122
-   love, 121
-   vac, 120
-   vme, 119
-   softGlueZynq, 112
-   quadEM, 110
-   lua, 92
-   Yokogawa_DAS, 90
-   mca, 82
-   dxp, 68
-   measComp, 67
-   ecmc, 63
-   dxpSITORO, 58
-   xspress3, 9
+   asyn, 640
+   autosave, 481
+   busy, 408
+   calc, 363
+   std, 336
+   sscan, 322
+   modbus, 280
+   ip, 244
+   xxx, 225
+   iocStats, 219
+   delaygen, 189
+   ipac, 188
+   optics, 173
+   motor, 165
+   ipUnidig, 159
+   alive, 159
+   caputRecorder, 146
+   dac128V, 133
+   softGlue, 125
+   camac, 124
+   ip330, 123
+   love, 122
+   vac, 121
+   vme, 120
+   softGlueZynq, 113
+   quadEM, 112
+   Yokogawa_DAS, 91
+   lua, 91
+   mca, 84
+   dxp, 69
+   measComp, 68
+   dxpSITORO, 59
+   ecmc, 59
+   xspress3, 10
    Dante, 6
    tpmac, 1
    mrfioc2, 1
@@ -54,36 +54,36 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 578
-   motor, 421
-   autosave, 136
-   modbus, 127
-   calc, 96
-   optics, 73
+   asyn, 601
+   motor, 427
+   modbus, 153
+   autosave, 127
+   calc, 97
+   optics, 80
+   iocStats, 69
    ecmc, 65
-   measComp, 62
-   iocStats, 58
-   std, 39
-   xxx, 37
-   dxp, 36
-   quadEM, 36
-   mca, 32
-   busy, 31
+   measComp, 60
+   mca, 44
+   quadEM, 43
+   dxp, 40
+   xxx, 40
+   std, 38
    sscan, 30
-   ipac, 30
-   alive, 25
+   busy, 29
    caputRecorder, 22
+   alive, 22
+   ipac, 22
    vme, 21
    softGlue, 21
+   mrfioc2, 20
+   softGlueZynq, 18
    camac, 17
-   softGlueZynq, 16
-   tpmac, 14
    ip, 12
    lua, 12
-   mrfioc2, 12
+   Dante, 12
+   xspress3, 11
+   tpmac, 10
    delaygen, 10
-   xspress3, 8
-   Dante, 6
    vac, 4
    ipUnidig, 2
    dac128V, 2
