@@ -9,16 +9,16 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 1118
-   calc, 381
-   sscan, 379
-   autosave, 342
-   busy, 319
-   iocStats, 293
-   modbus, 279
-   std, 235
-   ip, 233
-   delaygen, 219
+   asyn, 1130
+   calc, 383
+   sscan, 381
+   autosave, 344
+   busy, 321
+   iocStats, 295
+   modbus, 292
+   std, 237
+   ip, 235
+   delaygen, 221
    motor, 167
    ipac, 151
    ecmc, 112
@@ -54,29 +54,29 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 402
-   motor, 278
-   modbus, 196
+   asyn, 383
+   motor, 277
+   modbus, 206
    xxx, 94
    ip, 74
-   mrfioc2, 70
+   mrfioc2, 69
    mca, 48
    autosave, 44
-   measComp, 35
+   measComp, 34
    quadEM, 32
    ipac, 30
    calc, 29
    optics, 27
+   xspress3, 26
    iocStats, 25
    alive, 24
-   xspress3, 24
    Yokogawa_DAS, 22
    std, 20
    ecmc, 16
    delaygen, 15
+   softGlue, 14
    dac128V, 14
-   softGlue, 13
-   busy, 11
+   busy, 12
    sscan, 10
    dxp, 8
    vac, 8
