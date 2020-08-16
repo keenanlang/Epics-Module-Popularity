@@ -9,34 +9,34 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   lua, 576
-   asyn, 551
-   autosave, 455
+   lua, 578
+   asyn, 552
+   autosave, 457
    busy, 299
    ipac, 255
    motor, 248
-   calc, 242
-   iocStats, 240
-   sscan, 238
-   modbus, 226
-   std, 178
-   quadEM, 54
+   calc, 246
+   iocStats, 242
+   sscan, 240
+   modbus, 227
+   std, 182
+   quadEM, 53
    delaygen, 50
    ipUnidig, 50
    ip, 44
-   alive, 33
+   alive, 34
    mca, 21
    caputRecorder, 20
    camac, 19
    dac128V, 19
    xspress3, 16
+   softGlue, 14
    optics, 13
-   softGlue, 13
    measComp, 13
    Yokogawa_DAS, 12
-   softGlueZynq, 12
    xxx, 12
    vme, 11
+   softGlueZynq, 11
    ip330, 11
    love, 10
    vac, 10
@@ -54,25 +54,24 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 271
-   motor, 195
-   modbus, 146
+   asyn, 267
+   motor, 196
+   modbus, 133
    xspress3, 89
-   calc, 87
-   autosave, 80
-   quadEM, 60
-   mrfioc2, 59
-   ecmc, 59
+   calc, 88
+   autosave, 79
+   mrfioc2, 60
+   ecmc, 60
    alive, 54
-   iocStats, 49
-   measComp, 42
-   xxx, 38
+   quadEM, 52
+   iocStats, 48
+   measComp, 41
+   xxx, 40
    ipac, 38
    sscan, 36
-   busy, 27
-   mca, 27
+   busy, 26
+   mca, 26
    std, 22
-   softGlueZynq, 19
    lua, 13
    optics, 13
    Yokogawa_DAS, 11
@@ -80,6 +79,7 @@ Repository Views (last 14 days)
    tpmac, 9
    dxp, 7
    Dante, 7
+   softGlueZynq, 5
    dxpSITORO, 3
    dac128V, 3
    camac, 2
