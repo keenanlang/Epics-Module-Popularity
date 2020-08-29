@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 389
+   asyn, 426
+   calc, 211
    autosave, 199
-   calc, 173
-   sscan, 156
-   busy, 152
-   iocStats, 139
-   modbus, 128
-   std, 116
-   lua, 100
-   ipac, 90
-   motor, 78
-   ip, 70
-   delaygen, 63
-   ecmc, 47
-   ipUnidig, 40
-   quadEM, 38
-   xxx, 30
-   alive, 26
-   caputRecorder, 22
-   optics, 17
-   camac, 12
-   dac128V, 12
-   Yokogawa_DAS, 11
-   dxp, 11
-   ip330, 11
-   mca, 11
-   xspress3, 11
-   vme, 10
-   softGlue, 10
-   love, 9
-   softGlueZynq, 9
-   dxpSITORO, 9
-   measComp, 9
+   sscan, 190
+   busy, 154
+   std, 149
+   iocStats, 143
+   modbus, 129
+   ipac, 121
+   lua, 91
+   motor, 77
+   ip, 75
+   delaygen, 64
+   ecmc, 48
+   ipUnidig, 39
+   quadEM, 37
+   xxx, 31
+   mrfioc2, 30
+   alive, 27
+   caputRecorder, 21
+   optics, 16
+   dxp, 10
+   camac, 10
+   ip330, 10
+   mca, 10
+   xspress3, 10
+   dac128V, 10
+   softGlue, 9
+   vme, 8
+   softGlueZynq, 8
+   dxpSITORO, 8
+   measComp, 8
+   Yokogawa_DAS, 7
+   love, 7
    vac, 7
-   mrfioc2, 7
-   tpmac, 2
+   tpmac, 1
    Dante, 0
 
 
@@ -54,30 +54,30 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 585
-   motor, 279
-   iocStats, 173
-   ecmc, 125
-   xxx, 119
+   asyn, 560
+   motor, 236
+   iocStats, 191
+   xspress3, 177
+   ecmc, 123
+   xxx, 118
    modbus, 110
-   mrfioc2, 103
-   xspress3, 100
-   measComp, 80
-   alive, 51
-   mca, 50
-   std, 47
+   mrfioc2, 96
+   measComp, 78
+   alive, 49
    autosave, 46
    calc, 46
-   sscan, 40
-   optics, 39
+   mca, 46
+   std, 41
+   optics, 40
+   sscan, 36
+   quadEM, 34
    caputRecorder, 31
-   quadEM, 30
-   ip, 28
+   ip, 25
    delaygen, 21
    ip330, 20
    lua, 18
-   ipac, 17
    Dante, 10
+   ipac, 10
    busy, 8
    tpmac, 7
    softGlueZynq, 6
@@ -86,8 +86,8 @@ Repository Views (last 14 days)
    ipUnidig, 2
    dac128V, 2
    Yokogawa_DAS, 1
-   dxp, 1
    vac, 1
-   dxpSITORO, 1
    love, 0
    vme, 0
+   dxp, 0
+   dxpSITORO, 0
