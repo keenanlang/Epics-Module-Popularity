@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 644
-   calc, 190
-   autosave, 169
-   sscan, 166
-   std, 132
-   ipac, 123
-   iocStats, 122
-   busy, 120
-   modbus, 116
-   lua, 111
-   motor, 76
-   mrfioc2, 67
-   ip, 65
-   delaygen, 52
-   ecmc, 51
-   ipUnidig, 42
-   quadEM, 40
+   asyn, 610
+   calc, 188
+   autosave, 176
+   sscan, 170
+   std, 136
+   busy, 127
+   iocStats, 126
+   modbus, 123
+   ipac, 120
+   lua, 109
+   mrfioc2, 90
+   motor, 75
+   ip, 69
+   delaygen, 58
+   ecmc, 41
+   ipUnidig, 40
+   quadEM, 39
    xxx, 34
-   alive, 27
-   caputRecorder, 21
-   optics, 18
-   ip330, 14
-   mca, 13
-   measComp, 12
-   dxp, 11
-   camac, 11
-   softGlueZynq, 11
-   xspress3, 11
-   dac128V, 11
-   love, 10
-   vac, 10
-   dxpSITORO, 10
-   softGlue, 10
-   Yokogawa_DAS, 8
-   vme, 8
+   alive, 26
+   caputRecorder, 20
+   optics, 17
+   ip330, 13
+   mca, 12
+   measComp, 11
+   dxp, 10
+   camac, 10
+   softGlueZynq, 10
+   xspress3, 10
+   dac128V, 10
+   love, 9
+   vac, 9
+   dxpSITORO, 9
+   softGlue, 9
+   Yokogawa_DAS, 7
+   vme, 7
    tpmac, 1
    Dante, 1
 
@@ -54,39 +54,39 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 502
-   motor, 215
-   xspress3, 182
-   ecmc, 156
-   iocStats, 117
-   modbus, 116
-   xxx, 96
+   asyn, 317
+   xspress3, 254
+   motor, 194
+   modbus, 121
+   iocStats, 119
+   ecmc, 117
    measComp, 77
-   calc, 60
+   autosave, 65
+   calc, 58
+   xxx, 57
+   mrfioc2, 56
    mca, 50
-   alive, 49
-   mrfioc2, 46
-   autosave, 43
-   optics, 43
-   std, 40
+   alive, 46
+   std, 37
+   optics, 37
    caputRecorder, 30
+   quadEM, 30
    ipUnidig, 29
-   quadEM, 29
-   ip, 26
-   ip330, 21
-   delaygen, 21
-   sscan, 18
+   ip, 27
+   delaygen, 16
+   sscan, 14
+   busy, 12
    lua, 10
-   busy, 9
    tpmac, 9
    Dante, 7
    softGlue, 6
    softGlueZynq, 5
    ipac, 4
-   dac128V, 3
    vac, 2
+   ip330, 2
    dxp, 1
    camac, 1
+   dac128V, 1
    Yokogawa_DAS, 0
    love, 0
    vme, 0
