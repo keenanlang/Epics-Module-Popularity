@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 516
-   autosave, 387
-   busy, 284
-   calc, 269
-   iocStats, 234
-   modbus, 232
-   sscan, 223
-   motor, 211
-   ipac, 176
-   std, 149
-   lua, 86
+   asyn, 520
+   autosave, 399
+   calc, 295
+   busy, 272
+   iocStats, 247
+   modbus, 247
+   sscan, 234
+   motor, 201
+   ipac, 175
+   std, 168
+   lua, 109
    ip, 68
-   delaygen, 63
-   quadEM, 51
-   ipUnidig, 50
-   xxx, 34
-   ecmc, 33
-   alive, 21
-   caputRecorder, 20
-   ip330, 20
-   optics, 20
-   camac, 16
-   measComp, 16
-   love, 15
-   mca, 15
-   vac, 14
-   vme, 13
-   dxp, 9
-   dac128V, 9
-   Yokogawa_DAS, 8
-   softGlueZynq, 8
-   softGlue, 8
-   mrfioc2, 7
-   dxpSITORO, 7
-   xspress3, 4
+   delaygen, 61
+   quadEM, 54
+   ipUnidig, 53
+   xxx, 35
+   ecmc, 30
+   ip330, 23
+   alive, 23
+   caputRecorder, 22
+   optics, 22
+   mca, 20
+   camac, 18
+   measComp, 18
+   love, 16
+   vac, 15
+   vme, 14
+   dxp, 13
+   dac128V, 13
+   Yokogawa_DAS, 11
+   softGlueZynq, 11
+   dxpSITORO, 11
+   softGlue, 11
+   mrfioc2, 10
+   xspress3, 5
    tpmac, 3
    Dante, 1
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 297
-   asyn, 283
-   modbus, 134
-   ecmc, 122
-   autosave, 106
-   iocStats, 99
-   measComp, 69
+   asyn, 353
+   motor, 310
+   modbus, 175
+   autosave, 145
+   ecmc, 129
+   iocStats, 109
+   measComp, 70
    mca, 58
-   sscan, 54
-   xspress3, 44
-   mrfioc2, 43
-   std, 38
-   ip, 36
-   xxx, 26
-   ipac, 22
-   dxpSITORO, 21
+   ip, 51
+   std, 42
+   dxpSITORO, 41
+   mrfioc2, 39
+   xspress3, 39
+   sscan, 37
+   ipac, 33
+   calc, 26
+   xxx, 25
+   ipUnidig, 22
+   alive, 21
+   vme, 20
    vac, 19
-   alive, 18
-   calc, 17
-   ipUnidig, 14
    camac, 12
-   busy, 9
+   busy, 11
+   quadEM, 9
    tpmac, 8
-   optics, 8
-   quadEM, 8
+   optics, 7
    ip330, 5
+   softGlue, 5
    Dante, 4
-   softGlue, 4
+   dxp, 3
    softGlueZynq, 3
    lua, 3
    dac128V, 3
-   vme, 2
-   dxp, 2
-   Yokogawa_DAS, 1
    delaygen, 1
+   Yokogawa_DAS, 0
    love, 0
    caputRecorder, 0
