@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 1021
-   autosave, 341
-   calc, 316
-   iocStats, 248
-   sscan, 242
-   busy, 238
-   modbus, 228
-   motor, 194
-   std, 187
-   ipac, 180
-   lua, 177
-   quadEM, 108
-   ipUnidig, 105
-   delaygen, 93
-   caputRecorder, 71
-   mca, 68
-   mrfioc2, 65
-   xspress3, 65
-   camac, 63
-   ip, 62
-   dac128V, 55
-   xxx, 50
-   alive, 32
-   ip330, 30
-   optics, 28
-   measComp, 24
-   love, 21
-   vme, 21
-   vac, 21
-   dxp, 16
-   Yokogawa_DAS, 15
-   dxpSITORO, 15
-   softGlueZynq, 14
-   softGlue, 14
+   asyn, 1012
+   autosave, 335
+   calc, 309
+   sscan, 240
+   iocStats, 238
+   busy, 232
+   modbus, 229
+   motor, 195
+   std, 185
+   ipac, 185
+   lua, 176
+   ipUnidig, 108
+   quadEM, 103
+   delaygen, 85
+   caputRecorder, 74
+   camac, 67
+   mrfioc2, 66
+   mca, 66
+   xspress3, 66
+   dac128V, 62
+   ip, 61
+   xxx, 49
+   alive, 35
+   ip330, 33
+   optics, 31
+   love, 25
+   vme, 25
+   vac, 25
+   measComp, 22
+   softGlueZynq, 21
+   softGlue, 21
+   dxp, 15
+   Yokogawa_DAS, 14
+   dxpSITORO, 14
    ecmc, 12
    tpmac, 3
    Dante, 2
@@ -54,29 +54,29 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 394
-   motor, 260
-   modbus, 153
-   mrfioc2, 150
-   iocStats, 144
-   autosave, 103
-   ecmc, 88
-   alive, 58
-   xspress3, 55
+   asyn, 399
+   motor, 222
+   mrfioc2, 175
+   modbus, 151
+   iocStats, 141
+   autosave, 101
+   ecmc, 101
+   xspress3, 54
+   alive, 44
    vme, 43
+   quadEM, 40
    sscan, 38
    std, 35
-   quadEM, 35
-   calc, 27
+   calc, 25
    dxpSITORO, 25
    ipac, 24
-   ip, 23
+   dxp, 20
    busy, 20
-   xxx, 16
-   measComp, 13
+   ip, 18
+   xxx, 18
    camac, 11
+   measComp, 11
    lua, 10
-   dxp, 9
    ipUnidig, 9
    optics, 9
    mca, 7
@@ -86,8 +86,8 @@ Repository Views (last 14 days)
    vac, 2
    tpmac, 1
    delaygen, 1
-   Dante, 1
    Yokogawa_DAS, 0
    love, 0
    caputRecorder, 0
+   Dante, 0
    dac128V, 0
