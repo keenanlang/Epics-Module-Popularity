@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 1012
-   autosave, 335
-   calc, 309
-   sscan, 240
-   iocStats, 238
-   busy, 232
-   modbus, 229
-   motor, 195
-   std, 185
-   ipac, 185
-   lua, 176
-   ipUnidig, 108
-   quadEM, 103
-   delaygen, 85
-   caputRecorder, 74
-   camac, 67
+   asyn, 945
+   autosave, 300
+   calc, 277
+   busy, 233
+   sscan, 209
+   iocStats, 206
+   modbus, 200
+   motor, 192
+   ipac, 183
+   std, 155
+   lua, 150
+   ipUnidig, 106
+   quadEM, 101
+   delaygen, 93
+   caputRecorder, 72
+   ip, 71
+   xspress3, 67
    mrfioc2, 66
-   mca, 66
-   xspress3, 66
-   dac128V, 62
-   ip, 61
-   xxx, 49
-   alive, 35
-   ip330, 33
-   optics, 31
-   love, 25
-   vme, 25
-   vac, 25
-   measComp, 22
-   softGlueZynq, 21
-   softGlue, 21
-   dxp, 15
-   Yokogawa_DAS, 14
-   dxpSITORO, 14
-   ecmc, 12
+   camac, 65
+   mca, 64
+   dac128V, 60
+   alive, 52
+   xxx, 39
+   ip330, 31
+   optics, 29
+   love, 23
+   vme, 23
+   vac, 23
+   measComp, 20
+   softGlueZynq, 19
+   softGlue, 19
+   ecmc, 16
+   dxp, 13
+   Yokogawa_DAS, 12
+   dxpSITORO, 12
+   Dante, 4
    tpmac, 3
-   Dante, 2
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 399
-   motor, 222
-   mrfioc2, 175
-   modbus, 151
-   iocStats, 141
-   autosave, 101
-   ecmc, 101
-   xspress3, 54
-   alive, 44
-   vme, 43
-   quadEM, 40
-   sscan, 38
-   std, 35
-   calc, 25
+   asyn, 361
+   motor, 212
+   mrfioc2, 176
+   iocStats, 139
+   modbus, 139
+   autosave, 99
+   alive, 80
+   xspress3, 52
+   ecmc, 51
+   sscan, 43
+   vme, 41
+   quadEM, 41
+   std, 30
+   calc, 26
+   dxp, 25
    dxpSITORO, 25
    ipac, 24
-   dxp, 20
    busy, 20
+   xxx, 19
    ip, 18
-   xxx, 18
-   camac, 11
+   mca, 18
+   lua, 14
+   Dante, 12
+   ipUnidig, 11
    measComp, 11
-   lua, 10
-   ipUnidig, 9
-   optics, 9
-   mca, 7
-   ip330, 4
+   optics, 8
    softGlue, 4
    softGlueZynq, 3
-   vac, 2
+   ip330, 3
+   delaygen, 3
    tpmac, 1
-   delaygen, 1
    Yokogawa_DAS, 0
    love, 0
    caputRecorder, 0
-   Dante, 0
+   camac, 0
+   vac, 0
    dac128V, 0
