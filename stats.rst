@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 985
-   autosave, 343
-   busy, 308
-   calc, 248
-   ipac, 246
-   motor, 213
-   sscan, 188
-   iocStats, 182
-   modbus, 179
-   std, 133
-   lua, 121
-   ipUnidig, 102
-   delaygen, 101
-   quadEM, 97
-   ip, 78
-   caputRecorder, 68
-   mrfioc2, 67
+   asyn, 973
+   autosave, 326
+   busy, 302
+   calc, 234
+   ipac, 228
+   motor, 195
+   sscan, 186
+   iocStats, 179
+   modbus, 175
+   std, 131
+   delaygen, 110
+   lua, 109
+   ipUnidig, 96
+   quadEM, 91
+   ip, 84
    xspress3, 66
-   camac, 63
-   mca, 60
-   dac128V, 58
-   alive, 48
-   xxx, 35
-   ip330, 27
-   ecmc, 26
-   optics, 25
-   love, 22
-   vme, 22
-   vac, 22
-   softGlueZynq, 18
-   softGlue, 18
-   measComp, 16
-   dxp, 12
-   Yokogawa_DAS, 11
-   dxpSITORO, 11
+   mrfioc2, 65
+   caputRecorder, 63
+   camac, 60
+   dac128V, 55
+   mca, 54
+   alive, 43
+   xxx, 31
+   ecmc, 22
+   ip330, 21
+   optics, 20
+   love, 19
+   vme, 19
+   vac, 19
+   softGlueZynq, 15
+   softGlue, 15
+   measComp, 10
+   Yokogawa_DAS, 8
+   dxp, 8
+   dxpSITORO, 7
    Dante, 5
-   tpmac, 3
+   tpmac, 2
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 310
-   motor, 215
+   asyn, 271
+   motor, 211
    mrfioc2, 176
-   modbus, 138
-   iocStats, 116
-   alive, 96
-   xspress3, 64
-   ecmc, 53
-   autosave, 50
+   xspress3, 114
+   iocStats, 109
+   modbus, 103
+   alive, 100
    sscan, 44
+   ecmc, 44
    quadEM, 44
-   vme, 41
-   busy, 33
+   autosave, 41
+   dxp, 33
    mca, 32
-   dxp, 28
-   calc, 27
+   busy, 31
    std, 27
-   ipac, 23
-   xxx, 22
-   dxpSITORO, 20
-   ip, 18
-   measComp, 18
+   calc, 24
+   vme, 23
+   xxx, 23
+   ipac, 17
+   measComp, 17
    lua, 14
-   Dante, 12
-   ipUnidig, 11
+   Dante, 13
    optics, 8
-   softGlue, 4
+   ip, 4
    softGlueZynq, 3
    ip330, 3
    delaygen, 3
+   ipUnidig, 3
+   softGlue, 3
    tpmac, 1
+   vac, 1
    Yokogawa_DAS, 0
    love, 0
    caputRecorder, 0
    camac, 0
-   vac, 0
+   dxpSITORO, 0
    dac128V, 0
