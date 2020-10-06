@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 771
-   autosave, 307
-   busy, 287
-   calc, 205
-   ipac, 203
-   lua, 181
-   sscan, 178
-   modbus, 175
-   iocStats, 168
-   motor, 158
-   std, 141
-   delaygen, 120
-   ip, 100
-   ipUnidig, 89
-   quadEM, 70
+   asyn, 879
+   autosave, 390
+   busy, 362
+   ipac, 262
+   sscan, 210
+   calc, 190
+   motor, 183
+   std, 181
+   lua, 180
+   modbus, 171
+   iocStats, 152
+   ip, 137
+   delaygen, 124
+   ipUnidig, 79
    mrfioc2, 65
-   caputRecorder, 62
-   camac, 59
-   dac128V, 54
-   mca, 52
-   alive, 49
-   xspress3, 41
-   xxx, 37
-   ip330, 28
-   optics, 28
-   love, 27
-   vme, 27
-   vac, 27
-   ecmc, 24
+   vac, 62
+   quadEM, 62
+   caputRecorder, 52
+   camac, 49
+   alive, 47
+   dac128V, 45
+   mca, 42
+   vme, 37
+   optics, 37
+   xxx, 34
+   xspress3, 31
+   love, 30
+   ecmc, 28
+   ip330, 26
    softGlue, 22
    softGlueZynq, 21
-   measComp, 18
-   Yokogawa_DAS, 15
-   dxp, 15
-   dxpSITORO, 14
-   Dante, 4
+   measComp, 17
+   Yokogawa_DAS, 14
+   dxp, 13
+   dxpSITORO, 13
+   Dante, 3
    tpmac, 2
 
 
@@ -54,39 +54,39 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 296
-   motor, 217
-   mrfioc2, 175
-   xspress3, 151
-   modbus, 100
-   alive, 98
-   ecmc, 73
-   iocStats, 59
-   sscan, 45
-   autosave, 41
-   lua, 41
+   asyn, 299
+   mrfioc2, 176
+   motor, 173
+   xspress3, 137
+   alive, 100
+   modbus, 98
+   ecmc, 76
+   iocStats, 57
+   sscan, 51
+   lua, 39
    quadEM, 39
-   std, 38
    mca, 35
    dxp, 32
-   xxx, 27
-   busy, 26
-   ipac, 20
-   calc, 18
-   measComp, 14
+   std, 31
+   busy, 28
+   xxx, 28
+   measComp, 27
+   autosave, 24
+   ipac, 22
+   calc, 17
+   ip, 15
    Dante, 13
-   ip, 12
    optics, 9
-   delaygen, 5
+   delaygen, 7
+   ipUnidig, 6
    dac128V, 4
-   ipUnidig, 3
    ip330, 2
-   vme, 1
    tpmac, 1
    vac, 1
    softGlueZynq, 1
    Yokogawa_DAS, 0
    love, 0
+   vme, 0
    caputRecorder, 0
    camac, 0
    dxpSITORO, 0
