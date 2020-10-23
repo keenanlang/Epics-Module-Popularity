@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 336
-   autosave, 260
-   busy, 238
-   modbus, 172
-   calc, 170
-   iocStats, 158
-   sscan, 156
-   motor, 150
-   ipac, 146
-   delaygen, 108
-   std, 103
-   ip, 98
-   ipUnidig, 68
-   quadEM, 56
-   alive, 40
-   ecmc, 36
-   caputRecorder, 33
-   camac, 31
-   dac128V, 27
-   mca, 26
-   xxx, 25
-   ip330, 21
-   optics, 20
-   Yokogawa_DAS, 19
-   love, 19
-   dxp, 19
-   measComp, 19
-   vac, 18
-   softGlueZynq, 17
-   dxpSITORO, 17
-   vme, 16
-   softGlue, 16
+   asyn, 312
+   autosave, 247
+   busy, 225
+   modbus, 165
+   calc, 162
+   iocStats, 146
+   sscan, 143
+   motor, 141
+   ipac, 132
+   delaygen, 98
+   std, 97
+   ip, 95
+   ipUnidig, 59
+   quadEM, 47
+   alive, 41
+   ecmc, 40
+   caputRecorder, 28
+   xxx, 28
+   optics, 23
+   camac, 22
+   mca, 21
+   measComp, 21
+   ip330, 20
+   Yokogawa_DAS, 18
+   love, 18
+   dxp, 18
+   dac128V, 18
+   mrfioc2, 17
+   vac, 16
+   softGlueZynq, 16
+   dxpSITORO, 16
+   vme, 15
+   softGlue, 15
    lua, 14
-   xspress3, 13
-   mrfioc2, 6
-   tpmac, 3
-   Dante, 3
+   xspress3, 4
+   tpmac, 2
+   Dante, 2
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   modbus, 186
-   asyn, 182
-   motor, 128
-   xspress3, 105
-   autosave, 86
-   mrfioc2, 70
-   iocStats, 56
-   alive, 55
-   xxx, 53
+   modbus, 177
+   asyn, 176
+   motor, 135
+   xspress3, 112
+   autosave, 75
+   alive, 66
+   iocStats, 65
+   mrfioc2, 62
+   ecmc, 54
+   xxx, 52
    dxpSITORO, 41
-   ipac, 38
-   ecmc, 30
-   dxp, 27
+   ipac, 37
+   dxp, 28
+   quadEM, 28
    ip, 26
-   Dante, 19
+   Dante, 17
+   mca, 17
    delaygen, 16
-   lua, 14
+   measComp, 16
+   softGlueZynq, 15
+   lua, 15
    calc, 14
-   measComp, 14
-   quadEM, 14
-   softGlueZynq, 13
    sscan, 13
-   mca, 11
    ip330, 7
-   Yokogawa_DAS, 4
    ipUnidig, 4
    optics, 4
+   Yokogawa_DAS, 3
    camac, 3
    busy, 3
+   std, 2
    softGlue, 2
    dac128V, 2
    caputRecorder, 1
    tpmac, 1
-   vac, 1
-   std, 1
    love, 0
    vme, 0
+   vac, 0
