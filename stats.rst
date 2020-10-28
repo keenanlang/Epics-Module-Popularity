@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 262
-   autosave, 193
-   calc, 172
-   modbus, 172
-   busy, 171
-   iocStats, 153
-   sscan, 151
-   delaygen, 108
-   std, 108
-   ip, 104
-   motor, 100
-   ipac, 71
-   ipUnidig, 62
-   ecmc, 55
-   quadEM, 51
-   alive, 43
-   caputRecorder, 33
-   xxx, 29
-   camac, 27
-   mca, 25
-   optics, 24
-   dac128V, 23
-   measComp, 22
-   ip330, 21
-   Yokogawa_DAS, 19
-   love, 19
-   dxp, 19
-   vac, 17
-   softGlueZynq, 17
-   mrfioc2, 17
-   dxpSITORO, 17
-   vme, 16
-   softGlue, 16
-   lua, 13
-   xspress3, 10
+   asyn, 223
+   autosave, 178
+   calc, 167
+   busy, 156
+   iocStats, 149
+   sscan, 147
+   modbus, 134
+   std, 104
+   ip, 99
+   delaygen, 97
+   ipac, 69
+   motor, 66
+   ipUnidig, 60
+   ecmc, 54
+   quadEM, 49
+   alive, 41
+   caputRecorder, 30
+   xxx, 26
+   camac, 25
+   mca, 23
+   optics, 22
+   dac128V, 21
+   measComp, 20
+   ip330, 19
+   Yokogawa_DAS, 18
+   love, 17
+   dxp, 17
+   vac, 16
+   softGlueZynq, 16
+   mrfioc2, 16
+   vme, 15
+   dxpSITORO, 15
+   softGlue, 14
+   lua, 12
+   xspress3, 9
    Dante, 2
-   tpmac, 1
+   tpmac, 0
 
 
 
@@ -54,31 +54,30 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 205
-   modbus, 164
-   motor, 145
-   xspress3, 127
-   ecmc, 73
+   asyn, 236
+   motor, 133
+   xspress3, 118
+   modbus, 116
+   autosave, 114
+   ecmc, 74
+   mrfioc2, 72
    alive, 67
-   mrfioc2, 62
-   autosave, 59
-   iocStats, 59
-   xxx, 46
-   mca, 46
-   dxp, 44
-   dxpSITORO, 40
+   iocStats, 63
+   mca, 48
+   xxx, 47
+   dxpSITORO, 44
+   dxp, 38
    ipac, 32
-   ip, 26
-   quadEM, 24
-   calc, 19
-   tpmac, 18
-   lua, 17
+   ip, 28
+   quadEM, 22
+   tpmac, 19
+   lua, 18
+   calc, 18
    measComp, 16
-   delaygen, 14
    std, 14
    Dante, 13
    sscan, 11
-   softGlueZynq, 9
+   softGlueZynq, 7
    ip330, 7
    busy, 6
    vme, 5
@@ -91,3 +90,4 @@ Repository Views (last 14 days)
    dac128V, 2
    caputRecorder, 1
    love, 0
+   delaygen, 0
