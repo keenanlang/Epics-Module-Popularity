@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 237
-   autosave, 167
-   iocStats, 149
-   calc, 143
-   modbus, 135
-   sscan, 131
-   busy, 129
+   asyn, 216
+   autosave, 153
+   calc, 146
+   iocStats, 134
+   sscan, 133
+   busy, 132
+   modbus, 121
    std, 115
+   ip, 81
    delaygen, 81
-   ip, 80
-   ipac, 59
-   motor, 53
+   ipac, 57
+   motor, 54
    ecmc, 52
-   ipUnidig, 50
-   quadEM, 42
-   alive, 27
-   xxx, 24
-   mca, 23
-   caputRecorder, 21
-   camac, 20
-   dxp, 19
-   optics, 19
-   dac128V, 19
-   measComp, 16
-   vac, 15
+   ipUnidig, 49
+   quadEM, 45
+   alive, 28
+   xxx, 23
+   caputRecorder, 22
+   mca, 22
+   optics, 20
+   camac, 19
+   dxp, 18
+   dac128V, 18
+   measComp, 17
    lua, 15
-   softGlue, 15
-   ip330, 14
+   Yokogawa_DAS, 14
+   love, 14
+   vme, 14
+   vac, 14
+   softGlueZynq, 14
    mrfioc2, 14
-   Yokogawa_DAS, 13
-   love, 13
-   vme, 13
-   softGlueZynq, 13
-   dxpSITORO, 13
-   xspress3, 8
+   dxpSITORO, 14
+   softGlue, 14
+   ip330, 13
+   xspress3, 10
    Dante, 2
    tpmac, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 360
-   ecmc, 185
-   mca, 182
-   motor, 143
-   xspress3, 127
+   asyn, 392
+   ecmc, 186
+   mca, 181
+   motor, 161
    autosave, 109
+   xspress3, 105
    iocStats, 76
-   modbus, 66
    alive, 62
-   measComp, 57
-   calc, 41
-   dxp, 39
-   std, 31
-   xxx, 30
-   sscan, 29
+   modbus, 61
+   measComp, 53
+   dxp, 44
+   calc, 44
+   std, 32
+   sscan, 31
    lua, 27
-   quadEM, 26
+   quadEM, 27
+   xxx, 26
    tpmac, 22
-   mrfioc2, 22
-   busy, 14
-   Dante, 12
-   vme, 10
-   ipac, 10
-   optics, 9
-   Yokogawa_DAS, 8
-   softGlueZynq, 8
+   busy, 18
+   mrfioc2, 16
+   ipac, 14
+   vme, 11
+   softGlueZynq, 11
+   Dante, 11
+   optics, 10
+   Yokogawa_DAS, 7
    delaygen, 7
    dac128V, 7
-   camac, 5
+   ip, 5
+   ip330, 5
    dxpSITORO, 5
-   ip, 4
    vac, 4
-   ip330, 4
-   ipUnidig, 3
+   camac, 3
+   caputRecorder, 2
+   ipUnidig, 2
    softGlue, 2
    love, 1
-   caputRecorder, 1
