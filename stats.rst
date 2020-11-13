@@ -9,39 +9,39 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 249
-   autosave, 124
-   calc, 113
-   sscan, 104
-   iocStats, 97
-   modbus, 97
-   busy, 96
-   std, 83
-   motor, 72
-   ipac, 61
-   ip, 53
-   delaygen, 47
-   ipUnidig, 46
-   quadEM, 41
+   asyn, 243
+   autosave, 137
+   calc, 127
+   iocStats, 108
+   sscan, 102
+   modbus, 98
+   busy, 93
+   motor, 69
+   std, 67
+   ipac, 58
+   ip, 54
+   delaygen, 46
+   ipUnidig, 45
+   quadEM, 40
    ecmc, 25
-   dxp, 20
-   camac, 20
-   dac128V, 20
-   lua, 19
-   alive, 17
-   optics, 16
-   measComp, 16
-   caputRecorder, 15
-   xxx, 15
+   lua, 21
+   camac, 19
+   dac128V, 19
+   dxp, 18
+   alive, 16
    dxpSITORO, 15
-   love, 14
-   ip330, 13
-   mca, 13
-   softGlue, 13
-   vme, 12
-   vac, 12
-   softGlueZynq, 12
-   Yokogawa_DAS, 10
+   measComp, 15
+   caputRecorder, 14
+   xxx, 14
+   love, 13
+   optics, 13
+   ip330, 12
+   mca, 12
+   softGlue, 12
+   vme, 11
+   vac, 11
+   softGlueZynq, 11
+   Yokogawa_DAS, 9
    mrfioc2, 6
    Dante, 3
    xspress3, 3
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 329
-   modbus, 243
-   ecmc, 220
-   motor, 214
-   mca, 207
-   dxp, 150
-   measComp, 85
+   asyn, 267
+   modbus, 258
+   ecmc, 221
+   motor, 193
+   dxp, 172
+   mca, 155
+   measComp, 78
    alive, 65
-   sscan, 53
-   calc, 43
-   xspress3, 38
-   ip, 37
-   std, 32
-   autosave, 30
-   iocStats, 29
-   ipac, 29
+   xspress3, 54
+   sscan, 40
+   ip, 38
+   ipac, 30
    mrfioc2, 28
-   optics, 24
-   xxx, 22
-   lua, 19
+   calc, 27
+   std, 26
+   iocStats, 25
+   autosave, 20
+   optics, 20
    delaygen, 18
-   quadEM, 16
+   quadEM, 17
    busy, 15
-   Dante, 11
-   dac128V, 10
+   xxx, 14
+   ipUnidig, 9
    dxpSITORO, 9
-   vme, 8
-   ipUnidig, 6
-   softGlueZynq, 5
-   ip330, 5
+   softGlueZynq, 7
+   Dante, 7
+   lua, 6
    Yokogawa_DAS, 4
+   vme, 4
+   dac128V, 4
    caputRecorder, 3
    tpmac, 3
    vac, 3
+   ip330, 3
    love, 2
    softGlue, 2
    camac, 1
