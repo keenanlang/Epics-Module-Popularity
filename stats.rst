@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 267
-   autosave, 151
-   calc, 144
+   asyn, 301
+   autosave, 183
+   calc, 143
+   busy, 134
    iocStats, 127
-   sscan, 109
-   busy, 99
-   modbus, 98
-   motor, 76
-   ipac, 65
-   std, 64
-   ip, 53
-   delaygen, 44
-   ipUnidig, 44
-   quadEM, 37
-   lua, 23
-   ecmc, 23
-   optics, 16
-   dac128V, 16
-   camac, 14
-   dxp, 11
-   dxpSITORO, 11
-   alive, 11
-   measComp, 11
-   caputRecorder, 10
-   ip330, 10
-   love, 9
-   softGlueZynq, 9
-   xxx, 9
-   vme, 8
-   softGlue, 8
-   vac, 7
+   motor, 111
+   sscan, 105
+   ipac, 104
+   modbus, 94
+   std, 61
+   ip, 55
+   delaygen, 47
+   ipUnidig, 45
+   quadEM, 38
+   ecmc, 24
+   lua, 19
+   optics, 17
+   dac128V, 17
+   camac, 15
+   dxp, 12
+   dxpSITORO, 12
+   alive, 12
+   measComp, 12
+   caputRecorder, 11
+   ip330, 11
+   love, 10
+   softGlueZynq, 10
+   xxx, 10
+   vme, 9
+   softGlue, 9
+   vac, 8
+   mca, 8
+   Yokogawa_DAS, 7
    mrfioc2, 7
-   mca, 7
-   Yokogawa_DAS, 6
    xspress3, 4
-   Dante, 3
+   Dante, 2
    tpmac, 0
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   modbus, 315
-   asyn, 258
-   motor, 201
-   ecmc, 188
+   modbus, 308
+   asyn, 261
+   ecmc, 201
+   motor, 198
    dxp, 173
-   mca, 165
-   alive, 54
-   measComp, 54
-   xspress3, 48
-   ip, 37
-   sscan, 34
-   ipac, 31
+   mca, 158
+   xspress3, 50
+   measComp, 50
+   alive, 49
+   ip, 39
+   sscan, 31
+   iocStats, 31
    mrfioc2, 27
-   iocStats, 26
-   optics, 24
+   ipac, 25
    autosave, 23
-   calc, 20
-   std, 16
-   busy, 15
-   xxx, 15
-   quadEM, 15
-   delaygen, 12
-   ipUnidig, 9
-   dxpSITORO, 9
-   softGlueZynq, 7
-   lua, 6
-   vme, 5
-   dac128V, 4
-   caputRecorder, 3
-   tpmac, 3
-   ip330, 3
-   love, 2
-   vac, 2
-   Dante, 2
-   softGlue, 2
-   Yokogawa_DAS, 1
-   camac, 1
+   optics, 23
+   xxx, 14
+   std, 14
+   quadEM, 13
+   delaygen, 11
+   calc, 9
+   busy, 8
+   ipUnidig, 8
+   dxpSITORO, 8
+   softGlueZynq, 5
+   lua, 5
+   vme, 4
+   dac128V, 3
+   caputRecorder, 2
+   ip330, 2
+   love, 1
+   vac, 1
+   Dante, 1
+   Yokogawa_DAS, 0
+   camac, 0
+   tpmac, 0
+   softGlue, 0
