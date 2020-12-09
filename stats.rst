@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 389
-   autosave, 238
-   busy, 219
-   calc, 188
-   sscan, 160
-   ipac, 151
-   iocStats, 150
-   motor, 129
-   modbus, 118
-   ip, 100
-   ipUnidig, 79
-   std, 70
-   delaygen, 66
-   quadEM, 62
-   caputRecorder, 46
-   mca, 43
-   camac, 42
-   dac128V, 40
-   lua, 29
-   dxp, 28
-   alive, 28
-   vme, 27
-   xxx, 26
-   optics, 26
-   love, 25
-   vac, 25
-   ip330, 25
-   measComp, 24
-   xspress3, 22
-   Yokogawa_DAS, 21
-   softGlueZynq, 21
-   dxpSITORO, 21
-   softGlue, 21
-   ecmc, 14
-   Dante, 2
+   asyn, 396
+   autosave, 247
+   busy, 234
+   calc, 199
+   sscan, 168
+   iocStats, 159
+   ipac, 156
+   motor, 136
+   modbus, 131
+   ip, 110
+   ipUnidig, 86
+   std, 80
+   delaygen, 77
+   quadEM, 69
+   caputRecorder, 53
+   mca, 49
+   dac128V, 47
+   camac, 40
+   lua, 35
+   alive, 35
+   vme, 34
+   dxp, 34
+   optics, 34
+   xxx, 33
+   love, 32
+   ip330, 32
+   vac, 31
+   measComp, 30
+   softGlueZynq, 28
+   softGlue, 28
+   dxpSITORO, 27
+   Yokogawa_DAS, 24
+   xspress3, 20
+   ecmc, 12
    tpmac, 1
+   Dante, 1
    mrfioc2, 0
 
 
@@ -54,38 +54,38 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 493
-   asyn, 437
-   autosave, 99
-   modbus, 97
-   mca, 86
-   ecmc, 71
-   calc, 59
-   mrfioc2, 53
-   softGlueZynq, 50
-   iocStats, 47
-   optics, 47
-   xxx, 39
+   motor, 496
+   asyn, 399
+   modbus, 123
+   autosave, 89
+   mca, 68
+   ecmc, 65
+   calc, 60
+   xspress3, 56
+   softGlueZynq, 49
+   optics, 48
    vme, 38
-   xspress3, 38
-   std, 32
+   xxx, 38
+   mrfioc2, 35
+   std, 34
+   iocStats, 33
    measComp, 30
-   dxp, 28
    dac128V, 26
-   sscan, 24
+   dxp, 24
+   ipac, 22
+   lua, 21
    busy, 20
-   lua, 20
-   ipac, 15
+   sscan, 20
    ip330, 14
    softGlue, 13
    ipUnidig, 11
+   Dante, 9
    ip, 8
-   Dante, 8
    camac, 7
-   delaygen, 7
-   alive, 7
    quadEM, 7
-   tpmac, 4
+   alive, 6
+   delaygen, 5
+   tpmac, 2
    vac, 2
    dxpSITORO, 1
    Yokogawa_DAS, 0
