@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 396
-   autosave, 247
-   busy, 234
-   calc, 199
-   sscan, 168
-   iocStats, 159
-   ipac, 156
-   motor, 136
-   modbus, 131
-   ip, 110
-   ipUnidig, 86
-   std, 80
-   delaygen, 77
-   quadEM, 69
-   caputRecorder, 53
-   mca, 49
-   dac128V, 47
-   camac, 40
-   lua, 35
-   alive, 35
-   vme, 34
-   dxp, 34
-   optics, 34
-   xxx, 33
-   love, 32
-   ip330, 32
-   vac, 31
-   measComp, 30
-   softGlueZynq, 28
-   softGlue, 28
-   dxpSITORO, 27
-   Yokogawa_DAS, 24
-   xspress3, 20
-   ecmc, 12
-   tpmac, 1
-   Dante, 1
-   mrfioc2, 0
+   asyn, 360
+   autosave, 249
+   busy, 239
+   calc, 205
+   sscan, 175
+   iocStats, 157
+   ipac, 153
+   motor, 147
+   modbus, 135
+   ip, 98
+   ipUnidig, 96
+   std, 93
+   delaygen, 75
+   quadEM, 72
+   caputRecorder, 64
+   dac128V, 58
+   vme, 53
+   mca, 52
+   camac, 50
+   alive, 47
+   optics, 46
+   ip330, 43
+   xxx, 43
+   love, 42
+   vac, 41
+   lua, 39
+   softGlueZynq, 38
+   softGlue, 38
+   dxp, 37
+   measComp, 34
+   dxpSITORO, 30
+   Yokogawa_DAS, 25
+   xspress3, 21
+   ecmc, 13
+   tpmac, 3
+   mrfioc2, 3
+   Dante, 3
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 496
-   asyn, 399
-   modbus, 123
-   autosave, 89
-   mca, 68
-   ecmc, 65
-   calc, 60
-   xspress3, 56
-   softGlueZynq, 49
+   motor, 489
+   asyn, 284
+   modbus, 129
+   xspress3, 122
+   mca, 121
+   autosave, 85
+   ecmc, 66
+   calc, 62
    optics, 48
+   softGlueZynq, 47
    vme, 38
-   xxx, 38
-   mrfioc2, 35
-   std, 34
-   iocStats, 33
-   measComp, 30
-   dac128V, 26
-   dxp, 24
-   ipac, 22
+   std, 35
+   mrfioc2, 34
+   iocStats, 30
+   measComp, 27
+   dac128V, 27
+   ipac, 23
+   dxp, 22
+   xxx, 22
    lua, 21
    busy, 20
-   sscan, 20
+   sscan, 19
    ip330, 14
    softGlue, 13
    ipUnidig, 11
    Dante, 9
-   ip, 8
-   camac, 7
-   quadEM, 7
    alive, 6
+   camac, 5
    delaygen, 5
+   dxpSITORO, 5
+   quadEM, 5
+   ip, 3
+   vac, 3
    tpmac, 2
-   vac, 2
-   dxpSITORO, 1
    Yokogawa_DAS, 0
    love, 0
    caputRecorder, 0
