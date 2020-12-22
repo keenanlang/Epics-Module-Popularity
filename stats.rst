@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 367
-   calc, 192
-   std, 183
-   autosave, 182
-   busy, 169
-   sscan, 162
-   iocStats, 146
-   modbus, 138
-   ipac, 127
-   motor, 121
-   ipUnidig, 106
-   mrfioc2, 100
-   ip, 88
-   vme, 82
-   caputRecorder, 77
-   dac128V, 76
-   delaygen, 68
-   camac, 65
-   xxx, 65
-   alive, 65
-   quadEM, 64
-   optics, 62
-   softGlueZynq, 60
-   ip330, 60
-   love, 58
-   softGlue, 58
-   vac, 57
-   mca, 47
-   measComp, 38
-   dxp, 34
-   lua, 34
-   dxpSITORO, 27
-   xspress3, 25
-   Yokogawa_DAS, 22
-   ecmc, 9
+   asyn, 328
+   calc, 169
+   std, 166
+   autosave, 158
+   busy, 140
+   sscan, 139
+   iocStats, 123
+   modbus, 119
+   mrfioc2, 118
+   ipac, 107
+   motor, 105
+   ipUnidig, 90
+   ip, 84
+   vme, 84
+   alive, 67
+   xxx, 66
+   optics, 64
+   caputRecorder, 63
+   softGlueZynq, 62
+   ip330, 62
+   love, 61
+   dac128V, 61
+   softGlue, 60
+   quadEM, 60
+   vac, 59
+   delaygen, 52
+   camac, 51
+   measComp, 39
+   lua, 36
+   mca, 32
+   dxp, 29
+   dxpSITORO, 29
+   Yokogawa_DAS, 24
+   xspress3, 10
+   ecmc, 8
    Dante, 4
    tpmac, 2
 
@@ -54,36 +54,36 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 351
-   modbus, 298
-   motor, 265
-   xspress3, 132
-   mca, 108
-   calc, 67
-   busy, 60
-   ecmc, 57
-   iocStats, 49
-   xxx, 42
-   measComp, 36
-   softGlueZynq, 33
-   autosave, 32
+   asyn, 317
+   modbus, 294
+   motor, 243
+   xspress3, 137
+   mca, 112
+   mrfioc2, 97
+   ecmc, 76
+   calc, 66
+   iocStats, 53
+   xxx, 46
+   busy, 45
+   measComp, 39
    std, 31
-   mrfioc2, 30
+   autosave, 30
    ipac, 27
    Dante, 24
+   softGlueZynq, 23
    alive, 21
-   dxp, 19
    caputRecorder, 16
-   sscan, 16
-   softGlue, 15
-   quadEM, 14
+   quadEM, 15
+   sscan, 13
    optics, 12
    vme, 11
-   delaygen, 9
+   dxp, 10
+   delaygen, 10
    ip, 7
-   camac, 6
    dxpSITORO, 4
+   softGlue, 4
    Yokogawa_DAS, 3
+   camac, 3
    vac, 3
    dac128V, 2
    lua, 1
