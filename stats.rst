@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 245
-   mrfioc2, 153
-   calc, 143
-   autosave, 131
-   sscan, 115
-   std, 114
-   busy, 111
-   iocStats, 109
-   modbus, 101
-   motor, 93
-   ipac, 92
-   ipUnidig, 79
-   ip, 65
-   vme, 62
-   quadEM, 56
-   xxx, 55
-   alive, 54
-   ip330, 51
-   caputRecorder, 50
-   dac128V, 50
-   vac, 49
-   softGlueZynq, 49
-   optics, 49
-   love, 48
-   camac, 47
-   softGlue, 47
-   delaygen, 41
-   measComp, 34
-   lua, 30
-   mca, 29
-   Yokogawa_DAS, 25
-   dxp, 25
-   dxpSITORO, 25
-   xspress3, 15
+   mrfioc2, 150
+   asyn, 136
+   calc, 105
+   autosave, 99
+   iocStats, 88
+   sscan, 81
+   busy, 76
+   modbus, 71
+   motor, 66
+   ipac, 66
+   ipUnidig, 54
+   quadEM, 51
+   std, 40
+   ip, 34
+   delaygen, 33
+   xxx, 29
+   measComp, 27
+   alive, 26
+   ip330, 25
+   dac128V, 25
+   camac, 24
+   mca, 24
+   love, 23
+   vac, 23
+   lua, 23
+   optics, 23
+   Yokogawa_DAS, 22
+   dxp, 22
+   softGlue, 22
+   vme, 21
+   caputRecorder, 21
+   softGlueZynq, 21
+   dxpSITORO, 21
+   xspress3, 13
    ecmc, 6
-   Dante, 3
+   Dante, 2
    tpmac, 0
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 294
-   modbus, 249
-   motor, 193
-   mrfioc2, 103
-   iocStats, 94
-   ecmc, 87
-   calc, 70
-   xspress3, 59
+   modbus, 251
+   asyn, 233
+   motor, 157
+   mrfioc2, 123
+   iocStats, 78
+   ecmc, 77
+   calc, 64
+   xspress3, 56
    xxx, 46
-   busy, 45
-   mca, 42
-   measComp, 41
-   autosave, 36
-   Dante, 31
-   std, 28
-   softGlueZynq, 24
-   alive, 21
-   ipac, 19
-   caputRecorder, 16
-   quadEM, 15
-   sscan, 13
-   vme, 11
-   optics, 11
-   delaygen, 10
-   dxp, 9
-   dxpSITORO, 9
-   ip, 7
-   softGlue, 4
-   Yokogawa_DAS, 3
+   autosave, 40
+   Dante, 30
+   mca, 30
+   measComp, 26
+   softGlueZynq, 22
+   busy, 21
+   alive, 19
+   std, 19
+   caputRecorder, 17
+   ip, 16
+   dxpSITORO, 16
+   optics, 12
+   ipac, 11
+   quadEM, 10
+   sscan, 9
+   delaygen, 4
+   Yokogawa_DAS, 2
+   vme, 2
    vac, 2
-   ipUnidig, 1
+   softGlue, 2
+   dxp, 1
+   ip330, 1
    dac128V, 1
    love, 0
    camac, 0
    tpmac, 0
    lua, 0
-   ip330, 0
+   ipUnidig, 0
