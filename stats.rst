@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 130
-   mrfioc2, 127
-   calc, 100
-   autosave, 94
-   iocStats, 86
-   sscan, 76
-   busy, 72
-   modbus, 69
-   motor, 65
-   ipac, 64
-   ipUnidig, 56
-   quadEM, 53
-   std, 36
-   ip, 31
-   delaygen, 31
-   xxx, 30
-   measComp, 29
-   alive, 28
-   ip330, 26
-   mca, 26
-   dac128V, 26
-   camac, 25
-   love, 24
-   vac, 24
-   lua, 24
-   optics, 24
-   Yokogawa_DAS, 23
-   dxp, 23
-   caputRecorder, 23
-   softGlue, 23
-   vme, 22
-   softGlueZynq, 22
-   dxpSITORO, 22
-   xspress3, 15
+   asyn, 120
+   mrfioc2, 115
+   calc, 95
+   autosave, 87
+   iocStats, 79
+   sscan, 72
+   busy, 69
+   modbus, 66
+   motor, 63
+   ipac, 63
+   ipUnidig, 55
+   quadEM, 52
+   std, 34
+   delaygen, 29
+   ip, 28
+   xxx, 28
+   measComp, 27
+   ip330, 25
+   mca, 25
+   alive, 25
+   dac128V, 25
+   love, 23
+   camac, 23
+   vac, 23
+   lua, 23
+   optics, 23
+   Yokogawa_DAS, 22
+   dxp, 22
+   caputRecorder, 22
+   softGlue, 22
+   vme, 21
+   softGlueZynq, 21
+   dxpSITORO, 21
+   xspress3, 14
    ecmc, 6
    Dante, 5
    tpmac, 0
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 157
-   modbus, 156
+   mrfioc2, 166
    motor, 155
-   mrfioc2, 144
-   ecmc, 123
-   iocStats, 92
-   calc, 55
-   xspress3, 55
+   asyn, 145
+   ecmc, 141
+   modbus, 127
+   iocStats, 84
+   Dante, 80
+   xspress3, 63
+   calc, 53
    caputRecorder, 43
-   Dante, 39
-   autosave, 38
-   xxx, 38
-   mca, 29
-   softGlueZynq, 19
+   xxx, 34
+   autosave, 33
+   mca, 26
+   dxpSITORO, 24
    std, 18
-   dxpSITORO, 16
    measComp, 15
-   ip, 14
-   alive, 12
-   quadEM, 11
+   softGlueZynq, 14
+   ip, 12
    optics, 10
+   alive, 9
    ipac, 9
    busy, 7
    sscan, 6
+   dxp, 5
    delaygen, 5
+   quadEM, 4
+   lua, 3
    vme, 2
    vac, 2
-   dxp, 1
    tpmac, 1
    ip330, 1
    Yokogawa_DAS, 0
    love, 0
    camac, 0
-   lua, 0
    ipUnidig, 0
    softGlue, 0
    dac128V, 0
