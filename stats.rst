@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 319
-   autosave, 272
-   calc, 239
-   sscan, 203
-   busy, 188
-   modbus, 180
-   iocStats, 167
-   std, 134
+   asyn, 334
+   autosave, 277
+   calc, 247
+   sscan, 206
+   busy, 187
+   modbus, 181
+   iocStats, 166
    ip, 131
-   ipac, 114
-   mrfioc2, 110
-   motor, 90
-   delaygen, 90
-   alive, 83
-   ipUnidig, 76
-   caputRecorder, 74
-   lua, 73
-   xxx, 72
-   optics, 69
-   ip330, 58
-   quadEM, 58
-   dac128V, 55
-   love, 54
-   camac, 52
-   vac, 52
-   vme, 50
-   softGlueZynq, 50
-   mca, 50
-   softGlue, 50
-   measComp, 40
-   dxp, 38
-   dxpSITORO, 35
-   Yokogawa_DAS, 30
-   xspress3, 29
+   std, 131
+   ipac, 119
+   motor, 100
+   alive, 92
+   delaygen, 88
+   ipUnidig, 81
+   caputRecorder, 79
+   lua, 78
+   optics, 77
+   xxx, 76
+   quadEM, 66
+   ip330, 63
+   camac, 60
+   dac128V, 60
+   love, 59
+   vme, 56
+   vac, 56
+   softGlueZynq, 56
+   mca, 55
+   softGlue, 55
+   measComp, 45
+   dxp, 43
+   dxpSITORO, 43
+   mrfioc2, 38
+   Yokogawa_DAS, 35
+   xspress3, 35
    ecmc, 12
    tpmac, 2
    Dante, 0
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 263
-   motor, 202
-   modbus, 200
-   measComp, 146
-   mca, 126
-   mrfioc2, 123
-   autosave, 112
-   iocStats, 74
-   xxx, 59
-   ip, 51
-   calc, 41
+   asyn, 267
+   modbus, 247
+   motor, 195
+   measComp, 144
+   mca, 124
+   autosave, 113
+   mrfioc2, 107
+   iocStats, 77
+   xxx, 63
+   ip, 56
    vme, 38
-   ecmc, 34
-   std, 33
+   ecmc, 37
+   calc, 36
+   dxp, 35
+   std, 34
    xspress3, 29
    quadEM, 28
-   sscan, 27
-   tpmac, 24
-   optics, 22
+   tpmac, 26
+   optics, 23
+   sscan, 19
    ipac, 18
-   dxp, 17
-   busy, 14
+   busy, 15
    vac, 13
    softGlueZynq, 8
-   lua, 8
    alive, 8
    caputRecorder, 7
+   lua, 7
    delaygen, 4
-   dxpSITORO, 3
-   Dante, 2
+   Dante, 3
    dac128V, 2
    Yokogawa_DAS, 1
    camac, 1
    ip330, 1
    ipUnidig, 1
    love, 0
+   dxpSITORO, 0
    softGlue, 0
