@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 341
-   autosave, 284
-   calc, 252
-   sscan, 215
-   busy, 197
-   modbus, 192
-   iocStats, 178
-   std, 142
-   ip, 140
-   ipac, 130
-   motor, 114
-   alive, 104
-   caputRecorder, 93
-   lua, 91
-   optics, 91
-   xxx, 90
-   delaygen, 88
-   ipUnidig, 84
-   quadEM, 69
-   ip330, 66
-   love, 62
-   camac, 62
-   dac128V, 62
-   softGlueZynq, 60
-   vme, 59
-   vac, 59
-   mca, 58
-   softGlue, 58
-   measComp, 48
-   dxp, 46
-   dxpSITORO, 45
+   asyn, 360
+   autosave, 309
+   calc, 253
+   busy, 219
+   sscan, 219
+   modbus, 197
+   iocStats, 185
+   ipac, 146
+   std, 144
+   ip, 142
+   motor, 132
+   alive, 106
+   xxx, 99
+   caputRecorder, 97
+   lua, 94
+   optics, 94
+   delaygen, 87
+   ipUnidig, 85
+   quadEM, 70
+   ip330, 65
+   love, 61
+   camac, 61
+   dac128V, 61
+   vme, 58
+   vac, 58
+   softGlueZynq, 58
+   mca, 57
+   softGlue, 57
+   measComp, 47
+   dxp, 45
+   dxpSITORO, 44
    mrfioc2, 38
-   Yokogawa_DAS, 37
-   xspress3, 37
-   ecmc, 13
+   Yokogawa_DAS, 36
+   xspress3, 36
+   ecmc, 11
    tpmac, 2
    Dante, 1
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 260
-   modbus, 256
-   motor, 221
+   asyn, 271
+   modbus, 248
+   motor, 241
    measComp, 180
-   mca, 121
-   autosave, 108
-   mrfioc2, 105
-   xxx, 67
+   mca, 119
+   autosave, 105
+   mrfioc2, 104
+   xxx, 66
+   iocStats, 51
+   ecmc, 43
+   calc, 41
    vme, 40
-   calc, 40
-   iocStats, 38
-   ecmc, 37
    std, 34
    ip, 32
    xspress3, 30
    dxp, 28
    quadEM, 28
-   tpmac, 26
    optics, 23
+   tpmac, 22
    sscan, 17
    ipac, 16
-   busy, 13
+   alive, 15
    vac, 13
-   softGlueZynq, 9
-   alive, 9
+   busy, 12
+   delaygen, 10
    caputRecorder, 7
    lua, 7
-   delaygen, 4
+   dxpSITORO, 3
    Dante, 3
+   Yokogawa_DAS, 2
    camac, 2
-   Yokogawa_DAS, 1
+   softGlueZynq, 2
    ip330, 1
    ipUnidig, 1
    dac128V, 1
    love, 0
-   dxpSITORO, 0
    softGlue, 0
