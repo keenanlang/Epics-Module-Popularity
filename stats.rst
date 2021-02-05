@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 461
-   autosave, 360
-   busy, 282
-   calc, 248
-   ipac, 232
-   motor, 220
-   sscan, 211
-   modbus, 199
-   iocStats, 172
-   lua, 149
+   asyn, 474
+   autosave, 353
+   busy, 280
+   calc, 249
+   ipac, 235
+   motor, 226
+   sscan, 205
+   modbus, 196
+   lua, 174
+   iocStats, 171
    std, 143
    ip, 139
-   alive, 112
-   xxx, 105
-   caputRecorder, 102
-   optics, 99
-   ipUnidig, 95
+   alive, 117
+   xxx, 109
+   caputRecorder, 105
+   optics, 102
+   ipUnidig, 99
+   ip330, 74
+   camac, 71
    delaygen, 71
-   ip330, 70
-   camac, 67
-   love, 66
-   dac128V, 66
-   vac, 63
-   softGlueZynq, 63
-   quadEM, 63
-   vme, 62
-   softGlue, 62
-   mca, 46
-   mrfioc2, 38
-   measComp, 36
-   dxp, 33
-   dxpSITORO, 33
-   Yokogawa_DAS, 27
-   xspress3, 27
+   dac128V, 71
+   love, 69
+   vac, 67
+   softGlueZynq, 67
+   quadEM, 67
+   vme, 66
+   softGlue, 66
+   mca, 50
+   dxp, 41
+   measComp, 40
+   dxpSITORO, 38
+   Yokogawa_DAS, 31
+   xspress3, 31
+   mrfioc2, 20
    ecmc, 9
-   Dante, 2
+   Dante, 7
    tpmac, 1
 
 
@@ -54,37 +54,37 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 385
-   motor, 323
-   modbus, 207
-   measComp, 180
-   mca, 116
-   xxx, 111
-   mrfioc2, 99
-   autosave, 77
-   iocStats, 72
+   asyn, 368
+   motor, 322
+   modbus, 210
+   measComp, 156
+   xxx, 116
+   mca, 96
+   autosave, 85
+   mrfioc2, 78
+   calc, 77
+   iocStats, 70
+   lua, 68
    ecmc, 65
-   lua, 58
-   calc, 58
-   sscan, 40
-   std, 40
-   ip, 33
-   dxp, 31
-   delaygen, 30
-   Dante, 28
-   quadEM, 28
+   dxp, 53
+   sscan, 44
+   std, 37
+   ip, 36
+   delaygen, 29
+   Dante, 29
    xspress3, 26
-   optics, 22
+   alive, 18
+   ipac, 18
+   quadEM, 18
    tpmac, 17
-   ipac, 17
-   alive, 16
+   optics, 16
    vac, 14
-   busy, 7
-   vme, 5
-   Yokogawa_DAS, 4
-   softGlueZynq, 4
+   softGlueZynq, 13
+   busy, 11
+   Yokogawa_DAS, 7
+   caputRecorder, 7
+   vme, 4
    dxpSITORO, 4
-   caputRecorder, 3
    camac, 3
    ipUnidig, 3
    ip330, 2
