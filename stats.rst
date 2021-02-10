@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 716
-   autosave, 341
-   busy, 273
-   ipac, 238
-   calc, 228
+   asyn, 707
+   autosave, 339
+   busy, 266
+   ipac, 234
    motor, 227
-   sscan, 182
-   modbus, 181
-   lua, 147
-   iocStats, 142
-   ip, 132
-   std, 128
-   alive, 115
-   xxx, 111
-   caputRecorder, 105
-   ipUnidig, 104
-   optics, 104
-   ip330, 79
-   dac128V, 76
-   camac, 75
-   love, 74
-   vac, 74
-   vme, 73
-   softGlueZynq, 72
-   softGlue, 72
-   quadEM, 57
-   delaygen, 52
-   dxp, 30
-   dxpSITORO, 27
-   mca, 27
-   measComp, 27
-   Yokogawa_DAS, 22
-   mrfioc2, 20
-   xspress3, 20
-   ecmc, 8
+   calc, 219
+   sscan, 176
+   modbus, 173
+   lua, 142
+   iocStats, 133
+   ip, 126
+   std, 122
+   alive, 109
+   xxx, 105
+   ipUnidig, 103
+   caputRecorder, 100
+   optics, 99
+   dac128V, 75
+   ip330, 74
+   love, 73
+   vme, 72
+   camac, 72
+   vac, 71
+   softGlueZynq, 71
+   softGlue, 71
+   quadEM, 54
+   delaygen, 50
+   dxp, 29
+   dxpSITORO, 26
+   mca, 26
+   measComp, 26
+   Yokogawa_DAS, 21
+   mrfioc2, 19
+   xspress3, 19
    Dante, 7
+   ecmc, 6
    tpmac, 0
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 428
-   motor, 372
-   modbus, 175
-   xxx, 147
-   measComp, 125
-   autosave, 75
+   asyn, 427
+   motor, 383
+   modbus, 172
+   xxx, 138
+   measComp, 106
    calc, 74
-   iocStats, 70
+   autosave, 73
    lua, 68
-   mrfioc2, 65
    dxp, 64
-   mca, 63
-   ecmc, 60
+   ecmc, 62
+   iocStats, 56
+   mrfioc2, 43
    sscan, 41
+   mca, 36
    delaygen, 30
    Dante, 29
-   ip, 25
-   xspress3, 25
-   alive, 24
+   xspress3, 23
    std, 21
+   alive, 20
+   ip, 18
    ipac, 16
    optics, 16
-   vac, 14
    softGlueZynq, 13
    busy, 12
    tpmac, 9
    Yokogawa_DAS, 7
-   caputRecorder, 7
-   quadEM, 5
-   vme, 4
+   vme, 6
+   caputRecorder, 5
+   camac, 4
    dxpSITORO, 4
-   camac, 3
+   quadEM, 4
    ipUnidig, 3
    dac128V, 3
+   vac, 2
+   ip330, 2
    love, 1
-   ip330, 1
    softGlue, 1
