@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 707
-   autosave, 339
-   busy, 266
-   ipac, 234
-   motor, 227
-   calc, 219
-   sscan, 176
-   modbus, 173
-   lua, 142
-   iocStats, 133
-   ip, 126
-   std, 122
-   alive, 109
-   xxx, 105
-   ipUnidig, 103
-   caputRecorder, 100
-   optics, 99
-   dac128V, 75
-   ip330, 74
-   love, 73
-   vme, 72
-   camac, 72
-   vac, 71
-   softGlueZynq, 71
-   softGlue, 71
-   quadEM, 54
-   delaygen, 50
-   dxp, 29
-   dxpSITORO, 26
-   mca, 26
-   measComp, 26
-   Yokogawa_DAS, 21
-   mrfioc2, 19
-   xspress3, 19
-   Dante, 7
-   ecmc, 6
+   asyn, 705
+   autosave, 342
+   busy, 264
+   ipac, 231
+   motor, 224
+   calc, 214
+   sscan, 168
+   modbus, 168
+   lua, 140
+   iocStats, 132
+   ip, 124
+   std, 120
+   alive, 106
+   xxx, 101
+   ipUnidig, 100
+   caputRecorder, 97
+   optics, 96
+   dac128V, 73
+   ip330, 71
+   love, 70
+   vme, 69
+   camac, 69
+   softGlueZynq, 69
+   softGlue, 69
+   vac, 68
+   quadEM, 51
+   delaygen, 48
+   dxp, 27
+   dxpSITORO, 24
+   mca, 24
+   measComp, 24
+   mrfioc2, 20
+   Yokogawa_DAS, 19
+   xspress3, 18
+   Dante, 8
+   ecmc, 4
    tpmac, 0
 
 
@@ -54,39 +54,39 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 427
-   motor, 383
-   modbus, 172
-   xxx, 138
-   measComp, 106
-   calc, 74
-   autosave, 73
-   lua, 68
-   dxp, 64
-   ecmc, 62
-   iocStats, 56
-   mrfioc2, 43
-   sscan, 41
-   mca, 36
-   delaygen, 30
+   asyn, 449
+   motor, 361
+   modbus, 177
+   xxx, 152
+   measComp, 105
+   calc, 79
+   autosave, 77
+   ecmc, 76
+   lua, 66
+   dxp, 61
+   iocStats, 57
+   mrfioc2, 41
+   sscan, 33
+   delaygen, 29
    Dante, 29
    xspress3, 23
-   std, 21
+   mca, 20
    alive, 20
+   std, 20
    ip, 18
-   ipac, 16
-   optics, 16
+   dac128V, 16
+   ipac, 14
+   optics, 14
    softGlueZynq, 13
    busy, 12
    tpmac, 9
    Yokogawa_DAS, 7
    vme, 6
    caputRecorder, 5
-   camac, 4
    dxpSITORO, 4
-   quadEM, 4
+   camac, 3
    ipUnidig, 3
-   dac128V, 3
+   quadEM, 3
    vac, 2
    ip330, 2
    love, 1
