@@ -9,33 +9,33 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 727
-   autosave, 315
-   busy, 237
-   ipac, 210
-   motor, 199
-   calc, 179
-   lua, 159
-   modbus, 144
-   sscan, 139
-   iocStats, 122
-   ip, 103
-   std, 100
+   asyn, 695
+   autosave, 286
+   busy, 207
+   lua, 201
+   ipac, 183
+   calc, 175
+   motor, 171
+   modbus, 141
+   sscan, 137
+   iocStats, 117
+   ip, 100
+   std, 97
    ipUnidig, 88
-   xxx, 84
-   alive, 77
-   caputRecorder, 72
-   optics, 72
+   xxx, 74
+   alive, 73
+   optics, 68
+   caputRecorder, 67
    dac128V, 59
    ip330, 58
-   vme, 55
    love, 54
+   vme, 54
    vac, 54
    softGlueZynq, 54
    softGlue, 54
    camac, 52
-   quadEM, 47
-   delaygen, 43
+   quadEM, 48
+   delaygen, 44
    measComp, 23
    dxp, 20
    mca, 19
@@ -43,8 +43,8 @@ Repository Clonings (last 14 days)
    xspress3, 13
    Yokogawa_DAS, 12
    Dante, 8
+   ecmc, 7
    mrfioc2, 5
-   ecmc, 3
    tpmac, 1
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 498
-   motor, 331
-   xxx, 174
-   mca, 146
-   modbus, 143
-   lua, 127
-   ecmc, 93
-   mrfioc2, 90
-   std, 89
-   iocStats, 79
-   autosave, 78
-   sscan, 73
-   calc, 68
+   asyn, 526
+   motor, 352
+   mca, 179
+   xxx, 173
+   lua, 152
+   modbus, 135
+   mrfioc2, 97
+   std, 96
+   ecmc, 90
+   iocStats, 88
+   calc, 84
+   autosave, 81
+   sscan, 79
    dxp, 54
+   ipac, 49
+   alive, 45
    Dante, 33
-   alive, 33
-   delaygen, 28
-   ipac, 20
-   optics, 20
-   softGlueZynq, 17
+   delaygen, 27
+   measComp, 25
+   optics, 21
+   softGlueZynq, 18
+   busy, 17
+   dac128V, 17
    xspress3, 16
-   dac128V, 15
-   measComp, 14
-   ip, 13
-   busy, 11
+   ip, 14
+   dxpSITORO, 10
    Yokogawa_DAS, 7
    tpmac, 7
-   dxpSITORO, 7
-   vme, 5
-   caputRecorder, 5
-   quadEM, 3
-   camac, 2
-   vac, 2
-   ip330, 2
-   ipUnidig, 2
-   softGlue, 2
-   love, 1
+   vme, 6
+   caputRecorder, 6
+   softGlue, 4
+   quadEM, 4
+   camac, 3
+   vac, 3
+   ip330, 3
+   ipUnidig, 3
+   love, 2
