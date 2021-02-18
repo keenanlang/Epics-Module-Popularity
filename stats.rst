@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 605
-   autosave, 203
-   lua, 171
-   calc, 157
-   busy, 132
-   modbus, 123
-   sscan, 122
-   ipac, 122
-   iocStats, 113
-   ip, 98
-   motor, 92
-   std, 78
+   asyn, 565
+   autosave, 184
+   calc, 151
+   lua, 130
+   busy, 117
+   sscan, 117
+   modbus, 117
+   iocStats, 109
+   ipac, 109
+   ip, 107
+   motor, 93
    ipUnidig, 73
-   xxx, 57
-   alive, 57
-   optics, 52
-   caputRecorder, 51
+   std, 73
+   xxx, 56
+   alive, 54
+   caputRecorder, 50
+   optics, 50
    quadEM, 50
    ip330, 44
    dac128V, 44
-   delaygen, 43
-   love, 40
-   vme, 40
-   vac, 40
-   softGlueZynq, 40
-   softGlue, 40
-   camac, 38
+   love, 41
+   vme, 41
+   vac, 41
+   softGlueZynq, 41
+   delaygen, 41
+   softGlue, 41
+   camac, 39
    measComp, 25
    dxp, 22
    mca, 21
    dxpSITORO, 19
-   xspress3, 16
-   Yokogawa_DAS, 14
-   Dante, 8
-   ecmc, 7
+   Yokogawa_DAS, 15
+   xspress3, 14
+   ecmc, 8
+   Dante, 6
    mrfioc2, 5
    tpmac, 1
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 449
-   motor, 338
-   mca, 177
-   xxx, 152
-   modbus, 143
-   lua, 124
-   mrfioc2, 103
-   std, 95
-   ecmc, 95
-   calc, 81
-   autosave, 78
-   sscan, 77
-   iocStats, 72
-   dxp, 54
-   ipac, 51
-   alive, 49
+   asyn, 427
+   motor, 310
+   mca, 272
+   modbus, 148
+   xxx, 127
+   lua, 104
+   mrfioc2, 101
+   std, 90
+   ecmc, 81
+   calc, 74
+   autosave, 72
+   iocStats, 70
+   sscan, 57
+   dxp, 53
+   alive, 48
+   ipac, 48
+   ip, 43
    measComp, 37
-   ip, 33
-   tpmac, 30
-   Dante, 23
-   xspress3, 22
-   optics, 21
-   busy, 18
+   tpmac, 36
+   xspress3, 25
    dac128V, 18
+   busy, 17
    softGlueZynq, 17
+   optics, 11
    dxpSITORO, 10
-   delaygen, 7
+   delaygen, 8
+   Dante, 6
    Yokogawa_DAS, 5
    caputRecorder, 5
    vme, 4
-   ipUnidig, 3
    softGlue, 3
    quadEM, 3
+   love, 2
    camac, 2
    vac, 2
    ip330, 2
-   love, 1
+   ipUnidig, 1
