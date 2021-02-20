@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 567
-   autosave, 197
-   calc, 157
-   busy, 128
-   sscan, 126
-   modbus, 125
-   ip, 118
-   iocStats, 117
-   lua, 112
-   ipac, 107
-   motor, 91
-   std, 85
-   ipUnidig, 73
-   xxx, 57
+   asyn, 587
+   autosave, 204
+   calc, 163
+   ip, 151
+   busy, 135
+   sscan, 134
+   modbus, 133
+   lua, 125
+   iocStats, 115
+   ipac, 114
+   motor, 98
+   std, 92
+   ipUnidig, 81
+   xxx, 64
+   alive, 61
+   caputRecorder, 58
+   optics, 57
    delaygen, 55
-   alive, 54
-   caputRecorder, 51
-   optics, 50
+   ip330, 52
+   dac128V, 52
    quadEM, 50
-   dac128V, 45
-   ip330, 44
-   love, 41
-   vme, 41
-   vac, 41
-   softGlueZynq, 41
-   softGlue, 41
-   camac, 40
-   measComp, 25
-   mca, 21
-   dxp, 20
-   dxpSITORO, 18
-   Yokogawa_DAS, 14
-   xspress3, 13
-   ecmc, 8
+   love, 49
+   vme, 49
+   vac, 49
+   camac, 48
+   softGlueZynq, 48
+   softGlue, 48
+   measComp, 24
+   mca, 20
+   dxp, 19
+   dxpSITORO, 17
+   ecmc, 16
+   Yokogawa_DAS, 13
+   xspress3, 12
    mrfioc2, 5
-   Dante, 4
+   Dante, 5
    tpmac, 1
 
 
@@ -54,38 +54,38 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 446
-   motor, 311
-   mca, 295
-   modbus, 152
-   mrfioc2, 122
-   lua, 121
-   xxx, 121
-   iocStats, 94
-   ecmc, 92
+   asyn, 440
+   mca, 340
+   motor, 295
+   modbus, 154
+   ecmc, 141
+   lua, 138
+   xxx, 113
+   mrfioc2, 106
+   iocStats, 95
    std, 90
-   sscan, 68
-   calc, 67
+   sscan, 69
+   calc, 66
    ipac, 54
+   alive, 52
    autosave, 50
-   xspress3, 48
    delaygen, 47
-   alive, 44
-   measComp, 44
+   xspress3, 47
+   measComp, 45
    tpmac, 38
    ip, 32
-   dxp, 31
+   dxp, 18
    busy, 18
    dac128V, 18
-   softGlueZynq, 12
+   Yokogawa_DAS, 12
+   Dante, 12
+   softGlueZynq, 11
    optics, 11
    dxpSITORO, 10
    caputRecorder, 9
-   Yokogawa_DAS, 8
-   Dante, 5
+   softGlue, 6
    vme, 4
-   softGlue, 3
-   quadEM, 3
+   quadEM, 4
    love, 2
    camac, 2
    vac, 2
