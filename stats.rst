@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 292
-   autosave, 193
-   calc, 149
-   ip, 143
-   lua, 127
-   iocStats, 126
-   busy, 124
-   sscan, 124
-   modbus, 120
-   ipac, 89
-   motor, 83
-   std, 83
-   ipUnidig, 70
-   delaygen, 67
-   quadEM, 53
-   xxx, 48
-   alive, 44
-   caputRecorder, 41
-   ip330, 40
-   optics, 40
-   dac128V, 39
-   vme, 37
-   vac, 37
-   love, 36
-   camac, 36
-   softGlueZynq, 35
-   softGlue, 35
-   measComp, 27
-   mca, 24
-   dxp, 22
-   dxpSITORO, 20
-   ecmc, 18
-   Yokogawa_DAS, 17
-   xspress3, 16
+   asyn, 300
+   autosave, 203
+   lua, 163
+   calc, 157
+   ip, 149
+   iocStats, 136
+   busy, 133
+   sscan, 130
+   modbus, 124
+   ipac, 92
+   std, 89
+   motor, 86
+   ipUnidig, 74
+   delaygen, 73
+   quadEM, 58
+   xxx, 52
+   alive, 48
+   caputRecorder, 45
+   ip330, 44
+   optics, 44
+   dac128V, 43
+   vme, 41
+   vac, 41
+   love, 40
+   camac, 40
+   softGlueZynq, 39
+   softGlue, 39
+   measComp, 31
+   mca, 29
+   dxp, 26
+   dxpSITORO, 24
+   Yokogawa_DAS, 21
+   xspress3, 20
+   ecmc, 20
    Dante, 6
    mrfioc2, 5
    tpmac, 1
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 394
+   asyn, 411
    mca, 343
-   motor, 209
-   modbus, 166
-   lua, 158
-   ecmc, 154
-   delaygen, 128
-   mrfioc2, 115
-   iocStats, 85
-   std, 80
-   sscan, 66
+   motor, 216
+   lua, 198
+   ecmc, 187
+   modbus, 169
+   delaygen, 132
+   mrfioc2, 114
+   std, 98
+   iocStats, 89
+   ipac, 86
+   sscan, 85
    xxx, 62
-   calc, 60
-   ipac, 60
+   calc, 57
    alive, 51
    measComp, 48
    xspress3, 47
    tpmac, 37
    ip, 34
+   busy, 31
    autosave, 24
-   dxp, 19
-   dac128V, 18
+   ipUnidig, 22
+   dxp, 20
+   dxpSITORO, 20
+   dac128V, 19
    Yokogawa_DAS, 17
-   busy, 15
    Dante, 12
    softGlueZynq, 11
-   dxpSITORO, 11
    optics, 10
    caputRecorder, 9
    softGlue, 6
-   vme, 4
-   quadEM, 4
+   quadEM, 5
    love, 2
-   camac, 2
+   vme, 2
    ip330, 2
+   camac, 1
    vac, 1
-   ipUnidig, 1
