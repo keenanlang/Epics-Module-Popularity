@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 300
-   autosave, 203
-   lua, 163
+   asyn, 292
+   autosave, 219
+   lua, 170
+   busy, 158
    calc, 157
-   ip, 149
-   iocStats, 136
-   busy, 133
-   sscan, 130
-   modbus, 124
-   ipac, 92
-   std, 89
-   motor, 86
-   ipUnidig, 74
-   delaygen, 73
-   quadEM, 58
-   xxx, 52
-   alive, 48
-   caputRecorder, 45
-   ip330, 44
-   optics, 44
-   dac128V, 43
-   vme, 41
-   vac, 41
-   love, 40
-   camac, 40
-   softGlueZynq, 39
-   softGlue, 39
-   measComp, 31
-   mca, 29
-   dxp, 26
-   dxpSITORO, 24
-   Yokogawa_DAS, 21
-   xspress3, 20
-   ecmc, 20
-   Dante, 6
+   ip, 153
+   iocStats, 139
+   sscan, 132
+   modbus, 128
+   ipac, 115
+   std, 93
+   motor, 91
+   ipUnidig, 79
+   delaygen, 77
+   quadEM, 63
+   xxx, 57
+   alive, 53
+   caputRecorder, 50
+   ip330, 49
+   optics, 49
+   dac128V, 48
+   love, 46
+   vme, 46
+   vac, 46
+   camac, 45
+   softGlueZynq, 44
+   softGlue, 44
+   measComp, 36
+   mca, 34
+   dxp, 31
+   dxpSITORO, 29
+   Yokogawa_DAS, 26
+   xspress3, 23
+   ecmc, 21
    mrfioc2, 5
+   Dante, 5
    tpmac, 1
 
 
@@ -54,38 +54,38 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 411
-   mca, 343
-   motor, 216
-   lua, 198
-   ecmc, 187
-   modbus, 169
+   asyn, 384
+   mca, 346
+   motor, 214
+   lua, 204
+   ecmc, 167
+   modbus, 144
    delaygen, 132
-   mrfioc2, 114
-   std, 98
-   iocStats, 89
-   ipac, 86
+   mrfioc2, 123
+   std, 101
+   iocStats, 92
+   ipac, 88
    sscan, 85
-   xxx, 62
-   calc, 57
    alive, 51
-   measComp, 48
-   xspress3, 47
+   calc, 50
+   xspress3, 50
+   measComp, 49
+   xxx, 48
    tpmac, 37
    ip, 34
-   busy, 31
-   autosave, 24
+   busy, 30
+   autosave, 23
    ipUnidig, 22
-   dxp, 20
+   dxp, 21
    dxpSITORO, 20
-   dac128V, 19
    Yokogawa_DAS, 17
+   softGlueZynq, 12
    Dante, 12
-   softGlueZynq, 11
-   optics, 10
+   optics, 11
    caputRecorder, 9
+   quadEM, 7
    softGlue, 6
-   quadEM, 5
+   dac128V, 6
    love, 2
    vme, 2
    ip330, 2
