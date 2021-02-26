@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 292
-   autosave, 219
-   lua, 170
-   busy, 158
-   calc, 157
-   ip, 153
-   iocStats, 139
-   sscan, 132
-   modbus, 128
-   ipac, 115
-   std, 93
-   motor, 91
-   ipUnidig, 79
-   delaygen, 77
-   quadEM, 63
-   xxx, 57
-   alive, 53
-   caputRecorder, 50
-   ip330, 49
-   optics, 49
-   dac128V, 48
-   love, 46
-   vme, 46
-   vac, 46
-   camac, 45
-   softGlueZynq, 44
-   softGlue, 44
-   measComp, 36
-   mca, 34
-   dxp, 31
-   dxpSITORO, 29
-   Yokogawa_DAS, 26
-   xspress3, 23
+   asyn, 264
+   autosave, 212
+   lua, 169
+   busy, 151
+   calc, 149
+   ip, 144
+   iocStats, 138
+   sscan, 122
+   modbus, 115
+   ipac, 104
+   std, 83
+   motor, 80
+   delaygen, 76
+   ipUnidig, 68
+   quadEM, 60
+   xxx, 43
+   alive, 42
+   caputRecorder, 40
+   ip330, 39
+   optics, 39
+   dac128V, 38
+   love, 37
+   vme, 37
+   vac, 37
+   camac, 36
+   softGlueZynq, 35
+   softGlue, 35
+   measComp, 33
+   mca, 32
+   dxp, 30
+   dxpSITORO, 28
+   Yokogawa_DAS, 25
+   xspress3, 22
    ecmc, 21
-   mrfioc2, 5
    Dante, 5
-   tpmac, 1
+   mrfioc2, 3
+   tpmac, 0
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 384
-   mca, 346
-   motor, 214
-   lua, 204
-   ecmc, 167
-   modbus, 144
+   asyn, 415
+   mca, 350
+   motor, 216
+   modbus, 185
+   lua, 184
+   ecmc, 147
    delaygen, 132
-   mrfioc2, 123
-   std, 101
-   iocStats, 92
-   ipac, 88
-   sscan, 85
-   alive, 51
-   calc, 50
+   mrfioc2, 105
+   std, 103
+   iocStats, 100
+   calc, 98
+   ipac, 92
+   sscan, 76
    xspress3, 50
-   measComp, 49
-   xxx, 48
+   alive, 48
+   measComp, 48
    tpmac, 37
-   ip, 34
-   busy, 30
-   autosave, 23
+   ip, 36
+   busy, 34
+   dxpSITORO, 28
+   autosave, 24
+   Yokogawa_DAS, 23
    ipUnidig, 22
-   dxp, 21
-   dxpSITORO, 20
-   Yokogawa_DAS, 17
-   softGlueZynq, 12
-   Dante, 12
+   xxx, 16
+   softGlueZynq, 13
+   dxp, 11
    optics, 11
    caputRecorder, 9
-   quadEM, 7
+   quadEM, 8
+   Dante, 7
    softGlue, 6
    dac128V, 6
+   vac, 3
    love, 2
-   vme, 2
    ip330, 2
+   vme, 1
    camac, 1
-   vac, 1
