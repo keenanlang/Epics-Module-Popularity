@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 352
-   autosave, 285
-   busy, 204
-   calc, 190
-   iocStats, 170
-   ip, 166
-   sscan, 153
-   ipac, 148
-   modbus, 146
-   motor, 126
-   std, 115
-   lua, 114
-   delaygen, 84
-   ipUnidig, 77
-   quadEM, 63
-   alive, 51
-   caputRecorder, 47
-   camac, 46
-   xxx, 46
-   love, 43
-   vme, 43
-   vac, 43
-   ip330, 43
-   optics, 43
-   dac128V, 43
-   softGlue, 40
-   softGlueZynq, 39
-   dxp, 34
-   dxpSITORO, 33
-   mca, 33
-   measComp, 32
-   Yokogawa_DAS, 30
-   xspress3, 24
-   mrfioc2, 22
-   ecmc, 20
+   asyn, 348
+   autosave, 293
+   busy, 216
+   calc, 197
+   iocStats, 181
+   sscan, 164
+   ip, 163
+   modbus, 158
+   ipac, 143
+   motor, 130
+   std, 128
+   lua, 122
+   delaygen, 98
+   ipUnidig, 84
+   quadEM, 70
+   alive, 60
+   caputRecorder, 54
+   camac, 54
+   xxx, 53
+   dac128V, 51
+   love, 50
+   vme, 50
+   vac, 50
+   ip330, 50
+   optics, 50
+   softGlue, 47
+   softGlueZynq, 46
+   dxp, 41
+   mca, 41
+   dxpSITORO, 40
+   measComp, 39
+   Yokogawa_DAS, 37
+   mrfioc2, 28
+   xspress3, 28
+   ecmc, 28
    Dante, 5
    tpmac, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 344
-   modbus, 226
-   mca, 193
-   xspress3, 171
-   motor, 158
+   asyn, 372
+   modbus, 242
+   mca, 209
+   xspress3, 168
+   mrfioc2, 155
    ecmc, 152
-   mrfioc2, 137
    delaygen, 134
-   lua, 128
-   measComp, 90
-   calc, 80
-   ipac, 75
-   iocStats, 70
-   alive, 54
-   sscan, 52
-   ip, 41
-   tpmac, 37
-   autosave, 35
-   busy, 34
+   motor, 127
+   lua, 127
+   calc, 79
+   measComp, 77
+   ipac, 72
+   iocStats, 69
+   sscan, 59
+   alive, 50
+   autosave, 34
+   busy, 32
    Yokogawa_DAS, 30
    std, 30
    dxpSITORO, 29
    xxx, 26
+   dxp, 22
+   ip, 21
    ipUnidig, 21
-   dxp, 9
+   softGlueZynq, 19
+   tpmac, 14
    caputRecorder, 8
-   softGlueZynq, 8
    Dante, 7
-   dac128V, 6
-   quadEM, 6
+   quadEM, 7
+   dac128V, 4
    softGlue, 3
    vac, 2
-   optics, 2
    love, 1
    ip330, 1
+   optics, 1
    vme, 0
    camac, 0
