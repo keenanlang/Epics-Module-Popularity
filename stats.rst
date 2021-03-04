@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 348
-   autosave, 293
-   busy, 216
-   calc, 197
-   iocStats, 181
-   sscan, 164
-   ip, 163
-   modbus, 158
-   ipac, 143
-   motor, 130
-   std, 128
-   lua, 122
-   delaygen, 98
+   asyn, 336
+   autosave, 288
+   busy, 209
+   calc, 196
+   iocStats, 178
+   sscan, 166
+   modbus, 154
+   ip, 146
+   ipac, 145
+   motor, 126
+   std, 126
+   lua, 119
+   delaygen, 94
    ipUnidig, 84
-   quadEM, 70
-   alive, 60
-   caputRecorder, 54
-   camac, 54
-   xxx, 53
-   dac128V, 51
+   quadEM, 71
+   alive, 57
+   camac, 53
+   caputRecorder, 52
+   xxx, 51
    love, 50
    vme, 50
-   vac, 50
    ip330, 50
-   optics, 50
+   vac, 49
+   optics, 49
+   dac128V, 48
    softGlue, 47
    softGlueZynq, 46
-   dxp, 41
-   mca, 41
-   dxpSITORO, 40
-   measComp, 39
-   Yokogawa_DAS, 37
-   mrfioc2, 28
+   mca, 42
+   measComp, 41
+   dxp, 38
+   dxpSITORO, 38
+   Yokogawa_DAS, 36
+   mrfioc2, 30
    xspress3, 28
-   ecmc, 28
+   ecmc, 25
    Dante, 5
    tpmac, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 372
-   modbus, 242
-   mca, 209
-   xspress3, 168
-   mrfioc2, 155
-   ecmc, 152
-   delaygen, 134
-   motor, 127
-   lua, 127
-   calc, 79
-   measComp, 77
-   ipac, 72
-   iocStats, 69
-   sscan, 59
+   asyn, 344
+   modbus, 234
+   mrfioc2, 189
+   xspress3, 175
+   ecmc, 148
+   delaygen, 133
+   lua, 128
+   mca, 116
+   motor, 110
+   measComp, 80
+   ipac, 69
+   sscan, 68
+   iocStats, 68
+   calc, 66
    alive, 50
-   autosave, 34
-   busy, 32
+   autosave, 37
+   std, 33
    Yokogawa_DAS, 30
-   std, 30
    dxpSITORO, 29
-   xxx, 26
-   dxp, 22
-   ip, 21
+   busy, 27
+   softGlueZynq, 26
+   xxx, 25
+   dxp, 23
    ipUnidig, 21
-   softGlueZynq, 19
-   tpmac, 14
+   Dante, 19
+   ip, 10
    caputRecorder, 8
-   Dante, 7
    quadEM, 7
+   optics, 4
    dac128V, 4
    softGlue, 3
+   tpmac, 2
    vac, 2
-   love, 1
    ip330, 1
-   optics, 1
+   love, 0
    vme, 0
    camac, 0
