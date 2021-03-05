@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 336
-   autosave, 288
-   busy, 209
-   calc, 196
-   iocStats, 178
-   sscan, 166
-   modbus, 154
-   ip, 146
-   ipac, 145
-   motor, 126
-   std, 126
-   lua, 119
-   delaygen, 94
-   ipUnidig, 84
-   quadEM, 71
-   alive, 57
-   camac, 53
-   caputRecorder, 52
-   xxx, 51
-   love, 50
-   vme, 50
-   ip330, 50
-   vac, 49
-   optics, 49
-   dac128V, 48
-   softGlue, 47
-   softGlueZynq, 46
-   mca, 42
-   measComp, 41
+   asyn, 321
+   autosave, 268
+   busy, 195
+   calc, 181
+   iocStats, 172
+   sscan, 154
+   modbus, 141
+   ipac, 140
+   lua, 123
+   motor, 118
+   std, 111
+   ip, 104
+   delaygen, 85
+   ipUnidig, 78
+   quadEM, 72
+   alive, 49
+   camac, 45
+   caputRecorder, 44
+   ip330, 44
+   mca, 44
+   love, 43
+   vme, 43
+   xxx, 43
+   vac, 42
+   optics, 42
+   measComp, 42
+   softGlue, 40
+   dac128V, 40
+   softGlueZynq, 39
+   dxpSITORO, 39
+   Yokogawa_DAS, 38
    dxp, 38
-   dxpSITORO, 38
-   Yokogawa_DAS, 36
-   mrfioc2, 30
-   xspress3, 28
-   ecmc, 25
-   Dante, 5
+   mrfioc2, 31
+   xspress3, 29
+   ecmc, 28
+   Dante, 3
    tpmac, 0
 
 
@@ -55,39 +55,39 @@ Repository Views (last 14 days)
    :header: Module, Views
 
    asyn, 344
-   modbus, 234
-   mrfioc2, 189
-   xspress3, 175
-   ecmc, 148
-   delaygen, 133
-   lua, 128
-   mca, 116
-   motor, 110
-   measComp, 80
-   ipac, 69
-   sscan, 68
-   iocStats, 68
+   modbus, 243
+   mrfioc2, 193
+   xspress3, 149
+   ecmc, 140
+   motor, 116
+   delaygen, 96
+   lua, 87
+   mca, 83
+   ipac, 74
+   measComp, 73
+   iocStats, 66
    calc, 66
+   sscan, 57
    alive, 50
+   Dante, 43
+   ip, 37
    autosave, 37
-   std, 33
-   Yokogawa_DAS, 30
+   std, 37
+   busy, 35
+   dxp, 29
+   xxx, 29
    dxpSITORO, 29
-   busy, 27
-   softGlueZynq, 26
-   xxx, 25
-   dxp, 23
+   Yokogawa_DAS, 24
+   softGlueZynq, 22
    ipUnidig, 21
-   Dante, 19
-   ip, 10
-   caputRecorder, 8
    quadEM, 7
-   optics, 4
+   optics, 6
    dac128V, 4
    softGlue, 3
-   tpmac, 2
    vac, 2
    ip330, 1
    love, 0
    vme, 0
+   caputRecorder, 0
    camac, 0
+   tpmac, 0
