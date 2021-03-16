@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 358
-   autosave, 267
-   calc, 243
-   busy, 220
-   sscan, 211
-   iocStats, 196
-   ip, 186
-   modbus, 185
-   std, 154
-   lua, 148
+   asyn, 347
+   autosave, 266
+   calc, 240
+   busy, 215
+   sscan, 209
+   iocStats, 194
+   ip, 181
+   modbus, 179
+   std, 150
+   lua, 145
    ipac, 132
-   motor, 109
-   delaygen, 104
-   caputRecorder, 98
-   ipUnidig, 92
-   mca, 87
-   alive, 76
-   mrfioc2, 74
-   measComp, 74
-   ip330, 72
-   xxx, 68
-   quadEM, 65
-   love, 53
-   camac, 53
-   vac, 52
-   optics, 51
-   softGlue, 51
-   softGlueZynq, 50
-   dac128V, 50
-   vme, 48
-   ecmc, 40
-   Yokogawa_DAS, 32
-   dxp, 32
-   dxpSITORO, 29
+   motor, 107
+   delaygen, 101
+   caputRecorder, 95
+   mca, 93
+   ipUnidig, 85
+   measComp, 76
+   alive, 71
+   ip330, 69
+   xxx, 65
+   quadEM, 63
+   mrfioc2, 53
+   love, 50
+   camac, 50
+   vac, 49
+   optics, 48
+   softGlue, 48
+   softGlueZynq, 47
+   dac128V, 47
+   vme, 45
+   ecmc, 39
+   Yokogawa_DAS, 29
+   dxp, 28
+   dxpSITORO, 26
    xspress3, 21
    tpmac, 8
-   Dante, 7
+   Dante, 6
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   modbus, 314
-   asyn, 291
-   mrfioc2, 261
-   motor, 216
-   ecmc, 139
-   iocStats, 127
-   measComp, 122
+   asyn, 294
+   modbus, 264
+   motor, 227
+   mrfioc2, 223
+   ecmc, 141
+   iocStats, 126
+   measComp, 115
    lua, 77
-   Dante, 63
-   mca, 63
-   ipac, 56
+   mca, 65
+   Dante, 64
+   ipac, 60
    calc, 52
-   alive, 46
-   xxx, 42
+   xxx, 40
    ip, 39
    sscan, 34
-   autosave, 32
+   caputRecorder, 32
    xspress3, 31
    dxp, 30
+   softGlueZynq, 22
    quadEM, 21
-   softGlueZynq, 20
-   caputRecorder, 19
+   alive, 20
+   autosave, 19
    std, 19
+   busy, 16
    delaygen, 16
-   busy, 15
-   Yokogawa_DAS, 8
    tpmac, 7
    vac, 7
    optics, 6
+   Yokogawa_DAS, 5
    love, 4
-   dxpSITORO, 4
-   vme, 2
-   dac128V, 2
+   vme, 4
    ipUnidig, 1
    camac, 0
    ip330, 0
+   dxpSITORO, 0
    softGlue, 0
+   dac128V, 0
