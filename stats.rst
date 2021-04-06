@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 321
-   autosave, 243
-   busy, 194
-   calc, 187
-   iocStats, 177
-   sscan, 164
-   ipac, 151
-   modbus, 129
-   motor, 111
-   ip, 85
-   std, 85
-   mca, 64
-   delaygen, 63
-   ipUnidig, 53
+   asyn, 304
+   autosave, 229
+   busy, 185
+   calc, 173
+   iocStats, 170
+   sscan, 152
+   ipac, 144
+   modbus, 125
+   motor, 110
+   ip, 79
+   std, 79
+   mca, 63
+   delaygen, 58
+   ipUnidig, 52
    quadEM, 50
-   xxx, 43
    alive, 42
-   lua, 38
-   ip330, 31
-   caputRecorder, 29
-   optics, 25
+   lua, 39
+   xxx, 39
+   ip330, 30
+   caputRecorder, 28
+   optics, 24
    camac, 20
-   vac, 18
-   dac128V, 17
-   Yokogawa_DAS, 16
+   dac128V, 18
+   Yokogawa_DAS, 17
+   dxp, 17
+   vac, 17
+   measComp, 17
    vme, 16
-   dxp, 16
+   softGlue, 16
    love, 15
-   softGlue, 15
-   measComp, 14
-   softGlueZynq, 13
-   xspress3, 13
-   dxpSITORO, 11
+   softGlueZynq, 14
+   xspress3, 14
+   dxpSITORO, 12
    Dante, 6
+   ecmc, 5
+   mrfioc2, 3
    tpmac, 2
-   mrfioc2, 2
-   ecmc, 2
 
 
 
@@ -55,39 +55,39 @@ Repository Views (last 14 days)
    :header: Module, Views
 
    modbus, 320
-   asyn, 214
-   autosave, 152
-   motor, 135
-   mrfioc2, 108
-   xspress3, 89
-   ecmc, 86
-   calc, 64
-   mca, 61
-   iocStats, 58
-   ip, 45
-   softGlueZynq, 44
-   xxx, 36
-   measComp, 36
+   asyn, 218
+   autosave, 154
+   motor, 133
+   mrfioc2, 93
+   xspress3, 88
+   ecmc, 84
+   iocStats, 62
+   calc, 61
+   mca, 53
+   ip, 40
+   measComp, 39
+   xxx, 38
+   sscan, 37
    delaygen, 35
-   sscan, 34
-   ipac, 34
+   ipac, 31
    ipUnidig, 26
-   dxp, 22
-   Dante, 21
+   dxp, 23
+   Dante, 19
    lua, 14
+   softGlueZynq, 13
    busy, 12
-   vac, 11
-   alive, 10
+   alive, 11
+   vac, 10
    std, 9
-   tpmac, 7
-   dxpSITORO, 7
-   quadEM, 5
+   tpmac, 6
+   quadEM, 6
    caputRecorder, 2
    love, 1
-   vme, 1
    camac, 1
    ip330, 1
    softGlue, 1
    Yokogawa_DAS, 0
+   vme, 0
+   dxpSITORO, 0
    optics, 0
    dac128V, 0
