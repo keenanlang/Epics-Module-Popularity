@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 308
-   autosave, 225
-   busy, 184
-   calc, 174
-   iocStats, 173
-   sscan, 154
-   ipac, 144
+   asyn, 324
+   autosave, 261
+   busy, 224
+   ipac, 179
+   calc, 164
+   iocStats, 152
+   motor, 150
+   sscan, 145
    modbus, 129
-   motor, 107
-   ip, 82
-   std, 82
-   mca, 65
-   delaygen, 54
-   ipUnidig, 48
-   alive, 47
-   quadEM, 46
+   ip, 84
+   std, 80
+   mca, 63
+   ipUnidig, 53
+   quadEM, 53
+   alive, 52
+   delaygen, 49
    lua, 44
-   xxx, 37
-   ip330, 31
-   caputRecorder, 28
-   optics, 23
-   camac, 16
+   xxx, 41
+   ip330, 35
+   caputRecorder, 30
+   optics, 30
+   camac, 17
+   vac, 17
+   measComp, 16
+   vme, 15
+   softGlue, 15
    dac128V, 15
+   love, 14
    dxp, 14
-   measComp, 14
    Yokogawa_DAS, 13
-   vac, 13
-   vme, 12
-   softGlue, 12
-   love, 11
-   softGlueZynq, 10
-   dxpSITORO, 9
-   xspress3, 9
-   ecmc, 8
-   Dante, 6
+   softGlueZynq, 12
+   xspress3, 12
+   ecmc, 11
+   dxpSITORO, 10
+   Dante, 10
+   tpmac, 6
    mrfioc2, 3
-   tpmac, 2
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 237
-   modbus, 208
-   autosave, 143
-   motor, 135
-   mrfioc2, 92
-   ecmc, 90
-   Dante, 66
-   iocStats, 63
-   calc, 56
+   asyn, 255
+   autosave, 147
+   modbus, 142
+   Dante, 125
+   motor, 119
+   mrfioc2, 74
+   ecmc, 72
+   iocStats, 64
+   calc, 59
    mca, 53
-   sscan, 42
+   sscan, 41
    ip, 40
    xxx, 40
    measComp, 40
    delaygen, 35
+   softGlueZynq, 33
    ipac, 30
    ipUnidig, 27
-   dxp, 23
-   xspress3, 19
+   optics, 25
+   dxp, 21
+   xspress3, 17
+   alive, 15
    busy, 12
-   alive, 11
-   vac, 10
-   std, 10
-   softGlueZynq, 9
+   vac, 12
+   quadEM, 10
    lua, 8
-   quadEM, 8
-   tpmac, 6
+   vme, 6
    camac, 3
+   tpmac, 3
    caputRecorder, 2
    love, 1
    ip330, 1
+   std, 1
    softGlue, 1
    Yokogawa_DAS, 0
-   vme, 0
    dxpSITORO, 0
-   optics, 0
    dac128V, 0
