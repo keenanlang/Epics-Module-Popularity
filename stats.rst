@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 283
-   autosave, 253
-   busy, 208
-   ipac, 166
-   calc, 148
-   motor, 141
-   iocStats, 137
-   sscan, 130
-   modbus, 116
-   ip, 70
-   std, 66
+   autosave, 321
+   asyn, 316
+   busy, 248
+   ipac, 198
+   motor, 170
+   calc, 158
+   sscan, 142
+   iocStats, 141
+   modbus, 120
+   ip, 74
+   std, 71
    mrfioc2, 57
-   mca, 54
-   ipUnidig, 51
-   quadEM, 51
-   delaygen, 45
+   mca, 57
+   ipUnidig, 53
+   quadEM, 53
+   delaygen, 49
    alive, 41
-   xxx, 36
-   lua, 34
-   ip330, 27
-   caputRecorder, 25
-   optics, 25
-   camac, 16
-   vac, 15
-   measComp, 15
-   vme, 14
+   xxx, 37
+   lua, 33
+   ip330, 29
+   caputRecorder, 26
+   optics, 26
+   camac, 17
+   vac, 16
+   measComp, 16
+   vme, 15
+   Dante, 15
+   love, 14
    softGlue, 14
    dac128V, 14
-   Yokogawa_DAS, 13
-   love, 13
+   dxp, 13
    ecmc, 13
-   dxp, 12
+   Yokogawa_DAS, 12
+   xspress3, 12
    softGlueZynq, 11
-   Dante, 11
-   xspress3, 11
    dxpSITORO, 9
    tpmac, 6
 
@@ -54,38 +54,38 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 229
-   modbus, 153
-   autosave, 142
-   Dante, 138
-   motor, 120
-   mrfioc2, 97
-   ecmc, 85
-   iocStats, 70
+   asyn, 238
+   Dante, 171
+   modbus, 136
+   motor, 119
+   mrfioc2, 114
+   autosave, 112
+   ecmc, 76
+   mca, 73
+   iocStats, 68
    calc, 63
-   mca, 54
+   optics, 55
+   sscan, 44
    ip, 41
-   measComp, 41
+   measComp, 40
    xxx, 39
-   sscan, 37
    delaygen, 35
    softGlueZynq, 33
-   ipac, 31
+   ipac, 30
    quadEM, 29
-   optics, 28
+   dxp, 27
    ipUnidig, 27
-   dxp, 24
-   xspress3, 18
+   xspress3, 21
    alive, 15
    busy, 12
    vac, 10
    vme, 6
    lua, 6
+   std, 4
    camac, 3
    tpmac, 3
    love, 1
    caputRecorder, 1
-   std, 1
    softGlue, 1
    Yokogawa_DAS, 0
    ip330, 0
