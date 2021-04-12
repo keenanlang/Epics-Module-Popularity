@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   autosave, 335
-   asyn, 330
-   busy, 263
-   ipac, 198
-   calc, 172
-   motor, 170
-   sscan, 157
-   iocStats, 140
-   modbus, 120
-   ip, 73
-   std, 71
+   autosave, 347
+   asyn, 341
+   busy, 275
+   ipac, 196
+   calc, 183
+   sscan, 169
+   motor, 165
+   iocStats, 132
+   modbus, 118
+   ip, 69
+   std, 65
    mrfioc2, 57
-   mca, 57
-   ipUnidig, 53
-   quadEM, 53
-   delaygen, 49
-   alive, 41
-   xxx, 36
-   lua, 33
-   ip330, 29
-   caputRecorder, 27
-   Dante, 27
-   optics, 26
-   camac, 17
-   vac, 16
-   measComp, 16
-   vme, 15
-   love, 14
-   softGlue, 14
-   dac128V, 14
-   dxp, 13
+   mca, 52
+   ipUnidig, 50
+   quadEM, 50
+   delaygen, 45
+   alive, 38
+   xxx, 32
+   lua, 29
+   Dante, 28
+   ip330, 26
+   caputRecorder, 23
+   optics, 23
+   camac, 13
+   vac, 13
+   measComp, 13
    ecmc, 13
-   Yokogawa_DAS, 12
-   softGlueZynq, 12
-   xspress3, 12
-   dxpSITORO, 9
+   vme, 12
+   love, 11
+   xspress3, 11
+   dac128V, 11
+   dxp, 10
+   softGlueZynq, 10
+   dxpSITORO, 10
+   softGlue, 10
+   Yokogawa_DAS, 9
    tpmac, 7
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 252
-   Dante, 190
-   modbus, 143
-   motor, 119
+   asyn, 292
+   Dante, 197
+   modbus, 149
+   motor, 120
    mrfioc2, 114
    calc, 80
-   ecmc, 73
-   mca, 71
-   iocStats, 69
+   iocStats, 71
+   mca, 70
+   ecmc, 66
    optics, 61
-   sscan, 53
    delaygen, 53
+   sscan, 49
    ip, 41
-   measComp, 41
    ipac, 40
+   measComp, 40
    xxx, 39
    dxp, 37
-   autosave, 36
-   softGlueZynq, 33
-   quadEM, 30
-   ipUnidig, 27
+   autosave, 35
+   softGlueZynq, 34
+   quadEM, 33
+   ipUnidig, 29
    xspress3, 21
+   alive, 17
    busy, 15
-   alive, 15
    vac, 11
    vme, 6
-   lua, 5
    std, 4
    camac, 3
    tpmac, 3
-   love, 1
+   lua, 2
    caputRecorder, 1
    softGlue, 1
    Yokogawa_DAS, 0
+   love, 0
    ip330, 0
    dxpSITORO, 0
    dac128V, 0
