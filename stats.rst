@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 437
-   autosave, 354
-   busy, 287
-   calc, 282
-   sscan, 241
-   iocStats, 169
-   modbus, 161
-   motor, 156
-   ipac, 153
+   asyn, 441
+   autosave, 351
+   busy, 290
+   calc, 285
+   sscan, 242
+   iocStats, 170
+   motor, 160
+   modbus, 158
+   ipac, 155
    std, 110
-   mrfioc2, 108
-   delaygen, 84
-   ip, 77
-   ipUnidig, 72
-   mca, 72
+   delaygen, 86
+   ip, 78
+   ipUnidig, 73
+   mca, 73
    quadEM, 70
-   Dante, 53
+   Dante, 65
+   mrfioc2, 55
    caputRecorder, 45
-   xspress3, 38
-   camac, 33
-   lua, 29
-   dac128V, 26
-   optics, 25
-   ip330, 24
-   xxx, 24
+   xspress3, 39
+   camac, 34
+   lua, 32
+   dac128V, 28
+   ip330, 26
+   optics, 26
+   xxx, 25
    alive, 24
-   love, 20
-   ecmc, 20
-   vme, 18
-   vac, 18
-   Yokogawa_DAS, 13
-   tpmac, 13
-   softGlueZynq, 12
-   dxp, 11
-   dxpSITORO, 11
-   measComp, 11
-   softGlue, 9
+   love, 22
+   vme, 20
+   vac, 20
+   ecmc, 17
+   Yokogawa_DAS, 14
+   tpmac, 14
+   softGlueZynq, 14
+   dxp, 12
+   dxpSITORO, 12
+   measComp, 12
+   softGlue, 10
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 343
-   motor, 328
-   Dante, 258
-   modbus, 197
-   ip, 119
-   mrfioc2, 105
-   xxx, 71
-   ecmc, 59
-   calc, 58
-   optics, 57
-   sscan, 56
+   motor, 351
+   asyn, 339
+   Dante, 259
+   modbus, 176
+   ip, 118
+   mrfioc2, 115
+   calc, 75
+   xxx, 73
+   sscan, 58
+   optics, 55
    mca, 48
+   iocStats, 47
+   ecmc, 47
    xspress3, 46
-   autosave, 40
+   alive, 44
+   measComp, 42
+   autosave, 41
    tpmac, 40
-   iocStats, 40
    ipac, 37
-   measComp, 36
-   alive, 32
-   quadEM, 31
+   softGlueZynq, 33
    dxp, 26
-   delaygen, 20
-   std, 12
-   softGlueZynq, 11
+   delaygen, 23
+   std, 16
+   quadEM, 12
    lua, 8
-   busy, 6
+   softGlue, 8
+   busy, 7
    vac, 6
    vme, 5
    ipUnidig, 5
+   dac128V, 5
    camac, 3
-   dac128V, 3
    love, 1
-   caputRecorder, 1
    ip330, 1
    dxpSITORO, 1
-   softGlue, 1
    Yokogawa_DAS, 0
+   caputRecorder, 0
