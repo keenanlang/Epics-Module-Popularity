@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 441
-   autosave, 351
-   busy, 290
-   calc, 285
-   sscan, 242
-   iocStats, 170
-   motor, 160
-   modbus, 158
-   ipac, 155
-   std, 110
-   delaygen, 86
-   ip, 78
-   ipUnidig, 73
-   mca, 73
-   quadEM, 70
-   Dante, 65
-   mrfioc2, 55
-   caputRecorder, 45
-   xspress3, 39
-   camac, 34
-   lua, 32
+   asyn, 409
+   autosave, 288
+   calc, 278
+   busy, 256
+   sscan, 235
+   iocStats, 165
+   modbus, 150
+   motor, 131
+   ipac, 130
+   std, 101
+   delaygen, 79
+   ip, 72
+   ipUnidig, 71
+   Dante, 68
+   quadEM, 68
+   mca, 67
+   mrfioc2, 56
+   caputRecorder, 43
+   xspress3, 40
+   camac, 33
+   lua, 31
    dac128V, 28
-   ip330, 26
-   optics, 26
-   xxx, 25
-   alive, 24
-   love, 22
-   vme, 20
-   vac, 20
-   ecmc, 17
-   Yokogawa_DAS, 14
-   tpmac, 14
-   softGlueZynq, 14
-   dxp, 12
-   dxpSITORO, 12
-   measComp, 12
-   softGlue, 10
+   ip330, 23
+   alive, 23
+   optics, 23
+   xxx, 22
+   love, 20
+   vme, 19
+   ecmc, 19
+   vac, 18
+   tpmac, 16
+   Yokogawa_DAS, 13
+   softGlueZynq, 13
+   dxpSITORO, 11
+   dxp, 10
+   measComp, 10
+   softGlue, 9
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 351
-   asyn, 339
-   Dante, 259
-   modbus, 176
-   ip, 118
-   mrfioc2, 115
-   calc, 75
-   xxx, 73
-   sscan, 58
-   optics, 55
-   mca, 48
-   iocStats, 47
-   ecmc, 47
-   xspress3, 46
-   alive, 44
+   motor, 348
+   asyn, 329
+   Dante, 232
+   modbus, 164
+   ip, 144
+   mrfioc2, 98
+   calc, 78
+   xxx, 74
+   iocStats, 49
+   ecmc, 48
+   sscan, 43
+   xspress3, 43
    measComp, 42
-   autosave, 41
+   alive, 41
+   ipac, 41
    tpmac, 40
-   ipac, 37
+   autosave, 36
    softGlueZynq, 33
-   dxp, 26
-   delaygen, 23
-   std, 16
-   quadEM, 12
-   lua, 8
+   mca, 29
+   optics, 28
+   dxp, 23
+   std, 23
+   quadEM, 20
+   delaygen, 11
+   busy, 10
+   lua, 9
    softGlue, 8
-   busy, 7
    vac, 6
    vme, 5
    ipUnidig, 5
    dac128V, 5
+   Yokogawa_DAS, 3
    camac, 3
    love, 1
    ip330, 1
    dxpSITORO, 1
-   Yokogawa_DAS, 0
    caputRecorder, 0
