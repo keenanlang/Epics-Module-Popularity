@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 1135
-   asyn, 524
-   autosave, 314
-   busy, 276
-   calc, 209
-   ipac, 192
-   sscan, 187
-   std, 145
-   motor, 96
-   ip, 91
-   delaygen, 80
-   modbus, 80
-   mca, 74
+   iocStats, 1015
+   asyn, 533
+   autosave, 337
+   busy, 285
+   calc, 225
+   sscan, 204
+   ipac, 197
+   std, 154
+   delaygen, 133
+   motor, 99
+   ip, 92
+   modbus, 81
+   mca, 75
    lua, 65
-   optics, 59
-   xxx, 55
-   caputRecorder, 52
-   mrfioc2, 48
-   vme, 46
-   alive, 46
-   quadEM, 45
-   camac, 44
-   ipUnidig, 44
-   love, 37
-   xspress3, 36
-   vac, 35
-   softGlueZynq, 35
-   ip330, 35
-   softGlue, 33
-   measComp, 33
-   dxp, 32
+   optics, 58
+   caputRecorder, 51
+   mrfioc2, 51
+   xxx, 51
+   camac, 46
+   quadEM, 46
+   ipUnidig, 45
+   alive, 45
+   vme, 44
+   xspress3, 37
+   love, 35
+   softGlueZynq, 33
+   vac, 32
+   ip330, 32
    dac128V, 32
-   dxpSITORO, 30
-   Yokogawa_DAS, 29
+   dxp, 31
+   softGlue, 31
+   measComp, 31
+   dxpSITORO, 28
+   Yokogawa_DAS, 26
    ecmc, 13
-   tpmac, 7
-   Dante, 5
+   tpmac, 9
+   Dante, 3
 
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 360
-   motor, 276
-   modbus, 125
-   xspress3, 101
-   mca, 88
-   ip, 82
-   ecmc, 73
-   quadEM, 72
-   optics, 68
-   calc, 63
-   delaygen, 63
-   dxp, 61
-   autosave, 58
-   sscan, 49
-   xxx, 48
+   asyn, 351
+   motor, 296
+   delaygen, 195
+   modbus, 132
+   xspress3, 102
+   ip, 85
+   autosave, 85
+   calc, 77
+   quadEM, 75
+   mca, 73
+   optics, 70
+   ecmc, 63
+   dxp, 55
+   sscan, 52
+   xxx, 49
    iocStats, 45
    measComp, 44
-   ipac, 41
-   mrfioc2, 36
+   ipac, 42
    softGlueZynq, 35
-   caputRecorder, 29
-   busy, 27
-   std, 26
-   Dante, 25
-   Yokogawa_DAS, 21
+   mrfioc2, 34
+   vme, 31
+   std, 31
+   busy, 30
+   caputRecorder, 27
+   Yokogawa_DAS, 22
+   Dante, 17
    dac128V, 14
-   softGlue, 12
-   vme, 11
-   alive, 11
+   camac, 12
+   alive, 12
    love, 10
-   camac, 10
-   vac, 4
+   tpmac, 6
+   vac, 3
    lua, 3
-   tpmac, 2
-   ip330, 1
+   ip330, 2
    ipUnidig, 1
    dxpSITORO, 1
+   softGlue, 0
