@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 717
-   asyn, 375
-   autosave, 357
-   busy, 297
-   calc, 232
-   ipac, 227
-   sscan, 215
-   std, 148
+   iocStats, 740
+   asyn, 392
+   autosave, 362
+   busy, 293
+   calc, 238
+   ipac, 232
+   sscan, 224
+   std, 138
    delaygen, 135
-   motor, 107
-   ip, 81
-   modbus, 69
-   mca, 62
-   lua, 51
-   ipUnidig, 48
-   optics, 48
-   quadEM, 48
-   vme, 45
-   camac, 45
-   mrfioc2, 45
-   alive, 45
-   caputRecorder, 42
-   xxx, 41
-   love, 36
-   softGlueZynq, 34
-   xspress3, 34
-   dxp, 33
-   vac, 33
-   ip330, 33
-   dac128V, 33
-   softGlue, 32
-   measComp, 32
-   dxpSITORO, 30
-   Yokogawa_DAS, 28
-   ecmc, 23
+   motor, 114
+   ip, 86
+   mca, 76
+   modbus, 75
+   vme, 47
+   ipUnidig, 47
+   quadEM, 47
+   lua, 45
+   optics, 45
+   mrfioc2, 43
+   alive, 43
+   camac, 42
+   caputRecorder, 39
+   xxx, 39
+   love, 33
+   xspress3, 33
+   dxp, 32
+   vac, 31
+   softGlueZynq, 31
+   ip330, 31
+   dac128V, 31
+   measComp, 30
+   dxpSITORO, 29
+   softGlue, 29
+   Yokogawa_DAS, 26
+   ecmc, 21
    tpmac, 7
    Dante, 1
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 309
-   asyn, 247
-   delaygen, 208
-   modbus, 141
-   autosave, 83
-   calc, 77
-   xspress3, 65
-   ip, 64
-   sscan, 59
-   ecmc, 51
-   iocStats, 48
-   xxx, 48
-   optics, 46
+   motor, 302
+   asyn, 244
+   delaygen, 197
+   modbus, 142
+   autosave, 79
+   sscan, 75
+   calc, 75
+   ecmc, 63
+   xspress3, 61
+   ip, 57
+   iocStats, 53
+   measComp, 48
+   xxx, 45
+   optics, 45
    mca, 44
-   measComp, 42
-   quadEM, 41
-   dxp, 37
+   quadEM, 42
    vme, 31
-   mrfioc2, 28
-   std, 24
-   softGlueZynq, 21
-   ipac, 21
-   Yokogawa_DAS, 20
-   busy, 15
+   mrfioc2, 30
+   dxp, 28
+   softGlueZynq, 28
+   std, 20
+   Yokogawa_DAS, 18
+   busy, 16
    dac128V, 14
+   vac, 13
+   ipac, 13
    tpmac, 12
-   vac, 12
    love, 10
    ip330, 9
-   camac, 8
+   lua, 8
    alive, 7
-   caputRecorder, 6
    Dante, 5
-   lua, 3
+   caputRecorder, 3
+   camac, 3
    softGlue, 3
    ipUnidig, 1
    dxpSITORO, 0
