@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 740
-   asyn, 392
-   autosave, 362
-   busy, 293
-   calc, 238
-   ipac, 232
-   sscan, 224
-   std, 138
-   delaygen, 135
+   iocStats, 761
+   asyn, 414
+   autosave, 392
+   busy, 308
+   calc, 255
+   sscan, 243
+   ipac, 238
+   std, 151
+   delaygen, 137
    motor, 114
-   ip, 86
-   mca, 76
-   modbus, 75
-   vme, 47
-   ipUnidig, 47
-   quadEM, 47
+   ip, 91
+   modbus, 81
+   mca, 80
+   vme, 49
+   quadEM, 49
+   ipUnidig, 48
+   optics, 46
    lua, 45
-   optics, 45
-   mrfioc2, 43
-   alive, 43
-   camac, 42
+   mrfioc2, 44
+   alive, 44
+   camac, 43
    caputRecorder, 39
    xxx, 39
-   love, 33
-   xspress3, 33
+   xspress3, 35
+   measComp, 33
+   love, 32
    dxp, 32
-   vac, 31
-   softGlueZynq, 31
-   ip330, 31
+   vac, 32
+   softGlueZynq, 32
+   ip330, 32
    dac128V, 31
-   measComp, 30
+   softGlue, 30
    dxpSITORO, 29
-   softGlue, 29
-   Yokogawa_DAS, 26
-   ecmc, 21
+   Yokogawa_DAS, 27
+   ecmc, 27
    tpmac, 7
    Dante, 1
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 302
-   asyn, 244
-   delaygen, 197
-   modbus, 142
-   autosave, 79
-   sscan, 75
-   calc, 75
-   ecmc, 63
-   xspress3, 61
-   ip, 57
-   iocStats, 53
-   measComp, 48
-   xxx, 45
-   optics, 45
-   mca, 44
-   quadEM, 42
+   motor, 288
+   asyn, 258
+   delaygen, 200
+   modbus, 153
+   busy, 94
+   autosave, 85
+   ecmc, 83
+   measComp, 72
+   calc, 71
+   sscan, 70
+   xspress3, 60
+   ip, 52
+   iocStats, 51
+   xxx, 47
+   mca, 45
+   optics, 38
+   dxp, 34
+   Dante, 34
    vme, 31
-   mrfioc2, 30
-   dxp, 28
-   softGlueZynq, 28
-   std, 20
+   quadEM, 31
+   softGlueZynq, 30
+   mrfioc2, 29
+   std, 27
    Yokogawa_DAS, 18
-   busy, 16
    dac128V, 14
+   camac, 13
    vac, 13
    ipac, 13
    tpmac, 12
    love, 10
    ip330, 9
-   lua, 8
+   lua, 7
    alive, 7
-   Dante, 5
-   caputRecorder, 3
-   camac, 3
+   caputRecorder, 4
    softGlue, 3
    ipUnidig, 1
    dxpSITORO, 0
