@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 761
-   asyn, 414
-   autosave, 392
-   busy, 308
-   calc, 255
-   sscan, 243
-   ipac, 238
-   std, 151
-   delaygen, 137
-   motor, 114
-   ip, 91
-   modbus, 81
-   mca, 80
-   vme, 49
-   quadEM, 49
-   ipUnidig, 48
-   optics, 46
-   lua, 45
-   mrfioc2, 44
-   alive, 44
-   camac, 43
-   caputRecorder, 39
-   xxx, 39
-   xspress3, 35
-   measComp, 33
-   love, 32
-   dxp, 32
-   vac, 32
-   softGlueZynq, 32
-   ip330, 32
-   dac128V, 31
-   softGlue, 30
-   dxpSITORO, 29
-   Yokogawa_DAS, 27
+   asyn, 608
+   iocStats, 481
+   autosave, 389
+   busy, 298
+   calc, 296
+   sscan, 277
+   ipac, 211
+   std, 180
+   delaygen, 134
+   motor, 112
+   modbus, 110
+   mca, 104
+   ip, 82
+   lua, 74
+   measComp, 56
+   mrfioc2, 47
+   ipUnidig, 46
+   quadEM, 46
+   optics, 44
+   alive, 42
+   camac, 40
+   vme, 37
+   caputRecorder, 36
+   xxx, 36
+   xspress3, 33
+   love, 30
+   dxp, 30
+   vac, 30
+   ip330, 30
+   softGlueZynq, 29
+   softGlue, 28
+   dac128V, 28
+   dxpSITORO, 27
    ecmc, 27
-   tpmac, 7
+   Yokogawa_DAS, 24
+   tpmac, 8
    Dante, 1
 
 
@@ -54,39 +54,39 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   motor, 288
-   asyn, 258
+   motor, 319
+   asyn, 309
    delaygen, 200
-   modbus, 153
+   modbus, 139
    busy, 94
-   autosave, 85
-   ecmc, 83
-   measComp, 72
-   calc, 71
+   ecmc, 82
+   calc, 72
+   mrfioc2, 72
    sscan, 70
-   xspress3, 60
-   ip, 52
+   measComp, 70
+   autosave, 68
+   xspress3, 62
    iocStats, 51
-   xxx, 47
-   mca, 45
+   mca, 46
+   dxp, 43
+   xxx, 43
    optics, 38
-   dxp, 34
+   ip, 37
    Dante, 34
-   vme, 31
-   quadEM, 31
-   softGlueZynq, 30
-   mrfioc2, 29
-   std, 27
-   Yokogawa_DAS, 18
-   dac128V, 14
+   softGlueZynq, 31
+   std, 31
+   lua, 30
+   quadEM, 29
+   vme, 26
    camac, 13
-   vac, 13
    ipac, 13
    tpmac, 12
+   vac, 12
+   Yokogawa_DAS, 10
    love, 10
    ip330, 9
-   lua, 7
-   alive, 7
+   alive, 8
+   dac128V, 5
    caputRecorder, 4
    softGlue, 3
    ipUnidig, 1
