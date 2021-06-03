@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 758
-   autosave, 352
-   calc, 289
-   iocStats, 283
-   busy, 267
-   sscan, 264
-   ipac, 188
-   std, 164
-   delaygen, 128
-   motor, 126
-   modbus, 117
-   mca, 99
-   ip, 75
-   lua, 67
-   mrfioc2, 61
-   measComp, 51
-   ipUnidig, 41
-   quadEM, 41
-   alive, 34
-   vme, 33
-   camac, 32
-   optics, 32
-   caputRecorder, 29
-   xxx, 27
-   love, 25
-   ip330, 25
-   vac, 24
-   xspress3, 24
-   dac128V, 23
-   dxp, 22
-   Yokogawa_DAS, 21
-   ecmc, 21
-   softGlueZynq, 20
-   dxpSITORO, 20
-   softGlue, 20
-   tpmac, 5
+   asyn, 805
+   autosave, 346
+   calc, 284
+   sscan, 261
+   iocStats, 261
+   busy, 247
+   std, 163
+   ipac, 160
+   delaygen, 117
+   modbus, 114
+   motor, 99
+   mca, 94
+   ip, 64
+   lua, 63
+   measComp, 49
+   mrfioc2, 41
+   ipUnidig, 36
+   quadEM, 36
+   alive, 30
+   vme, 29
+   camac, 26
+   caputRecorder, 25
+   optics, 25
+   xxx, 24
+   dac128V, 22
+   love, 21
+   vac, 21
+   ip330, 21
+   xspress3, 21
+   dxp, 20
+   Yokogawa_DAS, 19
+   softGlueZynq, 18
+   dxpSITORO, 18
+   softGlue, 18
+   ecmc, 18
+   tpmac, 3
    Dante, 0
 
 
@@ -54,39 +54,39 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 435
-   motor, 273
-   delaygen, 224
-   busy, 111
-   modbus, 109
-   ecmc, 85
-   mrfioc2, 81
-   autosave, 80
-   xspress3, 79
-   calc, 67
+   asyn, 429
+   motor, 299
+   delaygen, 203
+   busy, 133
+   modbus, 114
+   autosave, 84
+   sscan, 83
+   ecmc, 79
+   mrfioc2, 73
+   xspress3, 69
    measComp, 66
-   sscan, 62
-   iocStats, 58
-   xxx, 44
-   mca, 44
+   calc, 59
    dxpSITORO, 40
+   xxx, 39
+   mca, 34
+   dxp, 33
    lua, 33
-   Dante, 32
-   dxp, 31
+   iocStats, 33
    softGlueZynq, 31
-   std, 29
+   Dante, 31
    ipac, 29
-   ip, 23
-   quadEM, 23
+   std, 28
+   ip, 21
    vme, 20
-   optics, 16
    camac, 15
-   vac, 13
+   quadEM, 13
    tpmac, 12
+   vac, 12
+   optics, 12
    ip330, 8
-   dac128V, 6
+   Yokogawa_DAS, 5
    alive, 5
-   Yokogawa_DAS, 4
+   dac128V, 5
    caputRecorder, 4
    ipUnidig, 4
    softGlue, 3
