@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 805
-   autosave, 346
-   calc, 284
-   sscan, 261
-   iocStats, 261
-   busy, 247
-   std, 163
-   ipac, 160
-   delaygen, 117
-   modbus, 114
-   motor, 99
+   asyn, 847
+   autosave, 359
+   calc, 270
+   busy, 258
+   iocStats, 249
+   sscan, 247
+   ipac, 173
+   std, 154
+   motor, 121
+   modbus, 120
+   delaygen, 103
    mca, 94
-   ip, 64
-   lua, 63
-   measComp, 49
-   mrfioc2, 41
-   ipUnidig, 36
-   quadEM, 36
-   alive, 30
-   vme, 29
-   camac, 26
-   caputRecorder, 25
-   optics, 25
-   xxx, 24
-   dac128V, 22
-   love, 21
-   vac, 21
-   ip330, 21
-   xspress3, 21
-   dxp, 20
-   Yokogawa_DAS, 19
-   softGlueZynq, 18
-   dxpSITORO, 18
-   softGlue, 18
-   ecmc, 18
+   lua, 65
+   ip, 61
+   measComp, 52
+   quadEM, 40
+   ipUnidig, 39
+   mrfioc2, 33
+   vme, 32
+   alive, 29
+   camac, 28
+   caputRecorder, 27
+   optics, 27
+   xxx, 26
+   dac128V, 25
+   xspress3, 24
+   Yokogawa_DAS, 23
+   love, 23
+   dxp, 23
+   vac, 23
+   ip330, 23
+   dxpSITORO, 22
+   softGlueZynq, 21
+   softGlue, 21
+   ecmc, 17
    tpmac, 3
    Dante, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 429
-   motor, 299
-   delaygen, 203
+   asyn, 422
+   motor, 287
+   delaygen, 175
    busy, 133
-   modbus, 114
+   modbus, 104
+   xspress3, 99
    autosave, 84
-   sscan, 83
    ecmc, 79
-   mrfioc2, 73
-   xspress3, 69
-   measComp, 66
-   calc, 59
+   sscan, 75
+   mrfioc2, 61
+   measComp, 61
+   calc, 60
    dxpSITORO, 40
-   xxx, 39
-   mca, 34
-   dxp, 33
+   ipac, 40
+   dxp, 34
    lua, 33
-   iocStats, 33
    softGlueZynq, 31
-   Dante, 31
-   ipac, 29
+   Dante, 30
+   tpmac, 29
+   xxx, 29
+   mca, 29
    std, 28
-   ip, 21
+   iocStats, 26
+   ip, 25
    vme, 20
+   vac, 16
    camac, 15
    quadEM, 13
-   tpmac, 12
-   vac, 12
    optics, 12
    ip330, 8
-   Yokogawa_DAS, 5
-   alive, 5
+   Yokogawa_DAS, 6
    dac128V, 5
    caputRecorder, 4
    ipUnidig, 4
-   softGlue, 3
+   softGlue, 4
+   alive, 3
    love, 0
