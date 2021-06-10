@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 856
-   autosave, 377
-   calc, 298
-   iocStats, 296
-   busy, 287
-   sscan, 266
-   ipac, 179
-   std, 148
-   modbus, 103
-   motor, 98
-   mca, 74
-   lua, 54
-   alive, 51
-   measComp, 43
-   ip, 40
-   delaygen, 32
-   quadEM, 31
-   ipUnidig, 30
-   mrfioc2, 29
-   vme, 25
-   xxx, 20
-   caputRecorder, 19
-   vac, 16
-   ip330, 16
-   optics, 16
-   love, 15
-   camac, 15
-   Yokogawa_DAS, 14
-   dxpSITORO, 13
-   xspress3, 13
-   dac128V, 13
-   dxp, 12
-   softGlueZynq, 11
-   softGlue, 11
+   asyn, 873
+   autosave, 399
+   calc, 337
+   busy, 322
+   iocStats, 309
+   sscan, 303
+   ipac, 213
+   std, 160
+   modbus, 102
+   motor, 94
+   mca, 66
+   alive, 65
+   lua, 62
+   measComp, 50
+   ip, 46
+   ipUnidig, 44
+   quadEM, 41
+   delaygen, 40
+   vme, 35
+   xxx, 33
+   mrfioc2, 31
+   vac, 30
+   ip330, 30
+   caputRecorder, 29
+   love, 25
+   camac, 25
+   optics, 25
+   Yokogawa_DAS, 23
+   dxpSITORO, 22
+   dac128V, 22
+   softGlueZynq, 20
+   softGlue, 20
+   dxp, 18
+   xspress3, 17
    ecmc, 8
    Dante, 2
    tpmac, 1
@@ -54,38 +54,38 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 505
-   motor, 346
-   busy, 135
-   modbus, 118
-   ecmc, 99
-   mrfioc2, 86
-   sscan, 84
-   calc, 79
+   asyn, 611
+   motor, 359
+   modbus, 154
+   iocStats, 145
+   busy, 133
+   mrfioc2, 96
+   ecmc, 93
+   calc, 86
+   autosave, 66
    xspress3, 66
-   ipac, 60
-   autosave, 58
-   measComp, 55
-   iocStats, 50
+   ipac, 59
+   sscan, 57
+   measComp, 49
    dxpSITORO, 46
-   dxp, 36
-   lua, 34
-   softGlueZynq, 30
+   dxp, 35
    Dante, 29
    mca, 29
-   std, 29
    delaygen, 28
-   xxx, 28
+   std, 28
+   lua, 27
+   xxx, 25
    tpmac, 23
-   quadEM, 21
-   ip, 20
-   optics, 19
+   quadEM, 22
+   ip, 21
+   softGlueZynq, 21
    camac, 15
+   optics, 14
    Yokogawa_DAS, 8
-   vac, 7
+   vac, 6
    dac128V, 5
    ipUnidig, 4
-   caputRecorder, 3
+   caputRecorder, 2
    alive, 2
    ip330, 1
    softGlue, 1
