@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 652
-   autosave, 397
-   iocStats, 377
-   calc, 336
-   busy, 333
-   sscan, 307
-   ipac, 251
-   std, 188
-   motor, 108
-   alive, 90
-   ip, 86
-   modbus, 81
-   vme, 60
-   ipUnidig, 57
-   xxx, 53
-   delaygen, 43
-   quadEM, 43
+   asyn, 541
+   iocStats, 376
+   autosave, 374
+   calc, 333
+   busy, 309
+   sscan, 308
+   ipac, 234
+   std, 185
+   alive, 89
+   motor, 88
+   ip, 83
+   modbus, 80
+   vme, 58
+   ipUnidig, 58
+   xxx, 52
+   quadEM, 44
    caputRecorder, 42
-   vac, 42
-   ip330, 42
-   camac, 40
-   mca, 39
-   mrfioc2, 38
-   love, 37
-   optics, 37
-   softGlueZynq, 35
-   dac128V, 35
-   softGlue, 32
-   lua, 25
-   Yokogawa_DAS, 23
-   dxpSITORO, 22
-   measComp, 19
-   dxp, 18
-   xspress3, 17
-   ecmc, 3
-   Dante, 2
-   tpmac, 0
+   camac, 41
+   vac, 41
+   ip330, 41
+   delaygen, 39
+   optics, 39
+   love, 36
+   mca, 35
+   softGlueZynq, 34
+   dac128V, 34
+   softGlue, 31
+   lua, 24
+   Yokogawa_DAS, 22
+   dxpSITORO, 21
+   mrfioc2, 20
+   xspress3, 18
+   measComp, 18
+   dxp, 17
+   Dante, 5
+   tpmac, 2
+   ecmc, 2
 
 
 
@@ -54,38 +54,38 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 641
-   motor, 327
-   iocStats, 163
-   modbus, 162
-   calc, 106
-   xspress3, 97
+   asyn, 655
+   motor, 307
+   modbus, 180
+   iocStats, 167
+   calc, 105
+   xspress3, 90
+   ecmc, 85
    autosave, 83
-   ecmc, 79
-   mrfioc2, 70
+   sscan, 79
+   mrfioc2, 71
    ipac, 63
-   sscan, 61
-   busy, 58
-   dxpSITORO, 46
-   softGlueZynq, 40
-   xxx, 27
-   delaygen, 25
+   busy, 48
+   softGlueZynq, 41
+   xxx, 26
    mca, 25
+   measComp, 24
    tpmac, 23
    alive, 23
    quadEM, 23
-   measComp, 20
    std, 19
-   ip, 18
-   dxp, 16
+   Dante, 18
+   optics, 17
+   dxp, 15
    Yokogawa_DAS, 14
-   optics, 14
+   ip, 14
+   dxpSITORO, 6
    vac, 5
-   camac, 4
+   camac, 3
    lua, 3
-   Dante, 3
    ip330, 2
    caputRecorder, 1
+   delaygen, 1
    softGlue, 1
    love, 0
    vme, 0
