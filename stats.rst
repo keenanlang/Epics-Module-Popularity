@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 464
-   iocStats, 448
-   calc, 388
-   autosave, 385
-   sscan, 353
-   busy, 328
-   ipac, 264
-   std, 185
-   alive, 90
-   modbus, 85
-   ip, 84
-   motor, 74
-   ipUnidig, 60
-   vme, 58
-   xxx, 53
-   mca, 49
-   quadEM, 47
-   camac, 43
-   caputRecorder, 41
-   optics, 41
-   vac, 40
-   ip330, 40
-   delaygen, 40
-   softGlueZynq, 37
-   lua, 37
-   love, 36
-   measComp, 31
-   dac128V, 31
-   softGlue, 30
+   asyn, 478
+   iocStats, 460
+   calc, 404
+   autosave, 391
+   sscan, 367
+   busy, 339
+   ipac, 269
+   std, 193
+   modbus, 97
+   ip, 87
+   alive, 83
+   motor, 75
+   ipUnidig, 63
+   vme, 62
+   mca, 59
+   xxx, 55
+   quadEM, 50
+   lua, 48
+   optics, 47
+   camac, 46
+   ip330, 45
+   caputRecorder, 44
+   vac, 44
+   delaygen, 43
+   love, 40
+   softGlueZynq, 39
+   dac128V, 33
+   softGlue, 32
+   measComp, 32
+   xspress3, 22
+   Yokogawa_DAS, 21
+   dxpSITORO, 21
    mrfioc2, 20
-   xspress3, 20
-   Yokogawa_DAS, 19
-   dxpSITORO, 19
-   dxp, 15
-   Dante, 8
-   ecmc, 7
+   dxp, 17
+   Dante, 7
+   ecmc, 6
    tpmac, 5
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 676
-   motor, 280
-   modbus, 201
-   iocStats, 180
-   mrfioc2, 124
-   softGlueZynq, 101
-   calc, 81
-   ecmc, 80
-   xspress3, 61
-   autosave, 58
-   sscan, 53
-   ipac, 53
-   measComp, 34
-   alive, 27
-   mca, 22
+   asyn, 671
+   motor, 208
+   modbus, 199
+   iocStats, 184
+   mrfioc2, 108
+   softGlueZynq, 103
+   calc, 90
+   ecmc, 84
+   xspress3, 58
+   autosave, 56
+   sscan, 50
+   ipac, 50
+   quadEM, 35
+   mca, 30
+   Dante, 29
+   alive, 28
+   measComp, 25
    ip, 19
    xxx, 19
-   std, 19
-   Dante, 18
-   dxp, 17
-   optics, 17
-   quadEM, 17
    dxpSITORO, 13
+   dxp, 12
    busy, 12
-   Yokogawa_DAS, 11
-   camac, 3
+   optics, 11
+   Yokogawa_DAS, 7
+   ip330, 6
+   std, 4
+   camac, 2
    lua, 2
-   ip330, 2
-   caputRecorder, 1
-   tpmac, 1
+   delaygen, 2
    vac, 1
-   delaygen, 1
    love, 0
    vme, 0
+   caputRecorder, 0
+   tpmac, 0
    ipUnidig, 0
    softGlue, 0
    dac128V, 0
