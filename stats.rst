@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 681
-   asyn, 620
-   calc, 505
-   autosave, 486
-   sscan, 467
-   busy, 457
-   std, 357
-   modbus, 305
-   mca, 246
-   lua, 236
-   ipac, 205
-   motor, 99
-   ip, 87
-   alive, 55
-   vme, 54
-   ipUnidig, 54
-   optics, 46
-   quadEM, 44
-   xxx, 43
-   camac, 42
-   caputRecorder, 33
-   delaygen, 33
-   softGlueZynq, 31
-   ip330, 31
-   mrfioc2, 31
-   love, 30
-   vac, 29
-   measComp, 25
+   iocStats, 673
+   asyn, 597
+   calc, 532
+   autosave, 497
+   sscan, 490
+   busy, 482
+   modbus, 342
+   std, 338
+   mca, 295
+   lua, 287
+   ipac, 171
+   motor, 86
+   ip, 44
+   vme, 40
+   quadEM, 40
+   ipUnidig, 39
+   alive, 32
+   optics, 32
+   delaygen, 30
+   camac, 25
    ecmc, 25
-   softGlue, 24
-   dac128V, 24
-   xspress3, 21
-   Yokogawa_DAS, 11
-   dxp, 11
-   dxpSITORO, 11
+   measComp, 23
+   xxx, 22
+   mrfioc2, 21
+   caputRecorder, 18
+   xspress3, 18
+   ip330, 17
+   love, 16
+   vac, 15
+   softGlueZynq, 15
    tpmac, 10
+   softGlue, 10
+   Yokogawa_DAS, 9
+   dxp, 9
+   dxpSITORO, 9
+   dac128V, 9
    Dante, 6
 
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 528
-   motor, 189
-   modbus, 168
-   autosave, 145
-   mrfioc2, 99
-   ecmc, 97
-   iocStats, 87
-   softGlueZynq, 79
-   ipac, 68
-   xspress3, 64
-   measComp, 61
-   calc, 52
+   asyn, 473
+   motor, 204
+   modbus, 154
+   autosave, 140
+   xspress3, 97
+   ecmc, 95
+   mrfioc2, 83
+   iocStats, 77
+   softGlueZynq, 72
+   measComp, 63
+   ipac, 60
+   calc, 49
+   std, 47
    ip, 42
-   std, 42
-   Dante, 29
-   alive, 29
-   sscan, 26
+   Dante, 28
    tpmac, 22
    quadEM, 22
+   sscan, 21
    delaygen, 20
-   xxx, 19
-   mca, 15
+   xxx, 17
+   mca, 16
+   camac, 13
+   alive, 13
    vac, 12
-   busy, 11
-   dxp, 10
+   busy, 10
+   optics, 10
+   dxp, 9
    Yokogawa_DAS, 7
    dxpSITORO, 7
-   optics, 6
-   camac, 5
-   ip330, 5
-   lua, 3
+   lua, 4
+   ip330, 4
    vme, 1
+   softGlue, 1
    love, 0
    caputRecorder, 0
    ipUnidig, 0
-   softGlue, 0
    dac128V, 0
