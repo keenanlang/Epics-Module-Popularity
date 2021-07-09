@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 1143
-   asyn, 489
-   autosave, 335
-   modbus, 313
-   calc, 305
-   busy, 301
-   sscan, 283
-   std, 194
-   motor, 183
-   mca, 158
-   lua, 148
-   ipac, 142
+   iocStats, 1110
+   asyn, 414
+   autosave, 279
+   modbus, 265
+   busy, 241
+   calc, 236
+   sscan, 226
+   motor, 182
+   std, 152
+   ipac, 135
+   mca, 111
+   lua, 99
    mrfioc2, 44
-   quadEM, 40
-   ip, 39
-   ipUnidig, 39
-   delaygen, 37
-   alive, 27
-   camac, 26
-   optics, 25
-   xspress3, 24
-   vme, 23
-   ip330, 22
-   xxx, 22
-   caputRecorder, 21
-   vac, 20
-   love, 19
-   softGlueZynq, 19
-   softGlue, 19
-   dac128V, 19
-   Yokogawa_DAS, 18
-   dxp, 18
-   dxpSITORO, 18
-   measComp, 18
-   ecmc, 14
+   quadEM, 43
+   ip, 41
+   ipUnidig, 41
+   delaygen, 38
+   camac, 28
+   alive, 28
+   xspress3, 27
+   optics, 27
+   vme, 24
+   ip330, 23
+   xxx, 23
+   dac128V, 23
+   ecmc, 23
+   Yokogawa_DAS, 22
+   dxp, 22
+   caputRecorder, 22
+   softGlueZynq, 22
+   dxpSITORO, 22
+   softGlue, 22
+   vac, 21
+   measComp, 21
+   love, 20
    tpmac, 4
    Dante, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 269
-   motor, 221
-   ecmc, 183
-   xspress3, 133
-   modbus, 85
+   asyn, 256
+   ecmc, 207
+   motor, 177
+   xspress3, 126
+   modbus, 86
    delaygen, 81
-   autosave, 78
-   sscan, 74
+   sscan, 76
+   autosave, 75
    iocStats, 73
-   mrfioc2, 54
-   ipac, 43
-   std, 42
-   softGlueZynq, 39
-   alive, 39
-   mca, 37
+   mrfioc2, 59
+   softGlueZynq, 43
+   alive, 42
+   ipac, 42
+   mca, 38
+   std, 36
+   calc, 31
    xxx, 30
-   calc, 29
-   measComp, 28
-   dxp, 21
+   measComp, 27
+   dxp, 23
    quadEM, 18
    ip, 17
-   optics, 15
-   softGlue, 12
-   camac, 8
+   optics, 11
+   softGlue, 11
+   tpmac, 7
    vac, 7
    Dante, 7
    Yokogawa_DAS, 6
-   busy, 6
-   lua, 3
+   caputRecorder, 5
+   busy, 4
    dxpSITORO, 3
+   lua, 2
    dac128V, 2
+   camac, 1
    ip330, 1
    love, 0
    vme, 0
-   caputRecorder, 0
-   tpmac, 0
    ipUnidig, 0
