@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 1110
-   asyn, 414
-   autosave, 279
-   modbus, 265
-   busy, 241
-   calc, 236
-   sscan, 226
-   motor, 182
-   std, 152
-   ipac, 135
-   mca, 111
-   lua, 99
+   iocStats, 986
+   asyn, 404
+   modbus, 262
+   motor, 235
+   autosave, 216
+   busy, 173
+   calc, 169
+   sscan, 155
+   ipac, 132
+   std, 89
+   mca, 54
+   quadEM, 45
    mrfioc2, 44
-   quadEM, 43
-   ip, 41
-   ipUnidig, 41
-   delaygen, 38
-   camac, 28
-   alive, 28
-   xspress3, 27
-   optics, 27
-   vme, 24
-   ip330, 23
-   xxx, 23
-   dac128V, 23
+   ipUnidig, 44
+   ip, 43
+   delaygen, 41
+   lua, 39
+   ip330, 31
+   camac, 30
+   xxx, 30
+   vme, 29
+   optics, 29
+   xspress3, 28
+   caputRecorder, 27
+   vac, 27
+   alive, 27
+   love, 26
+   dac128V, 25
+   Yokogawa_DAS, 24
+   dxp, 24
+   dxpSITORO, 24
+   softGlueZynq, 23
+   softGlue, 23
+   measComp, 23
    ecmc, 23
-   Yokogawa_DAS, 22
-   dxp, 22
-   caputRecorder, 22
-   softGlueZynq, 22
-   dxpSITORO, 22
-   softGlue, 22
-   vac, 21
-   measComp, 21
-   love, 20
    tpmac, 4
    Dante, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 256
-   ecmc, 207
-   motor, 177
-   xspress3, 126
-   modbus, 86
-   delaygen, 81
-   sscan, 76
-   autosave, 75
-   iocStats, 73
-   mrfioc2, 59
-   softGlueZynq, 43
-   alive, 42
-   ipac, 42
-   mca, 38
-   std, 36
-   calc, 31
-   xxx, 30
-   measComp, 27
-   dxp, 23
-   quadEM, 18
-   ip, 17
-   optics, 11
+   asyn, 276
+   ecmc, 214
+   motor, 193
+   xspress3, 115
+   delaygen, 91
+   modbus, 74
+   autosave, 73
+   mrfioc2, 69
+   softGlueZynq, 45
+   sscan, 45
+   calc, 45
+   alive, 45
+   std, 41
+   ipac, 41
+   iocStats, 36
+   xxx, 31
+   measComp, 29
+   mca, 26
+   tpmac, 23
+   dxp, 22
+   ip, 19
+   optics, 18
+   quadEM, 17
    softGlue, 11
-   tpmac, 7
-   vac, 7
+   busy, 9
+   vac, 9
    Dante, 7
    Yokogawa_DAS, 6
+   dac128V, 6
    caputRecorder, 5
-   busy, 4
+   ip330, 5
    dxpSITORO, 3
    lua, 2
-   dac128V, 2
    camac, 1
-   ip330, 1
    love, 0
    vme, 0
    ipUnidig, 0
