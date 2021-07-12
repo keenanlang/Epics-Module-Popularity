@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 975
-   asyn, 394
-   modbus, 247
-   motor, 235
-   autosave, 204
-   busy, 162
-   calc, 157
-   sscan, 143
-   ipac, 131
-   std, 78
+   iocStats, 981
+   asyn, 406
+   modbus, 245
+   motor, 233
+   autosave, 210
+   busy, 168
+   calc, 164
+   sscan, 149
+   ipac, 129
+   std, 84
    mrfioc2, 45
-   quadEM, 45
-   ipUnidig, 44
-   ip, 43
-   delaygen, 41
-   mca, 40
-   ip330, 31
-   xxx, 31
-   camac, 30
-   alive, 30
-   vme, 29
-   optics, 29
-   caputRecorder, 27
-   vac, 27
-   xspress3, 27
-   love, 26
-   lua, 25
-   dac128V, 25
-   Yokogawa_DAS, 24
-   softGlueZynq, 24
-   dxpSITORO, 24
-   dxp, 23
-   softGlue, 23
-   measComp, 23
+   quadEM, 43
+   ipUnidig, 42
+   ip, 41
+   delaygen, 39
+   mca, 38
+   alive, 36
+   xxx, 29
+   camac, 28
+   ip330, 28
+   vme, 27
+   optics, 27
+   caputRecorder, 25
+   vac, 25
+   xspress3, 25
+   love, 24
+   lua, 23
+   dac128V, 23
    ecmc, 23
+   Yokogawa_DAS, 22
+   softGlueZynq, 22
+   dxpSITORO, 22
+   dxp, 21
+   softGlue, 21
+   measComp, 21
    tpmac, 4
    Dante, 0
 
@@ -54,39 +54,39 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 276
-   ecmc, 217
-   motor, 193
+   asyn, 265
+   motor, 194
+   ecmc, 193
    xspress3, 115
-   delaygen, 91
+   delaygen, 89
+   mrfioc2, 76
    autosave, 75
-   mrfioc2, 71
-   modbus, 70
-   sscan, 48
-   calc, 48
-   softGlueZynq, 45
-   alive, 45
+   modbus, 73
+   alive, 50
+   calc, 44
+   sscan, 41
    std, 41
-   ipac, 40
-   iocStats, 37
-   xxx, 31
+   softGlueZynq, 39
+   ipac, 39
+   iocStats, 30
+   xxx, 30
    measComp, 29
-   mca, 26
+   mca, 25
    tpmac, 23
-   dxp, 20
+   dxp, 22
    ip, 19
-   optics, 18
    quadEM, 17
-   busy, 11
-   softGlue, 11
+   busy, 15
+   optics, 13
    vac, 9
    Dante, 7
    Yokogawa_DAS, 6
    dac128V, 6
    caputRecorder, 5
-   ip330, 5
+   ip330, 4
    lua, 2
    camac, 1
+   softGlue, 1
    love, 0
    vme, 0
    ipUnidig, 0
