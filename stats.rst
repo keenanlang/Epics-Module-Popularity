@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   iocStats, 668
-   asyn, 378
-   modbus, 234
-   motor, 224
-   autosave, 200
-   calc, 151
-   busy, 140
-   sscan, 125
-   ipac, 115
-   std, 74
-   ip, 40
-   quadEM, 40
-   ipUnidig, 39
-   delaygen, 37
-   mca, 37
-   mrfioc2, 35
-   alive, 34
-   xxx, 26
-   vme, 25
-   camac, 25
-   ip330, 25
-   optics, 25
-   vac, 23
-   love, 22
-   caputRecorder, 21
-   xspress3, 21
-   dxpSITORO, 20
-   softGlue, 20
-   dac128V, 20
-   ecmc, 20
-   Yokogawa_DAS, 19
-   softGlueZynq, 19
-   lua, 19
-   dxp, 18
-   measComp, 18
+   iocStats, 623
+   asyn, 376
+   modbus, 244
+   motor, 230
+   autosave, 186
+   calc, 142
+   busy, 133
+   sscan, 119
+   ipac, 118
+   std, 70
+   quadEM, 46
+   ipUnidig, 45
+   ip, 43
+   delaygen, 40
+   mca, 40
+   alive, 40
+   xxx, 33
+   optics, 32
+   vme, 31
+   camac, 31
+   ip330, 31
+   love, 28
+   caputRecorder, 28
+   vac, 28
+   softGlue, 27
+   lua, 26
+   dxpSITORO, 26
+   dac128V, 26
+   Yokogawa_DAS, 25
+   dxp, 25
+   softGlueZynq, 25
+   measComp, 24
+   xspress3, 23
+   ecmc, 21
+   mrfioc2, 12
    tpmac, 4
    Dante, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 236
-   ecmc, 194
-   motor, 191
-   delaygen, 142
-   xspress3, 121
-   mrfioc2, 108
-   modbus, 106
-   autosave, 104
-   calc, 68
-   softGlueZynq, 55
-   alive, 50
-   std, 40
+   ecmc, 234
+   asyn, 229
+   motor, 159
+   delaygen, 156
+   mrfioc2, 117
+   modbus, 98
+   xspress3, 96
+   autosave, 79
+   calc, 73
+   measComp, 55
+   std, 44
+   softGlueZynq, 43
+   alive, 40
+   ipac, 38
    sscan, 37
-   ipac, 37
-   iocStats, 35
-   measComp, 32
-   ip, 30
-   vac, 29
+   mca, 35
+   iocStats, 34
+   ip, 33
+   vac, 30
    tpmac, 24
-   mca, 23
-   xxx, 22
-   quadEM, 17
-   dxp, 16
-   busy, 16
+   quadEM, 22
+   xxx, 21
+   busy, 20
+   dxp, 17
    optics, 13
    caputRecorder, 10
    ip330, 8
    Yokogawa_DAS, 7
-   Dante, 6
-   dac128V, 6
-   vme, 4
+   vme, 5
+   Dante, 5
+   dac128V, 5
    camac, 1
+   ipUnidig, 1
    softGlue, 1
    love, 0
    lua, 0
-   ipUnidig, 0
    dxpSITORO, 0
