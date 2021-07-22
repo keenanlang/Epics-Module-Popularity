@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 438
-   iocStats, 326
-   autosave, 251
-   calc, 215
-   modbus, 173
-   motor, 162
-   busy, 121
-   sscan, 109
-   ipac, 102
-   std, 62
-   ecmc, 56
-   ip, 44
-   ipUnidig, 41
-   delaygen, 40
-   quadEM, 39
-   alive, 38
-   mca, 33
-   ip330, 29
-   xxx, 29
-   optics, 29
-   love, 26
-   vme, 26
-   vac, 25
-   caputRecorder, 24
-   camac, 24
-   lua, 23
-   mrfioc2, 23
-   Yokogawa_DAS, 22
-   softGlue, 22
-   dxp, 21
-   dxpSITORO, 21
-   dac128V, 21
-   softGlueZynq, 20
-   xspress3, 20
-   measComp, 19
+   asyn, 399
+   autosave, 232
+   iocStats, 228
+   calc, 204
+   modbus, 170
+   motor, 156
+   sscan, 105
+   busy, 98
+   ipac, 77
+   std, 57
+   ecmc, 55
+   mrfioc2, 50
+   ip, 43
+   delaygen, 42
+   ipUnidig, 40
+   alive, 39
+   quadEM, 37
+   mca, 30
+   ip330, 26
+   optics, 26
+   xxx, 25
+   love, 24
+   vme, 23
+   vac, 23
+   caputRecorder, 22
+   camac, 22
+   lua, 21
+   Yokogawa_DAS, 20
+   dxp, 20
+   softGlue, 20
+   dxpSITORO, 19
+   dac128V, 19
+   softGlueZynq, 18
+   xspress3, 18
+   measComp, 17
    tpmac, 3
    Dante, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 302
-   ecmc, 252
-   motor, 204
-   mrfioc2, 191
-   delaygen, 159
-   xspress3, 144
-   modbus, 134
-   calc, 88
+   asyn, 297
+   motor, 217
+   ecmc, 210
+   mrfioc2, 192
+   modbus, 149
+   delaygen, 132
+   xspress3, 117
+   calc, 83
    autosave, 82
-   mca, 55
-   tpmac, 52
+   tpmac, 50
+   mca, 50
    ip, 46
-   softGlueZynq, 43
-   measComp, 36
-   alive, 33
+   measComp, 46
+   softGlueZynq, 36
    busy, 28
-   std, 28
-   iocStats, 25
-   xxx, 25
    vac, 24
-   dxp, 22
-   sscan, 18
+   iocStats, 24
+   alive, 24
+   dxp, 23
+   std, 17
+   sscan, 15
+   xxx, 15
    caputRecorder, 13
    ipac, 12
-   optics, 12
    Dante, 10
    vme, 9
-   dac128V, 9
    ip330, 8
+   optics, 8
+   dac128V, 8
    quadEM, 8
-   Yokogawa_DAS, 7
-   lua, 5
+   lua, 6
    camac, 2
+   Yokogawa_DAS, 1
    ipUnidig, 1
-   softGlue, 1
    love, 0
    dxpSITORO, 0
+   softGlue, 0
