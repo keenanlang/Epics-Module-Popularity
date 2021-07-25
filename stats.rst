@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   asyn, 450
-   autosave, 317
-   calc, 297
+   asyn, 454
+   autosave, 319
+   calc, 298
    sscan, 192
-   iocStats, 143
-   modbus, 125
+   iocStats, 144
+   modbus, 128
+   motor, 109
    busy, 107
-   motor, 106
-   ipac, 80
+   ipac, 83
    std, 66
    mrfioc2, 63
-   ip, 52
+   ip, 55
+   delaygen, 51
    ecmc, 51
-   delaygen, 47
-   ipUnidig, 42
-   mca, 40
-   quadEM, 37
-   alive, 36
-   lua, 30
-   optics, 29
-   camac, 24
-   ip330, 22
-   xxx, 22
-   softGlue, 22
-   caputRecorder, 21
-   softGlueZynq, 21
-   love, 20
-   xspress3, 20
-   measComp, 20
-   vme, 19
-   dxp, 19
-   vac, 19
-   dxpSITORO, 19
-   dac128V, 19
-   Yokogawa_DAS, 18
+   ipUnidig, 44
+   mca, 43
+   quadEM, 39
+   alive, 35
+   lua, 33
+   optics, 32
+   camac, 26
+   softGlue, 25
+   measComp, 25
+   caputRecorder, 24
+   softGlueZynq, 24
+   ip330, 24
+   xxx, 24
+   love, 22
+   vme, 22
+   vac, 22
+   xspress3, 22
+   Yokogawa_DAS, 21
+   dxp, 21
+   dxpSITORO, 21
+   dac128V, 21
    tpmac, 8
    Dante, 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   asyn, 309
-   motor, 215
-   mrfioc2, 176
-   ecmc, 172
-   modbus, 140
-   delaygen, 122
+   asyn, 324
+   motor, 216
+   mrfioc2, 174
+   ecmc, 171
+   delaygen, 163
+   modbus, 148
    xspress3, 82
-   autosave, 71
-   calc, 65
+   autosave, 70
+   calc, 61
    mca, 56
    ip, 55
-   measComp, 44
+   measComp, 49
    softGlueZynq, 38
-   lua, 32
+   lua, 34
    tpmac, 29
-   iocStats, 29
-   busy, 24
+   iocStats, 27
+   vac, 25
    dxp, 23
-   vac, 22
+   busy, 22
    alive, 21
-   xxx, 17
+   std, 19
+   xxx, 18
+   vme, 14
    ipac, 13
    quadEM, 12
-   std, 11
+   caputRecorder, 11
    Dante, 10
-   vme, 9
-   caputRecorder, 8
-   sscan, 4
-   ip330, 4
+   softGlue, 7
+   ip330, 5
    dac128V, 4
    optics, 3
    love, 2
+   camac, 2
+   sscan, 2
    Yokogawa_DAS, 1
-   camac, 1
    ipUnidig, 1
    dxpSITORO, 1
-   softGlue, 1
