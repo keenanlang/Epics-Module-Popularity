@@ -29,7 +29,7 @@ with open(sys.argv[1], "r") as input:
 		output.write("   :header: Module, Clones\n\n")
 		
 		for item in clone_sort:
-			output.write("   " + item[0].encode("ascii", "ignore") + ", " + str(item[1]["clones"]) + "\n")
+			output.write("   " + str(item[0].encode("ascii", "ignore")) + ", " + str(item[1]["clones"]) + "\n")
 
 		output.write("\n\n\n")
 		
@@ -39,4 +39,4 @@ with open(sys.argv[1], "r") as input:
 		output.write("   :header: Module, Views\n\n")
 	
 		for item in view_sort:
-			output.write("   " + item[0].encode("ascii", "ignore") + ", " + str(item[1]["views"]) + "\n")
+			output.write("   " + str(item[0].encode("ascii", "ignore")) + ", " + str(item[1]["views"]) + "\n")
