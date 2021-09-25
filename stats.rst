@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'iocStats', 239
-   b'autosave', 186
-   b'calc', 169
-   b'busy', 145
-   b'asyn', 119
-   b'motor', 110
-   b'ipac', 101
-   b'modbus', 100
-   b'sscan', 80
-   b'xxx', 36
-   b'std', 33
+   b'calc', 174
+   b'sscan', 158
+   b'iocStats', 114
+   b'modbus', 104
+   b'asyn', 103
+   b'ipac', 96
+   b'autosave', 86
+   b'busy', 64
+   b'std', 64
+   b'motor', 42
+   b'xxx', 37
    b'quadEM', 31
-   b'delaygen', 21
-   b'optics', 18
+   b'delaygen', 23
+   b'ip', 23
+   b'mca', 22
+   b'xspress3', 22
+   b'alive', 17
    b'camac', 17
-   b'love', 16
-   b'mca', 16
+   b'love', 17
+   b'optics', 17
+   b'caputRecorder', 16
    b'mrfioc2', 16
-   b'caputRecorder', 15
+   b'vac', 15
    b'ip330', 14
-   b'ipUnidig', 11
+   b'vme', 13
    b'dxpSITORO', 10
+   b'ipUnidig', 10
    b'dac128V', 9
    b'dxp', 9
-   b'softGlue', 8
-   b'xspress3', 8
-   b'softGlueZynq', 7
-   b'ip', 6
-   b'alive', 5
+   b'softGlueZynq', 9
+   b'Dante', 5
    b'lua', 5
    b'measComp', 5
-   b'vac', 5
    b'Yokogawa_DAS', 5
-   b'vme', 4
-   b'Dante', 3
+   b'softGlue', 3
    b'ecmc', 2
    b'tpmac', 0
 
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 362
-   b'motor', 278
-   b'xspress3', 228
-   b'mrfioc2', 208
-   b'modbus', 174
-   b'sscan', 113
-   b'autosave', 101
-   b'ip', 92
-   b'std', 71
+   b'motor', 583
+   b'asyn', 444
+   b'xspress3', 224
+   b'mrfioc2', 214
+   b'modbus', 178
+   b'sscan', 112
+   b'std', 98
+   b'ecmc', 96
+   b'ip', 72
+   b'iocStats', 57
+   b'dxp', 55
    b'delaygen', 53
-   b'xxx', 52
-   b'mca', 47
-   b'dxp', 40
+   b'xxx', 53
    b'busy', 39
+   b'mca', 39
    b'softGlueZynq', 38
-   b'ipac', 35
-   b'ecmc', 31
-   b'alive', 27
+   b'ipac', 36
    b'calc', 26
    b'dxpSITORO', 24
    b'measComp', 19
-   b'lua', 16
-   b'camac', 12
-   b'iocStats', 11
+   b'alive', 18
    b'optics', 11
    b'quadEM', 8
-   b'Yokogawa_DAS', 5
+   b'vme', 7
+   b'autosave', 4
+   b'dac128V', 3
    b'Dante', 3
-   b'vme', 3
    b'caputRecorder', 2
-   b'ipUnidig', 2
-   b'love', 1
-   b'vac', 1
-   b'dac128V', 0
-   b'ip330', 0
+   b'camac', 1
+   b'ip330', 1
+   b'Yokogawa_DAS', 1
+   b'ipUnidig', 0
+   b'love', 0
+   b'lua', 0
    b'softGlue', 0
    b'tpmac', 0
+   b'vac', 0
