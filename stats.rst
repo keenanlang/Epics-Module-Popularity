@@ -9,18 +9,18 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 437
-   b'calc', 406
-   b'autosave', 402
-   b'iocStats', 354
-   b'sscan', 343
-   b'busy', 338
-   b'modbus', 273
-   b'std', 273
-   b'mca', 209
-   b'lua', 202
+   b'asyn', 434
+   b'calc', 401
+   b'autosave', 397
+   b'iocStats', 349
+   b'sscan', 339
+   b'busy', 334
+   b'std', 269
+   b'modbus', 268
+   b'mca', 206
+   b'lua', 199
    b'ipac', 106
-   b'motor', 62
+   b'motor', 63
    b'ip', 56
    b'alive', 51
    b'delaygen', 43
@@ -54,27 +54,27 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'modbus', 289
    b'mrfioc2', 285
-   b'asyn', 231
-   b'motor', 185
+   b'modbus', 261
+   b'asyn', 230
+   b'motor', 186
    b'Dante', 140
-   b'autosave', 91
-   b'ecmc', 71
+   b'autosave', 93
+   b'ecmc', 69
    b'xspress3', 52
-   b'quadEM', 51
    b'sscan', 47
    b'iocStats', 46
    b'mca', 44
+   b'quadEM', 44
    b'softGlueZynq', 33
    b'measComp', 25
+   b'xxx', 24
    b'calc', 23
    b'dxp', 23
-   b'xxx', 22
    b'delaygen', 21
    b'tpmac', 19
-   b'dxpSITORO', 17
    b'ipac', 17
+   b'dxpSITORO', 16
    b'ip', 11
    b'optics', 11
    b'softGlue', 9
