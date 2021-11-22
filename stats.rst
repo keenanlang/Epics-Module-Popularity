@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'autosave', 394
-   b'iocStats', 381
-   b'asyn', 374
-   b'calc', 356
-   b'sscan', 325
-   b'busy', 311
-   b'std', 250
-   b'modbus', 195
-   b'mca', 190
-   b'lua', 164
-   b'ipac', 133
-   b'motor', 79
-   b'ip', 61
+   b'autosave', 330
+   b'iocStats', 315
+   b'asyn', 308
+   b'calc', 290
+   b'sscan', 259
+   b'busy', 247
+   b'std', 185
+   b'ipac', 135
+   b'modbus', 130
+   b'mca', 124
+   b'lua', 97
+   b'motor', 83
+   b'ip', 63
    b'Dante', 55
-   b'alive', 44
-   b'delaygen', 44
-   b'ip330', 42
-   b'xxx', 41
-   b'caputRecorder', 40
-   b'quadEM', 37
-   b'ipUnidig', 36
-   b'optics', 35
-   b'vme', 32
-   b'vac', 30
-   b'love', 28
-   b'camac', 26
-   b'dxp', 20
-   b'dxpSITORO', 20
-   b'measComp', 20
-   b'xspress3', 20
-   b'dac128V', 17
-   b'softGlueZynq', 17
-   b'softGlue', 16
-   b'Yokogawa_DAS', 16
+   b'delaygen', 47
+   b'alive', 46
+   b'ip330', 44
+   b'xxx', 44
+   b'caputRecorder', 42
+   b'ipUnidig', 38
+   b'quadEM', 38
+   b'optics', 37
+   b'vme', 33
+   b'vac', 32
+   b'love', 30
+   b'camac', 28
+   b'dxp', 22
+   b'dxpSITORO', 22
+   b'measComp', 22
+   b'xspress3', 21
+   b'dac128V', 19
+   b'softGlueZynq', 19
+   b'softGlue', 18
+   b'Yokogawa_DAS', 18
    b'mrfioc2', 13
    b'ecmc', 10
    b'tpmac', 1
@@ -54,31 +54,31 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'modbus', 446
-   b'asyn', 247
-   b'xspress3', 221
-   b'motor', 162
+   b'modbus', 444
+   b'asyn', 237
+   b'xspress3', 220
+   b'motor', 174
    b'Dante', 146
    b'iocStats', 134
    b'mca', 132
    b'ecmc', 118
-   b'autosave', 113
+   b'autosave', 117
    b'dxp', 59
-   b'mrfioc2', 51
-   b'quadEM', 49
+   b'measComp', 53
+   b'mrfioc2', 50
+   b'quadEM', 47
    b'sscan', 47
    b'ip', 45
-   b'measComp', 41
-   b'Yokogawa_DAS', 40
+   b'Yokogawa_DAS', 45
    b'softGlueZynq', 31
-   b'calc', 29
+   b'calc', 28
    b'dxpSITORO', 25
    b'xxx', 24
    b'tpmac', 20
-   b'std', 18
-   b'ipac', 15
+   b'std', 16
    b'delaygen', 14
    b'optics', 12
+   b'ipac', 11
    b'softGlue', 5
    b'lua', 4
    b'alive', 2
