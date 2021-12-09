@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'iocStats', 999
-   b'asyn', 175
-   b'autosave', 162
-   b'calc', 139
-   b'busy', 115
-   b'sscan', 111
-   b'modbus', 99
-   b'std', 91
-   b'mca', 73
-   b'ipac', 65
-   b'lua', 63
+   b'iocStats', 588
+   b'asyn', 182
+   b'autosave', 157
+   b'calc', 156
+   b'busy', 125
+   b'sscan', 120
+   b'modbus', 103
+   b'std', 98
+   b'mca', 81
+   b'lua', 69
+   b'ipac', 68
    b'motor', 62
-   b'delaygen', 51
-   b'ip', 49
-   b'caputRecorder', 41
-   b'alive', 40
-   b'camac', 38
-   b'love', 38
-   b'vme', 37
-   b'vac', 36
-   b'xxx', 36
+   b'delaygen', 52
+   b'ip', 51
+   b'caputRecorder', 42
+   b'alive', 41
+   b'camac', 39
+   b'love', 39
+   b'vme', 39
+   b'vac', 37
+   b'xxx', 37
+   b'quadEM', 36
+   b'ip330', 35
    b'ipUnidig', 35
-   b'quadEM', 35
-   b'ip330', 34
-   b'optics', 34
-   b'dxp', 33
-   b'xspress3', 30
-   b'measComp', 29
-   b'dac128V', 28
-   b'softGlueZynq', 28
+   b'optics', 35
+   b'dxp', 34
+   b'xspress3', 31
+   b'measComp', 30
+   b'dac128V', 29
+   b'softGlueZynq', 29
+   b'softGlue', 28
    b'dxpSITORO', 27
-   b'softGlue', 27
-   b'Yokogawa_DAS', 26
-   b'Dante', 6
+   b'Yokogawa_DAS', 27
+   b'Dante', 5
    b'mrfioc2', 5
    b'ecmc', 4
    b'tpmac', 0
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'motor', 381
-   b'modbus', 241
-   b'mrfioc2', 158
-   b'asyn', 138
-   b'xspress3', 101
-   b'sscan', 86
-   b'iocStats', 75
-   b'ecmc', 74
-   b'delaygen', 70
-   b'measComp', 59
-   b'dxp', 55
-   b'calc', 51
+   b'motor', 352
+   b'modbus', 251
+   b'asyn', 188
+   b'mrfioc2', 171
+   b'xspress3', 84
+   b'sscan', 82
+   b'delaygen', 74
+   b'iocStats', 72
+   b'ecmc', 68
+   b'calc', 59
+   b'dxp', 49
+   b'measComp', 45
    b'camac', 31
+   b'lua', 28
+   b'autosave', 26
    b'caputRecorder', 25
-   b'mca', 24
-   b'ip', 22
-   b'Dante', 17
+   b'ip', 21
+   b'mca', 17
    b'softGlueZynq', 17
-   b'xxx', 16
-   b'quadEM', 15
+   b'xxx', 17
    b'ipac', 14
    b'vac', 14
-   b'autosave', 12
    b'optics', 10
+   b'std', 10
+   b'busy', 9
    b'dxpSITORO', 9
-   b'std', 8
-   b'busy', 7
+   b'tpmac', 9
    b'alive', 6
+   b'Dante', 6
    b'dac128V', 4
-   b'lua', 3
+   b'quadEM', 4
    b'ip330', 2
    b'vme', 2
-   b'Yokogawa_DAS', 2
    b'love', 1
    b'softGlue', 1
+   b'Yokogawa_DAS', 1
    b'ipUnidig', 0
-   b'tpmac', 0
