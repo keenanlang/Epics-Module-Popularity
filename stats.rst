@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'iocStats', 1017
-   b'asyn', 163
-   b'calc', 119
-   b'autosave', 110
-   b'busy', 100
-   b'sscan', 75
-   b'std', 62
-   b'modbus', 61
-   b'mca', 52
-   b'motor', 51
-   b'ipac', 45
-   b'lua', 42
-   b'delaygen', 41
-   b'ip', 41
-   b'alive', 38
-   b'caputRecorder', 38
-   b'ip330', 38
-   b'ipUnidig', 38
-   b'love', 38
-   b'optics', 38
-   b'vme', 38
-   b'quadEM', 37
-   b'camac', 36
-   b'xspress3', 36
-   b'vac', 36
-   b'xxx', 36
-   b'dac128V', 29
-   b'measComp', 29
-   b'dxp', 28
-   b'dxpSITORO', 26
-   b'softGlue', 26
-   b'softGlueZynq', 26
-   b'Yokogawa_DAS', 26
+   b'iocStats', 1021
+   b'asyn', 168
+   b'calc', 123
+   b'autosave', 114
+   b'busy', 104
+   b'sscan', 79
+   b'std', 66
+   b'modbus', 65
+   b'motor', 57
+   b'mca', 56
+   b'ipac', 49
+   b'lua', 46
+   b'delaygen', 45
+   b'ip', 45
+   b'alive', 42
+   b'caputRecorder', 42
+   b'ip330', 42
+   b'ipUnidig', 42
+   b'love', 42
+   b'optics', 42
+   b'vme', 42
+   b'quadEM', 41
+   b'camac', 40
+   b'xspress3', 40
+   b'vac', 40
+   b'xxx', 40
+   b'dac128V', 33
+   b'measComp', 33
+   b'dxp', 32
+   b'dxpSITORO', 30
+   b'softGlue', 30
+   b'softGlueZynq', 30
+   b'Yokogawa_DAS', 30
    b'ecmc', 7
-   b'mrfioc2', 7
+   b'mrfioc2', 6
    b'Dante', 0
    b'tpmac', 0
 
@@ -54,20 +54,20 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'modbus', 310
-   b'asyn', 251
-   b'motor', 221
-   b'ecmc', 170
-   b'mrfioc2', 62
-   b'calc', 60
+   b'modbus', 307
+   b'asyn', 250
+   b'motor', 194
+   b'ecmc', 181
+   b'calc', 59
    b'sscan', 59
-   b'iocStats', 45
-   b'measComp', 45
-   b'autosave', 41
-   b'dxp', 38
-   b'softGlueZynq', 37
-   b'mca', 32
-   b'lua', 30
+   b'mrfioc2', 58
+   b'iocStats', 47
+   b'measComp', 46
+   b'autosave', 42
+   b'dxp', 36
+   b'softGlueZynq', 36
+   b'mca', 31
+   b'lua', 29
    b'ipac', 25
    b'optics', 25
    b'alive', 24
@@ -78,7 +78,7 @@ Repository Views (last 14 days)
    b'dxpSITORO', 12
    b'tpmac', 11
    b'delaygen', 10
-   b'busy', 9
+   b'busy', 8
    b'ipUnidig', 7
    b'std', 6
    b'Dante', 3
