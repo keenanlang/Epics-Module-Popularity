@@ -9,17 +9,17 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'iocStats', 727
-   b'asyn', 235
+   b'iocStats', 725
+   b'asyn', 232
    b'busy', 173
-   b'calc', 153
-   b'autosave', 145
+   b'calc', 152
+   b'autosave', 144
    b'sscan', 116
-   b'modbus', 94
+   b'modbus', 93
    b'std', 93
    b'mca', 75
    b'lua', 69
-   b'motor', 59
+   b'motor', 57
    b'ipac', 53
    b'ip', 52
    b'delaygen', 50
@@ -55,32 +55,32 @@ Repository Views (last 14 days)
    :header: Module, Views
 
    b'modbus', 264
-   b'ecmc', 261
-   b'asyn', 212
-   b'motor', 104
-   b'mrfioc2', 83
+   b'ecmc', 255
+   b'asyn', 209
+   b'motor', 103
+   b'mrfioc2', 84
    b'lua', 51
-   b'mca', 47
    b'xspress3', 43
-   b'calc', 32
+   b'mca', 41
+   b'calc', 31
    b'sscan', 29
    b'softGlueZynq', 28
    b'optics', 22
    b'alive', 20
-   b'dxp', 19
    b'measComp', 19
    b'ip', 18
    b'ipac', 18
+   b'dxp', 17
    b'autosave', 15
    b'camac', 13
-   b'iocStats', 13
+   b'iocStats', 12
    b'busy', 10
    b'dxpSITORO', 7
    b'ipUnidig', 7
-   b'xxx', 7
    b'delaygen', 6
    b'tpmac', 6
    b'Yokogawa_DAS', 6
+   b'xxx', 6
    b'caputRecorder', 2
    b'Dante', 2
    b'quadEM', 2
