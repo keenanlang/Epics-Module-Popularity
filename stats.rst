@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 228
-   b'busy', 178
-   b'calc', 131
-   b'autosave', 130
-   b'sscan', 115
-   b'iocStats', 107
-   b'modbus', 91
-   b'std', 89
-   b'mca', 81
-   b'lua', 72
-   b'motor', 52
-   b'ipac', 48
-   b'alive', 42
-   b'ip', 42
-   b'camac', 37
-   b'delaygen', 37
-   b'optics', 35
-   b'caputRecorder', 34
-   b'ip330', 33
-   b'measComp', 33
-   b'quadEM', 33
-   b'dac128V', 32
-   b'ipUnidig', 32
-   b'love', 31
-   b'xspress3', 31
-   b'dxpSITORO', 30
-   b'vme', 30
-   b'dxp', 28
-   b'xxx', 28
-   b'softGlue', 26
-   b'softGlueZynq', 24
-   b'vac', 24
-   b'Yokogawa_DAS', 24
+   b'asyn', 225
+   b'busy', 173
+   b'calc', 125
+   b'autosave', 123
+   b'sscan', 109
+   b'iocStats', 102
+   b'modbus', 86
+   b'std', 83
+   b'mca', 79
+   b'lua', 69
+   b'motor', 47
+   b'ipac', 44
+   b'alive', 38
+   b'ip', 38
+   b'camac', 33
+   b'delaygen', 33
+   b'caputRecorder', 30
+   b'ip330', 29
+   b'optics', 29
+   b'quadEM', 29
+   b'ipUnidig', 28
+   b'love', 27
+   b'measComp', 27
+   b'dac128V', 26
+   b'dxpSITORO', 26
+   b'vme', 26
+   b'xspress3', 25
+   b'dxp', 24
+   b'xxx', 24
+   b'softGlue', 22
+   b'softGlueZynq', 20
+   b'vac', 20
+   b'Yokogawa_DAS', 20
    b'ecmc', 5
+   b'mrfioc2', 2
    b'tpmac', 1
    b'Dante', 0
-   b'mrfioc2', 0
 
 
 
@@ -54,27 +54,27 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'ecmc', 212
-   b'modbus', 138
-   b'asyn', 137
-   b'mrfioc2', 88
-   b'motor', 73
-   b'mca', 53
+   b'ecmc', 167
+   b'asyn', 150
+   b'modbus', 97
+   b'motor', 97
+   b'mrfioc2', 87
    b'lua', 50
+   b'mca', 46
    b'xspress3', 42
-   b'sscan', 27
-   b'calc', 25
-   b'optics', 22
+   b'sscan', 29
+   b'calc', 26
+   b'optics', 23
    b'dxp', 18
    b'std', 17
-   b'measComp', 16
    b'camac', 14
+   b'xxx', 14
    b'alive', 13
-   b'ipac', 12
-   b'xxx', 12
+   b'measComp', 12
    b'iocStats', 11
-   b'autosave', 10
-   b'busy', 10
+   b'ipac', 10
+   b'busy', 8
+   b'autosave', 7
    b'tpmac', 5
    b'Yokogawa_DAS', 5
    b'Dante', 3
