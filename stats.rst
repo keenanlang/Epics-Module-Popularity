@@ -9,37 +9,37 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'iocStats', 94
-   b'asyn', 91
-   b'autosave', 57
-   b'busy', 53
-   b'calc', 50
-   b'sscan', 46
-   b'std', 36
+   b'asyn', 105
+   b'iocStats', 89
+   b'busy', 66
+   b'autosave', 54
+   b'calc', 45
+   b'sscan', 40
    b'modbus', 35
-   b'mca', 30
-   b'motor', 27
-   b'ipac', 25
-   b'ip', 24
-   b'alive', 22
+   b'std', 32
+   b'mca', 29
+   b'ipac', 26
+   b'motor', 26
+   b'alive', 24
+   b'caputRecorder', 22
+   b'ip', 22
    b'quadEM', 22
+   b'measComp', 21
    b'optics', 21
-   b'caputRecorder', 19
-   b'measComp', 19
+   b'dac128V', 19
    b'xxx', 19
-   b'dac128V', 17
-   b'delaygen', 17
    b'ip330', 17
    b'ipUnidig', 17
    b'lua', 17
-   b'dxpSITORO', 14
-   b'vme', 14
+   b'delaygen', 16
+   b'dxpSITORO', 16
+   b'dxp', 14
+   b'vme', 13
    b'camac', 12
-   b'dxp', 12
    b'xspress3', 12
    b'vac', 12
    b'Yokogawa_DAS', 12
-   b'love', 11
+   b'love', 10
    b'softGlue', 10
    b'softGlueZynq', 10
    b'ecmc', 8
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 208
-   b'motor', 107
-   b'modbus', 69
-   b'ecmc', 66
-   b'mca', 62
-   b'mrfioc2', 43
+   b'asyn', 195
+   b'motor', 127
+   b'modbus', 74
+   b'mca', 61
+   b'ecmc', 53
+   b'mrfioc2', 48
+   b'calc', 40
    b'Dante', 38
-   b'sscan', 34
-   b'calc', 27
-   b'std', 23
-   b'alive', 20
+   b'sscan', 27
+   b'std', 24
+   b'alive', 23
+   b'ipac', 18
    b'optics', 18
-   b'measComp', 16
-   b'xxx', 15
+   b'xspress3', 18
+   b'xxx', 17
+   b'measComp', 15
+   b'iocStats', 14
    b'dxpSITORO', 13
-   b'dxp', 11
-   b'ipac', 10
-   b'xspress3', 9
+   b'dxp', 9
    b'vme', 9
-   b'iocStats', 8
-   b'Yokogawa_DAS', 7
    b'dac128V', 6
    b'tpmac', 6
+   b'autosave', 5
    b'caputRecorder', 5
+   b'ip', 5
    b'lua', 5
-   b'autosave', 4
+   b'softGlueZynq', 5
    b'delaygen', 4
    b'ip330', 4
    b'camac', 3
-   b'ip', 3
    b'ipUnidig', 3
    b'quadEM', 3
    b'vac', 3
+   b'Yokogawa_DAS', 3
    b'busy', 2
    b'love', 2
    b'softGlue', 2
-   b'softGlueZynq', 2
