@@ -15,7 +15,7 @@ Repository Clonings (last 14 days)
    b'autosave', 43
    b'calc', 35
    b'modbus', 31
-   b'sscan', 30
+   b'sscan', 31
    b'ipac', 26
    b'std', 26
    b'mca', 25
@@ -54,16 +54,17 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 192
-   b'motor', 135
-   b'modbus', 91
+   b'asyn', 193
+   b'motor', 153
+   b'modbus', 88
    b'mca', 61
-   b'mrfioc2', 51
-   b'ecmc', 49
+   b'mrfioc2', 50
+   b'ecmc', 48
    b'sscan', 42
    b'calc', 41
    b'Dante', 39
-   b'optics', 25
+   b'optics', 30
+   b'autosave', 27
    b'std', 24
    b'alive', 23
    b'xspress3', 23
@@ -77,7 +78,6 @@ Repository Views (last 14 days)
    b'dxp', 7
    b'ip', 6
    b'tpmac', 6
-   b'autosave', 5
    b'caputRecorder', 5
    b'lua', 5
    b'softGlueZynq', 5
