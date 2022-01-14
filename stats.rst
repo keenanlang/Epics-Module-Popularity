@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 230
-   b'ecmc', 189
-   b'iocStats', 107
-   b'busy', 98
-   b'autosave', 70
-   b'calc', 64
-   b'alive', 47
-   b'measComp', 45
-   b'sscan', 42
-   b'caputRecorder', 40
-   b'modbus', 38
-   b'motor', 36
-   b'std', 34
-   b'dac128V', 33
-   b'delaygen', 33
-   b'ipac', 33
-   b'camac', 32
-   b'ip', 32
-   b'ipUnidig', 30
-   b'quadEM', 28
-   b'dxpSITORO', 27
-   b'dxp', 26
-   b'mca', 25
-   b'xspress3', 25
-   b'xxx', 25
-   b'ip330', 24
-   b'vme', 24
-   b'optics', 23
-   b'softGlueZynq', 22
-   b'vac', 21
-   b'love', 20
-   b'lua', 19
-   b'softGlue', 18
-   b'Yokogawa_DAS', 18
-   b'mrfioc2', 6
+   b'asyn', 252
+   b'iocStats', 232
+   b'ecmc', 207
+   b'busy', 115
+   b'autosave', 93
+   b'calc', 78
+   b'alive', 57
+   b'measComp', 57
+   b'sscan', 53
+   b'caputRecorder', 52
+   b'modbus', 48
+   b'motor', 46
+   b'dac128V', 45
+   b'camac', 44
+   b'ip', 44
+   b'delaygen', 42
+   b'ipac', 42
+   b'std', 40
+   b'dxp', 38
+   b'ipUnidig', 38
+   b'dxpSITORO', 37
+   b'quadEM', 36
+   b'vme', 33
+   b'xspress3', 31
+   b'xxx', 31
+   b'ip330', 30
+   b'mca', 29
+   b'optics', 29
+   b'love', 28
+   b'softGlueZynq', 28
+   b'vac', 27
+   b'lua', 26
+   b'softGlue', 24
+   b'Yokogawa_DAS', 24
    b'tpmac', 5
+   b'mrfioc2', 4
    b'Dante', 3
 
 
@@ -54,29 +54,29 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'motor', 279
-   b'asyn', 274
-   b'modbus', 98
-   b'mca', 85
-   b'ecmc', 53
-   b'calc', 48
-   b'sscan', 48
+   b'motor', 308
+   b'asyn', 270
+   b'modbus', 113
+   b'ecmc', 103
+   b'mca', 86
+   b'calc', 50
+   b'sscan', 46
    b'Dante', 41
    b'mrfioc2', 41
-   b'xxx', 36
-   b'iocStats', 34
-   b'optics', 31
-   b'autosave', 28
-   b'measComp', 28
-   b'xspress3', 23
+   b'iocStats', 36
+   b'measComp', 34
+   b'xxx', 34
+   b'autosave', 33
+   b'optics', 32
+   b'alive', 23
+   b'xspress3', 22
    b'ipac', 19
    b'lua', 19
+   b'dxpSITORO', 18
    b'ip', 16
-   b'alive', 14
+   b'quadEM', 14
    b'busy', 13
-   b'dxpSITORO', 13
    b'delaygen', 10
-   b'quadEM', 9
    b'std', 9
    b'vme', 9
    b'caputRecorder', 8
