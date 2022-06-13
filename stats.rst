@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'calc', 881
+   b'calc', 879
    b'asyn', 442
-   b'iocStats', 339
-   b'busy', 334
-   b'autosave', 321
-   b'sscan', 267
-   b'ipac', 171
-   b'motor', 148
-   b'ecmc', 144
-   b'modbus', 102
-   b'ip', 85
-   b'std', 82
-   b'mca', 73
-   b'xxx', 63
+   b'iocStats', 337
+   b'busy', 332
+   b'autosave', 319
+   b'sscan', 265
+   b'ipac', 167
+   b'motor', 147
+   b'ecmc', 143
+   b'modbus', 100
+   b'ip', 83
+   b'std', 80
+   b'mca', 71
+   b'xxx', 62
    b'mrfioc2', 59
-   b'ipUnidig', 58
-   b'xspress3', 58
-   b'delaygen', 57
-   b'quadEM', 57
-   b'lua', 56
-   b'measComp', 54
-   b'optics', 51
-   b'camac', 50
-   b'vme', 47
-   b'alive', 43
-   b'caputRecorder', 39
-   b'ip330', 34
-   b'dac128V', 33
-   b'love', 31
-   b'dxp', 30
-   b'Yokogawa_DAS', 30
-   b'dxpSITORO', 28
-   b'softGlue', 28
-   b'softGlueZynq', 28
-   b'vac', 28
+   b'xspress3', 56
+   b'lua', 55
+   b'ipUnidig', 54
+   b'quadEM', 53
+   b'delaygen', 52
+   b'measComp', 51
+   b'optics', 49
+   b'camac', 46
+   b'vme', 43
+   b'alive', 39
+   b'caputRecorder', 37
+   b'ip330', 30
+   b'dac128V', 29
+   b'love', 27
+   b'dxp', 26
+   b'Yokogawa_DAS', 26
+   b'dxpSITORO', 25
+   b'softGlue', 24
+   b'softGlueZynq', 24
+   b'vac', 24
    b'tpmac', 22
    b'Dante', 0
 
@@ -54,30 +54,30 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 331
+   b'asyn', 334
    b'motor', 262
-   b'ecmc', 168
-   b'modbus', 165
+   b'modbus', 181
+   b'ecmc', 161
    b'iocStats', 143
-   b'measComp', 110
-   b'sscan', 97
-   b'autosave', 96
+   b'measComp', 117
+   b'sscan', 105
    b'mrfioc2', 95
-   b'ip', 92
-   b'calc', 76
+   b'autosave', 94
+   b'ip', 94
+   b'calc', 77
    b'softGlueZynq', 59
-   b'mca', 48
-   b'ipac', 39
-   b'xxx', 38
-   b'xspress3', 36
+   b'mca', 46
+   b'xxx', 45
+   b'ipac', 40
+   b'xspress3', 30
    b'optics', 29
    b'ipUnidig', 24
    b'tpmac', 24
    b'dxp', 20
    b'ip330', 16
+   b'std', 16
    b'busy', 14
    b'dac128V', 14
-   b'std', 14
    b'dxpSITORO', 12
    b'quadEM', 12
    b'alive', 11
