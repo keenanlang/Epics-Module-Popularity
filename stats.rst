@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'calc', 859
-   b'asyn', 457
-   b'iocStats', 331
-   b'busy', 281
-   b'autosave', 264
-   b'sscan', 209
-   b'ipac', 194
-   b'motor', 166
-   b'ecmc', 145
-   b'modbus', 111
-   b'std', 98
-   b'ip', 97
-   b'mca', 74
-   b'xxx', 72
-   b'quadEM', 65
-   b'lua', 62
-   b'xspress3', 62
-   b'ipUnidig', 61
-   b'delaygen', 60
-   b'mrfioc2', 60
-   b'alive', 58
-   b'optics', 57
-   b'camac', 56
-   b'measComp', 50
-   b'vme', 45
-   b'caputRecorder', 42
-   b'ip330', 32
-   b'dxp', 30
-   b'love', 30
-   b'dac128V', 28
-   b'tpmac', 28
-   b'vac', 28
-   b'Yokogawa_DAS', 28
-   b'dxpSITORO', 26
-   b'softGlue', 25
-   b'softGlueZynq', 25
+   b'asyn', 448
+   b'iocStats', 320
+   b'calc', 278
+   b'busy', 269
+   b'autosave', 246
+   b'sscan', 203
+   b'ipac', 169
+   b'ecmc', 146
+   b'motor', 146
+   b'modbus', 101
+   b'ip', 85
+   b'std', 85
+   b'xxx', 76
+   b'mca', 60
+   b'quadEM', 54
+   b'lua', 49
+   b'xspress3', 49
+   b'alive', 48
+   b'delaygen', 45
+   b'ipUnidig', 45
+   b'optics', 43
+   b'measComp', 42
+   b'camac', 41
+   b'mrfioc2', 41
+   b'vme', 36
+   b'caputRecorder', 32
+   b'tpmac', 23
+   b'ip330', 22
+   b'love', 22
+   b'dxp', 20
+   b'dac128V', 18
+   b'vac', 18
+   b'Yokogawa_DAS', 18
+   b'softGlueZynq', 17
+   b'dxpSITORO', 16
+   b'softGlue', 15
    b'Dante', 0
 
 
@@ -54,31 +54,31 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 327
-   b'motor', 294
-   b'ip', 200
-   b'modbus', 199
-   b'ecmc', 164
-   b'measComp', 162
-   b'sscan', 115
-   b'mrfioc2', 113
-   b'iocStats', 103
-   b'calc', 68
-   b'quadEM', 65
-   b'autosave', 64
-   b'softGlueZynq', 55
-   b'ipac', 47
-   b'xxx', 47
-   b'dxp', 43
+   b'asyn', 335
+   b'motor', 311
+   b'modbus', 215
+   b'ip', 206
+   b'measComp', 175
+   b'ecmc', 174
+   b'sscan', 119
+   b'mrfioc2', 114
+   b'iocStats', 94
+   b'autosave', 80
+   b'quadEM', 69
+   b'calc', 61
+   b'softGlueZynq', 53
+   b'ipac', 50
+   b'xxx', 48
+   b'dxp', 46
    b'mca', 36
+   b'busy', 35
    b'std', 33
-   b'optics', 30
+   b'lua', 24
    b'tpmac', 23
-   b'busy', 22
-   b'xspress3', 20
-   b'lua', 17
-   b'alive', 12
+   b'xspress3', 18
+   b'alive', 13
    b'delaygen', 9
+   b'optics', 9
    b'ip330', 6
    b'vac', 5
    b'camac', 3
