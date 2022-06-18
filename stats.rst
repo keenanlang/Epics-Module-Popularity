@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 448
-   b'iocStats', 320
-   b'calc', 278
+   b'asyn', 439
+   b'iocStats', 318
+   b'calc', 275
    b'busy', 269
    b'autosave', 246
-   b'sscan', 203
-   b'ipac', 169
-   b'ecmc', 146
-   b'motor', 146
-   b'modbus', 101
-   b'ip', 85
-   b'std', 85
-   b'xxx', 76
-   b'mca', 60
-   b'quadEM', 54
+   b'sscan', 201
+   b'ipac', 167
+   b'ecmc', 149
+   b'motor', 143
+   b'modbus', 100
+   b'xxx', 89
+   b'ip', 81
+   b'std', 81
+   b'mca', 57
+   b'quadEM', 53
+   b'alive', 49
    b'lua', 49
-   b'xspress3', 49
-   b'alive', 48
-   b'delaygen', 45
-   b'ipUnidig', 45
+   b'xspress3', 48
+   b'ipUnidig', 44
+   b'measComp', 44
+   b'delaygen', 43
    b'optics', 43
-   b'measComp', 42
    b'camac', 41
-   b'mrfioc2', 41
-   b'vme', 36
-   b'caputRecorder', 32
-   b'tpmac', 23
-   b'ip330', 22
-   b'love', 22
-   b'dxp', 20
-   b'dac128V', 18
-   b'vac', 18
-   b'Yokogawa_DAS', 18
-   b'softGlueZynq', 17
-   b'dxpSITORO', 16
-   b'softGlue', 15
+   b'mrfioc2', 40
+   b'vme', 37
+   b'caputRecorder', 34
+   b'ip330', 23
+   b'dac128V', 21
+   b'dxp', 21
+   b'love', 21
+   b'tpmac', 20
+   b'dxpSITORO', 19
+   b'vac', 19
+   b'Yokogawa_DAS', 19
+   b'softGlue', 18
+   b'softGlueZynq', 18
    b'Dante', 0
 
 
@@ -54,35 +54,35 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 335
-   b'motor', 311
-   b'modbus', 215
-   b'ip', 206
-   b'measComp', 175
-   b'ecmc', 174
-   b'sscan', 119
-   b'mrfioc2', 114
-   b'iocStats', 94
-   b'autosave', 80
-   b'quadEM', 69
-   b'calc', 61
+   b'asyn', 327
+   b'motor', 309
+   b'modbus', 213
+   b'ecmc', 211
+   b'ip', 202
+   b'measComp', 185
+   b'sscan', 112
+   b'mrfioc2', 108
+   b'autosave', 81
+   b'quadEM', 74
+   b'iocStats', 62
+   b'calc', 60
    b'softGlueZynq', 53
    b'ipac', 50
-   b'xxx', 48
-   b'dxp', 46
+   b'xxx', 47
+   b'dxp', 45
    b'mca', 36
    b'busy', 35
-   b'std', 33
    b'lua', 24
+   b'std', 24
    b'tpmac', 23
-   b'xspress3', 18
-   b'alive', 13
+   b'xspress3', 21
+   b'alive', 14
    b'delaygen', 9
-   b'optics', 9
-   b'ip330', 6
+   b'optics', 8
+   b'ip330', 5
    b'vac', 5
+   b'vme', 4
    b'camac', 3
-   b'vme', 2
    b'dac128V', 1
    b'Dante', 1
    b'caputRecorder', 0
