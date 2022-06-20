@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 439
-   b'iocStats', 319
-   b'calc', 275
-   b'busy', 267
-   b'autosave', 248
-   b'sscan', 201
-   b'ipac', 169
-   b'ecmc', 150
+   b'asyn', 441
+   b'iocStats', 317
+   b'calc', 276
+   b'busy', 266
+   b'autosave', 246
+   b'sscan', 200
+   b'ipac', 168
+   b'ecmc', 149
    b'motor', 145
    b'modbus', 99
-   b'xxx', 92
-   b'ip', 83
-   b'std', 83
-   b'mca', 56
-   b'quadEM', 53
-   b'lua', 51
-   b'alive', 49
-   b'xspress3', 48
-   b'delaygen', 45
-   b'ipUnidig', 44
-   b'measComp', 44
-   b'optics', 43
+   b'xxx', 90
+   b'ip', 82
+   b'std', 81
+   b'mca', 57
+   b'quadEM', 50
+   b'alive', 48
+   b'lua', 48
+   b'xspress3', 46
+   b'delaygen', 44
+   b'measComp', 43
    b'camac', 41
+   b'ipUnidig', 41
+   b'optics', 41
    b'mrfioc2', 40
-   b'vme', 37
-   b'caputRecorder', 34
-   b'ip330', 25
+   b'vme', 35
+   b'caputRecorder', 33
+   b'ip330', 24
    b'dac128V', 21
-   b'dxp', 21
-   b'love', 21
-   b'vac', 21
-   b'Yokogawa_DAS', 21
-   b'softGlue', 20
+   b'dxp', 20
    b'tpmac', 20
-   b'dxpSITORO', 19
-   b'softGlueZynq', 18
+   b'vac', 19
+   b'Yokogawa_DAS', 19
+   b'love', 18
+   b'softGlue', 18
+   b'dxpSITORO', 17
+   b'softGlueZynq', 16
    b'Dante', 0
 
 
@@ -54,31 +54,31 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 326
+   b'asyn', 337
    b'motor', 311
-   b'modbus', 213
-   b'ecmc', 207
+   b'ecmc', 217
+   b'modbus', 215
    b'ip', 202
-   b'measComp', 185
+   b'measComp', 188
    b'sscan', 113
-   b'mrfioc2', 107
+   b'mrfioc2', 91
    b'autosave', 81
    b'quadEM', 74
+   b'calc', 63
    b'iocStats', 63
-   b'calc', 60
-   b'softGlueZynq', 53
-   b'ipac', 50
-   b'xxx', 49
-   b'dxp', 48
+   b'softGlueZynq', 52
+   b'ipac', 51
+   b'xxx', 51
+   b'dxp', 49
    b'mca', 38
    b'busy', 35
+   b'xspress3', 27
    b'lua', 24
    b'std', 24
    b'tpmac', 23
-   b'xspress3', 21
    b'alive', 14
+   b'optics', 12
    b'delaygen', 9
-   b'optics', 8
    b'ip330', 5
    b'vme', 4
    b'camac', 3
