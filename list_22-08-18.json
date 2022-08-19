@@ -1,0 +1,150 @@
+{
+	"alive": {
+		"views": 29,
+		"clones": 42
+	},
+	"asyn": {
+		"views": 424,
+		"clones": 1053
+	},
+	"autosave": {
+		"views": 49,
+		"clones": 296
+	},
+	"busy": {
+		"views": 30,
+		"clones": 516
+	},
+	"calc": {
+		"views": 53,
+		"clones": 445
+	},
+	"camac": {
+		"views": 16,
+		"clones": 39
+	},
+	"caputRecorder": {
+		"views": 12,
+		"clones": 61
+	},
+	"dac128V": {
+		"views": 84,
+		"clones": 18
+	},
+	"Dante": {
+		"views": 9,
+		"clones": 3
+	},
+	"delaygen": {
+		"views": 46,
+		"clones": 100
+	},
+	"dxp": {
+		"views": 12,
+		"clones": 13
+	},
+	"dxpSITORO": {
+		"views": 3,
+		"clones": 13
+	},
+	"ecmc": {
+		"views": 118,
+		"clones": 6
+	},
+	"iocStats": {
+		"views": 142,
+		"clones": 253
+	},
+	"ip": {
+		"views": 62,
+		"clones": 128
+	},
+	"ipac": {
+		"views": 91,
+		"clones": 174
+	},
+	"ip330": {
+		"views": 51,
+		"clones": 52
+	},
+	"ipUnidig": {
+		"views": 20,
+		"clones": 37
+	},
+	"love": {
+		"views": 6,
+		"clones": 46
+	},
+	"lua": {
+		"views": 12,
+		"clones": 98
+	},
+	"mca": {
+		"views": 10,
+		"clones": 100
+	},
+	"measComp": {
+		"views": 57,
+		"clones": 90
+	},
+	"modbus": {
+		"views": 112,
+		"clones": 113
+	},
+	"motor": {
+		"views": 349,
+		"clones": 174
+	},
+	"mrfioc2": {
+		"views": 28,
+		"clones": 99
+	},
+	"optics": {
+		"views": 34,
+		"clones": 104
+	},
+	"quadEM": {
+		"views": 18,
+		"clones": 39
+	},
+	"softGlue": {
+		"views": 10,
+		"clones": 39
+	},
+	"softGlueZynq": {
+		"views": 17,
+		"clones": 16
+	},
+	"sscan": {
+		"views": 47,
+		"clones": 270
+	},
+	"std": {
+		"views": 25,
+		"clones": 145
+	},
+	"tpmac": {
+		"views": 42,
+		"clones": 3
+	},
+	"xspress3": {
+		"views": 54,
+		"clones": 21
+	},
+	"vac": {
+		"views": 10,
+		"clones": 50
+	},
+	"vme": {
+		"views": 23,
+		"clones": 54
+	},
+	"Yokogawa_DAS": {
+		"views": 0,
+		"clones": 34
+	},
+	"xxx": {
+		"views": 47,
+		"clones": 55
+	}
+}
