@@ -9,27 +9,27 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 1125
-   b'busy', 598
-   b'calc', 480
-   b'autosave', 379
-   b'sscan', 272
-   b'iocStats', 233
-   b'motor', 213
-   b'std', 184
-   b'ipac', 171
+   b'asyn', 1129
+   b'busy', 600
+   b'calc', 482
+   b'autosave', 381
+   b'sscan', 274
+   b'iocStats', 235
+   b'motor', 215
+   b'std', 186
+   b'ipac', 173
    b'modbus', 152
-   b'mca', 137
+   b'mca', 139
    b'lua', 135
+   b'ip', 127
    b'measComp', 127
-   b'ip', 124
    b'optics', 100
    b'delaygen', 96
    b'mrfioc2', 89
    b'caputRecorder', 57
-   b'xxx', 53
+   b'xxx', 55
+   b'ip330', 52
    b'vme', 52
-   b'ip330', 50
    b'vac', 48
    b'love', 42
    b'alive', 39
@@ -38,12 +38,12 @@ Repository Clonings (last 14 days)
    b'softGlue', 35
    b'ipUnidig', 33
    b'Yokogawa_DAS', 32
-   b'xspress3', 19
+   b'xspress3', 16
    b'dac128V', 14
    b'softGlueZynq', 14
    b'dxp', 9
    b'dxpSITORO', 9
-   b'ecmc', 6
+   b'ecmc', 7
    b'Dante', 3
    b'tpmac', 3
 
@@ -54,21 +54,21 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 432
-   b'motor', 360
-   b'iocStats', 140
-   b'ecmc', 130
-   b'modbus', 116
+   b'asyn', 439
+   b'motor', 358
+   b'iocStats', 141
+   b'ecmc', 126
+   b'modbus', 117
    b'dac128V', 84
    b'ipac', 62
    b'xspress3', 62
-   b'sscan', 59
-   b'ip', 55
+   b'sscan', 56
+   b'ip', 54
    b'autosave', 53
-   b'measComp', 53
+   b'measComp', 52
    b'ip330', 51
    b'calc', 49
-   b'xxx', 47
+   b'xxx', 45
    b'tpmac', 42
    b'delaygen', 35
    b'optics', 34
