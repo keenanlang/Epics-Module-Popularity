@@ -9,39 +9,39 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 1409
-   b'calc', 1084
-   b'sscan', 1061
-   b'ipac', 1042
-   b'iocStats', 385
-   b'busy', 350
-   b'autosave', 335
-   b'xxx', 263
-   b'motor', 241
-   b'std', 195
-   b'alive', 171
-   b'caputRecorder', 160
-   b'ip', 158
-   b'modbus', 158
-   b'delaygen', 151
-   b'ip330', 139
-   b'optics', 137
+   b'asyn', 1251
+   b'calc', 990
+   b'sscan', 966
+   b'ipac', 949
+   b'iocStats', 396
+   b'busy', 357
+   b'autosave', 345
+   b'xxx', 272
+   b'motor', 247
+   b'std', 204
+   b'alive', 172
+   b'caputRecorder', 169
+   b'ip', 167
+   b'modbus', 167
+   b'delaygen', 152
+   b'optics', 146
+   b'ip330', 140
    b'ipUnidig', 136
-   b'quadEM', 133
-   b'love', 130
-   b'vac', 119
-   b'vme', 118
-   b'camac', 113
-   b'mca', 99
-   b'lua', 91
-   b'measComp', 91
-   b'dac128V', 58
-   b'dxp', 55
-   b'dxpSITORO', 53
-   b'xspress3', 51
-   b'Yokogawa_DAS', 46
-   b'softGlue', 44
-   b'softGlueZynq', 43
+   b'quadEM', 134
+   b'love', 131
+   b'vac', 120
+   b'vme', 119
+   b'camac', 114
+   b'mca', 108
+   b'lua', 100
+   b'measComp', 92
+   b'dac128V', 59
+   b'dxp', 56
+   b'dxpSITORO', 54
+   b'xspress3', 52
+   b'Yokogawa_DAS', 47
+   b'softGlue', 45
+   b'softGlueZynq', 44
    b'ecmc', 9
    b'mrfioc2', 7
    b'Dante', 5
@@ -54,34 +54,34 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 630
-   b'motor', 345
-   b'modbus', 330
-   b'ecmc', 224
-   b'std', 97
-   b'measComp', 83
-   b'iocStats', 76
+   b'asyn', 556
+   b'modbus', 353
+   b'motor', 352
+   b'ecmc', 226
+   b'std', 98
+   b'measComp', 95
+   b'iocStats', 77
    b'delaygen', 75
    b'calc', 65
-   b'quadEM', 56
-   b'xxx', 51
-   b'autosave', 50
-   b'lua', 49
-   b'sscan', 49
+   b'autosave', 53
+   b'xxx', 52
+   b'sscan', 51
+   b'lua', 50
    b'mca', 47
+   b'dac128V', 44
    b'xspress3', 41
    b'dxp', 40
-   b'dac128V', 39
    b'mrfioc2', 31
    b'Dante', 30
+   b'busy', 28
    b'softGlueZynq', 28
-   b'busy', 22
+   b'quadEM', 24
    b'ip', 20
    b'ipac', 13
-   b'alive', 9
-   b'optics', 9
    b'tpmac', 9
+   b'optics', 8
    b'vac', 8
+   b'alive', 7
    b'ip330', 6
    b'caputRecorder', 5
    b'camac', 2
