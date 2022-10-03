@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 840
-   b'calc', 726
-   b'sscan', 687
-   b'ipac', 668
-   b'iocStats', 563
-   b'busy', 505
-   b'autosave', 493
-   b'xxx', 490
-   b'std', 388
-   b'ip', 379
-   b'caputRecorder', 347
-   b'motor', 343
-   b'optics', 332
-   b'alive', 330
-   b'ip330', 319
-   b'delaygen', 318
+   b'asyn', 709
+   b'calc', 596
+   b'sscan', 557
+   b'iocStats', 546
+   b'ipac', 540
+   b'busy', 486
+   b'autosave', 472
+   b'xxx', 470
+   b'ip', 373
+   b'std', 369
+   b'caputRecorder', 338
+   b'motor', 326
+   b'optics', 326
+   b'alive', 323
+   b'ip330', 317
+   b'delaygen', 312
    b'quadEM', 300
-   b'ipUnidig', 299
-   b'love', 293
-   b'vac', 282
-   b'vme', 282
-   b'camac', 220
-   b'modbus', 194
-   b'mca', 165
-   b'lua', 133
-   b'measComp', 117
-   b'dac128V', 99
-   b'dxp', 99
-   b'dxpSITORO', 98
-   b'Yokogawa_DAS', 94
+   b'ipUnidig', 297
+   b'love', 291
+   b'vac', 281
+   b'vme', 281
+   b'camac', 218
+   b'modbus', 175
+   b'mca', 158
+   b'lua', 127
+   b'measComp', 113
+   b'dac128V', 97
+   b'dxp', 97
+   b'dxpSITORO', 96
    b'softGlueZynq', 92
    b'softGlue', 90
-   b'xspress3', 63
+   b'Yokogawa_DAS', 90
+   b'xspress3', 58
    b'ecmc', 25
-   b'mrfioc2', 10
+   b'mrfioc2', 9
    b'tpmac', 4
    b'Dante', 2
 
@@ -54,30 +54,30 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 433
+   b'asyn', 411
    b'motor', 336
-   b'modbus', 246
-   b'ecmc', 208
+   b'modbus', 259
+   b'ecmc', 200
    b'xxx', 109
-   b'mrfioc2', 100
+   b'mrfioc2', 101
    b'dxpSITORO', 90
    b'measComp', 88
+   b'iocStats', 68
    b'sscan', 68
-   b'iocStats', 67
-   b'std', 67
+   b'std', 66
    b'delaygen', 64
    b'xspress3', 63
    b'busy', 53
    b'mca', 52
    b'calc', 42
    b'lua', 42
-   b'dxp', 37
    b'autosave', 36
+   b'dxp', 36
    b'softGlueZynq', 36
    b'quadEM', 30
-   b'dac128V', 29
+   b'dac128V', 28
    b'Dante', 28
-   b'ip', 23
+   b'ip', 22
    b'optics', 19
    b'ipac', 14
    b'alive', 13
