@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 423
-   b'iocStats', 248
-   b'calc', 238
-   b'autosave', 188
-   b'modbus', 159
+   b'asyn', 435
+   b'iocStats', 250
+   b'calc', 242
+   b'autosave', 200
+   b'modbus', 169
    b'motor', 158
-   b'busy', 131
-   b'sscan', 104
-   b'ipac', 92
+   b'busy', 133
+   b'sscan', 107
+   b'ipac', 91
    b'mrfioc2', 89
-   b'std', 67
+   b'std', 68
+   b'xxx', 57
    b'ip', 56
-   b'xxx', 55
-   b'ip330', 46
-   b'alive', 37
-   b'caputRecorder', 35
-   b'delaygen', 35
-   b'quadEM', 33
+   b'ip330', 47
+   b'alive', 38
+   b'caputRecorder', 37
+   b'delaygen', 37
+   b'quadEM', 34
+   b'vme', 34
+   b'lua', 32
    b'mca', 32
-   b'vme', 32
-   b'lua', 31
-   b'ipUnidig', 29
+   b'ipUnidig', 30
    b'vac', 29
    b'love', 28
+   b'optics', 28
    b'measComp', 27
-   b'optics', 27
-   b'camac', 20
+   b'camac', 22
    b'ecmc', 18
-   b'xspress3', 14
-   b'dxp', 12
+   b'xspress3', 15
+   b'dxp', 13
+   b'softGlue', 11
+   b'softGlueZynq', 11
+   b'Yokogawa_DAS', 11
    b'dxpSITORO', 10
-   b'softGlue', 10
-   b'softGlueZynq', 10
-   b'Yokogawa_DAS', 9
-   b'dac128V', 8
+   b'dac128V', 9
    b'tpmac', 1
    b'Dante', 0
 
@@ -54,22 +54,22 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 626
-   b'motor', 412
-   b'mrfioc2', 408
-   b'modbus', 177
+   b'asyn', 631
+   b'motor', 410
+   b'mrfioc2', 407
+   b'modbus', 167
    b'ecmc', 153
    b'measComp', 131
+   b'xxx', 79
    b'autosave', 78
    b'xspress3', 76
-   b'xxx', 76
-   b'camac', 74
+   b'camac', 75
    b'dxp', 70
-   b'iocStats', 46
+   b'iocStats', 47
+   b'lua', 36
    b'calc', 35
-   b'lua', 35
    b'std', 35
-   b'ip', 31
+   b'ip', 32
    b'ipac', 29
    b'ip330', 29
    b'softGlueZynq', 29
