@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 605
-   b'iocStats', 374
-   b'autosave', 295
-   b'lua', 293
-   b'busy', 283
-   b'calc', 262
-   b'motor', 246
-   b'sscan', 245
-   b'xxx', 199
-   b'ipac', 191
-   b'modbus', 184
-   b'alive', 165
+   b'asyn', 600
+   b'iocStats', 371
+   b'lua', 292
+   b'autosave', 288
+   b'busy', 280
+   b'calc', 259
+   b'motor', 245
+   b'sscan', 243
+   b'xxx', 197
+   b'ipac', 193
+   b'modbus', 175
+   b'alive', 163
    b'ip', 152
-   b'std', 151
-   b'ip330', 145
+   b'std', 149
+   b'ip330', 144
    b'love', 124
    b'vac', 121
-   b'caputRecorder', 119
-   b'ipUnidig', 118
-   b'quadEM', 115
-   b'optics', 113
-   b'vme', 113
-   b'delaygen', 112
-   b'camac', 97
+   b'caputRecorder', 117
+   b'ipUnidig', 117
+   b'quadEM', 114
+   b'optics', 112
+   b'vme', 111
+   b'delaygen', 110
+   b'camac', 95
    b'ecmc', 90
    b'mca', 65
    b'measComp', 37
-   b'softGlueZynq', 32
-   b'xspress3', 32
-   b'Yokogawa_DAS', 32
-   b'dac128V', 30
-   b'softGlue', 28
+   b'softGlueZynq', 31
+   b'xspress3', 31
+   b'Yokogawa_DAS', 30
+   b'dac128V', 29
+   b'softGlue', 27
    b'dxpSITORO', 22
-   b'dxp', 21
+   b'dxp', 20
    b'mrfioc2', 19
    b'tpmac', 2
    b'Dante', 1
@@ -54,22 +54,22 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 347
-   b'motor', 244
-   b'modbus', 233
-   b'ip', 157
+   b'asyn', 338
+   b'motor', 254
+   b'modbus', 230
+   b'ip', 161
    b'mrfioc2', 142
-   b'ecmc', 141
+   b'ecmc', 137
    b'measComp', 98
    b'xspress3', 96
    b'mca', 94
-   b'xxx', 83
-   b'iocStats', 68
-   b'calc', 56
+   b'xxx', 80
+   b'iocStats', 74
+   b'calc', 57
    b'autosave', 54
    b'softGlueZynq', 46
    b'sscan', 46
-   b'lua', 41
+   b'lua', 40
    b'delaygen', 39
    b'busy', 25
    b'quadEM', 21
@@ -77,7 +77,7 @@ Repository Views (last 14 days)
    b'dxpSITORO', 19
    b'dxp', 15
    b'std', 15
-   b'camac', 14
+   b'camac', 13
    b'dac128V', 9
    b'alive', 8
    b'ip330', 6
