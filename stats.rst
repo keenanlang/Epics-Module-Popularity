@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 288
-   b'iocStats', 249
-   b'busy', 237
-   b'autosave', 232
-   b'motor', 213
+   b'asyn', 285
+   b'iocStats', 246
+   b'busy', 236
+   b'autosave', 226
+   b'motor', 209
    b'calc', 207
-   b'sscan', 187
-   b'ip', 174
-   b'std', 172
-   b'ipac', 171
-   b'xxx', 166
-   b'alive', 153
-   b'caputRecorder', 153
-   b'ip330', 151
-   b'ipUnidig', 134
-   b'optics', 131
-   b'quadEM', 120
-   b'vac', 103
-   b'delaygen', 100
-   b'camac', 98
-   b'vme', 96
-   b'love', 95
-   b'mca', 91
-   b'modbus', 87
-   b'measComp', 65
-   b'ecmc', 55
-   b'lua', 46
+   b'sscan', 186
+   b'ip', 170
+   b'ipac', 167
+   b'std', 167
+   b'xxx', 163
+   b'caputRecorder', 149
+   b'alive', 148
+   b'ip330', 147
+   b'ipUnidig', 132
+   b'optics', 127
+   b'quadEM', 116
+   b'vac', 100
+   b'delaygen', 98
+   b'camac', 96
+   b'vme', 94
+   b'love', 93
+   b'mca', 87
+   b'modbus', 83
+   b'measComp', 61
+   b'ecmc', 56
    b'mrfioc2', 44
-   b'dxp', 34
-   b'dxpSITORO', 34
-   b'softGlueZynq', 34
-   b'softGlue', 31
-   b'dac128V', 29
-   b'Yokogawa_DAS', 27
-   b'xspress3', 25
+   b'lua', 42
+   b'softGlueZynq', 32
+   b'dxp', 30
+   b'dxpSITORO', 30
+   b'softGlue', 29
+   b'dac128V', 27
+   b'Yokogawa_DAS', 25
+   b'xspress3', 22
    b'tpmac', 4
    b'Dante', 2
 
@@ -54,21 +54,21 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 757
+   b'asyn', 796
    b'ecmc', 210
-   b'motor', 188
+   b'motor', 187
    b'mrfioc2', 160
-   b'iocStats', 159
-   b'modbus', 121
-   b'sscan', 112
+   b'iocStats', 158
+   b'modbus', 122
+   b'sscan', 102
    b'dxpSITORO', 101
-   b'autosave', 87
-   b'xspress3', 75
+   b'autosave', 81
+   b'xspress3', 74
    b'mca', 69
    b'quadEM', 64
    b'dxp', 58
    b'ip', 56
-   b'measComp', 50
+   b'measComp', 49
    b'xxx', 48
    b'calc', 37
    b'ipac', 25
@@ -82,8 +82,8 @@ Repository Views (last 14 days)
    b'tpmac', 6
    b'camac', 4
    b'Dante', 3
-   b'std', 3
    b'love', 2
+   b'std', 2
    b'Yokogawa_DAS', 2
    b'delaygen', 1
    b'vac', 1
