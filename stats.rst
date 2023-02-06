@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 914
-   b'iocStats', 808
-   b'autosave', 794
-   b'calc', 756
-   b'busy', 748
-   b'sscan', 714
-   b'std', 663
-   b'ipac', 633
-   b'ip', 591
-   b'xxx', 569
-   b'motor', 544
-   b'ip330', 519
-   b'optics', 389
-   b'caputRecorder', 380
-   b'alive', 340
-   b'ipUnidig', 338
-   b'delaygen', 337
-   b'vme', 330
-   b'vac', 328
-   b'love', 326
-   b'quadEM', 298
-   b'mca', 278
-   b'camac', 229
+   b'asyn', 932
+   b'iocStats', 828
+   b'autosave', 814
+   b'busy', 786
+   b'calc', 775
+   b'sscan', 732
+   b'std', 681
+   b'ipac', 651
+   b'ip', 609
+   b'xxx', 587
+   b'motor', 562
+   b'ip330', 537
+   b'optics', 407
+   b'caputRecorder', 398
+   b'alive', 358
+   b'delaygen', 356
+   b'ipUnidig', 356
+   b'vme', 347
+   b'vac', 346
+   b'love', 344
+   b'quadEM', 300
+   b'mca', 286
+   b'camac', 247
    b'ecmc', 170
-   b'modbus', 131
-   b'lua', 74
+   b'modbus', 139
+   b'lua', 82
    b'mrfioc2', 48
-   b'xspress3', 40
-   b'measComp', 26
-   b'softGlueZynq', 19
-   b'dac128V', 18
-   b'dxp', 16
-   b'dxpSITORO', 16
-   b'softGlue', 16
-   b'Yokogawa_DAS', 16
+   b'xspress3', 42
+   b'measComp', 36
+   b'softGlueZynq', 27
+   b'dac128V', 26
+   b'softGlue', 24
+   b'Yokogawa_DAS', 24
+   b'dxp', 20
+   b'dxpSITORO', 20
    b'tpmac', 4
-   b'Dante', 0
+   b'Dante', 1
 
 
 
@@ -54,28 +54,28 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 434
+   b'asyn', 427
    b'mrfioc2', 296
-   b'modbus', 226
-   b'motor', 213
+   b'modbus', 228
+   b'motor', 214
    b'xspress3', 208
-   b'ecmc', 121
+   b'ecmc', 122
    b'delaygen', 58
    b'optics', 56
-   b'quadEM', 50
+   b'quadEM', 51
    b'xxx', 50
    b'vac', 44
    b'iocStats', 43
-   b'measComp', 43
+   b'measComp', 42
    b'calc', 41
    b'lua', 37
    b'sscan', 36
    b'autosave', 35
-   b'mca', 28
+   b'mca', 29
+   b'tpmac', 24
    b'ipac', 23
    b'std', 23
    b'dxp', 21
-   b'tpmac', 21
    b'softGlueZynq', 18
    b'camac', 15
    b'alive', 13
