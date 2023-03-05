@@ -9,43 +9,43 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 395
-   b'autosave', 248
-   b'calc', 242
-   b'busy', 227
-   b'iocStats', 201
-   b'sscan', 165
-   b'ipac', 154
-   b'measComp', 149
-   b'xspress3', 139
-   b'motor', 116
-   b'ip', 107
-   b'std', 99
-   b'lua', 88
-   b'xxx', 81
-   b'modbus', 76
+   b'asyn', 403
+   b'autosave', 260
+   b'calc', 253
+   b'busy', 239
+   b'iocStats', 209
+   b'sscan', 175
+   b'ipac', 162
+   b'measComp', 157
+   b'xspress3', 140
+   b'motor', 126
+   b'ip', 118
+   b'std', 108
+   b'lua', 96
+   b'xxx', 89
+   b'delaygen', 82
+   b'modbus', 82
+   b'optics', 82
+   b'alive', 80
+   b'ipUnidig', 79
+   b'caputRecorder', 78
+   b'camac', 77
    b'quadEM', 75
-   b'optics', 73
-   b'alive', 72
-   b'caputRecorder', 70
-   b'delaygen', 70
-   b'ipUnidig', 70
-   b'camac', 69
-   b'ip330', 65
-   b'mca', 63
-   b'vme', 62
-   b'love', 61
-   b'vac', 56
+   b'love', 71
+   b'mca', 71
+   b'ip330', 70
+   b'vme', 70
+   b'vac', 67
    b'dxp', 49
-   b'Yokogawa_DAS', 38
-   b'softGlueZynq', 37
-   b'dac128V', 35
-   b'dxpSITORO', 33
-   b'softGlue', 31
+   b'Yokogawa_DAS', 48
+   b'softGlueZynq', 44
+   b'dac128V', 43
+   b'softGlue', 42
+   b'dxpSITORO', 40
    b'mrfioc2', 24
-   b'Dante', 18
-   b'tpmac', 18
-   b'ecmc', 10
+   b'tpmac', 19
+   b'Dante', 17
+   b'ecmc', 11
 
 
 
@@ -54,25 +54,25 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 533
-   b'xspress3', 441
-   b'measComp', 358
-   b'modbus', 292
+   b'asyn', 491
+   b'xspress3', 443
+   b'measComp', 359
+   b'modbus', 302
    b'ecmc', 214
-   b'motor', 184
-   b'mca', 106
+   b'motor', 186
+   b'mca', 109
+   b'ip', 72
    b'iocStats', 71
-   b'ip', 62
    b'quadEM', 58
    b'optics', 57
-   b'sscan', 54
-   b'autosave', 53
+   b'autosave', 54
+   b'sscan', 53
    b'alive', 47
    b'calc', 38
    b'std', 37
-   b'ipac', 28
+   b'ipac', 30
+   b'busy', 24
    b'xxx', 24
-   b'busy', 23
    b'delaygen', 22
    b'lua', 20
    b'Dante', 19
