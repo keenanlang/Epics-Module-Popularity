@@ -9,41 +9,41 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 621
-   b'calc', 479
-   b'iocStats', 469
-   b'busy', 358
-   b'sscan', 352
-   b'ipac', 349
-   b'autosave', 337
-   b'motor', 217
-   b'optics', 214
-   b'modbus', 212
-   b'std', 195
-   b'ip', 182
-   b'xxx', 176
-   b'mca', 160
-   b'caputRecorder', 156
-   b'lua', 155
-   b'ipUnidig', 119
-   b'alive', 115
-   b'ip330', 114
-   b'delaygen', 109
-   b'vac', 108
-   b'camac', 105
-   b'love', 99
-   b'quadEM', 98
-   b'vme', 97
-   b'dac128V', 92
-   b'measComp', 87
-   b'Yokogawa_DAS', 82
-   b'softGlue', 81
-   b'softGlueZynq', 80
-   b'xspress3', 75
-   b'dxpSITORO', 73
-   b'dxp', 71
+   b'asyn', 613
+   b'calc', 476
+   b'iocStats', 467
+   b'busy', 351
+   b'sscan', 349
+   b'ipac', 347
+   b'autosave', 330
+   b'motor', 214
+   b'optics', 212
+   b'modbus', 210
+   b'std', 192
+   b'ip', 180
+   b'xxx', 174
+   b'caputRecorder', 155
+   b'mca', 155
+   b'lua', 153
+   b'ipUnidig', 118
+   b'alive', 113
+   b'ip330', 113
+   b'delaygen', 108
+   b'vac', 107
+   b'camac', 104
+   b'love', 98
+   b'quadEM', 97
+   b'vme', 96
+   b'measComp', 93
+   b'dac128V', 91
+   b'Yokogawa_DAS', 81
+   b'softGlue', 80
+   b'softGlueZynq', 79
+   b'xspress3', 76
+   b'dxpSITORO', 72
+   b'dxp', 70
    b'mrfioc2', 68
-   b'ecmc', 11
+   b'ecmc', 8
    b'tpmac', 7
    b'Dante', 5
 
@@ -54,26 +54,26 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 425
-   b'motor', 354
+   b'asyn', 423
+   b'motor', 348
    b'mrfioc2', 299
-   b'ecmc', 181
-   b'xxx', 163
+   b'ecmc', 174
+   b'xxx', 173
    b'modbus', 160
-   b'xspress3', 101
+   b'xspress3', 100
    b'autosave', 95
+   b'iocStats', 86
    b'optics', 80
    b'calc', 77
-   b'iocStats', 74
+   b'measComp', 50
    b'sscan', 50
-   b'softGlueZynq', 49
    b'mca', 46
-   b'measComp', 45
-   b'ipac', 41
+   b'softGlueZynq', 43
+   b'ipac', 40
    b'dxpSITORO', 33
    b'ip', 31
+   b'dxp', 30
    b'std', 30
-   b'dxp', 29
    b'tpmac', 21
    b'delaygen', 19
    b'quadEM', 15
