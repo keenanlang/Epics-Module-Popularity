@@ -9,42 +9,42 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 437
-   b'busy', 331
-   b'autosave', 325
-   b'iocStats', 322
-   b'calc', 248
-   b'ipac', 230
-   b'motor', 221
-   b'optics', 171
-   b'sscan', 148
-   b'std', 129
-   b'ip', 127
-   b'modbus', 125
-   b'xxx', 115
-   b'caputRecorder', 102
-   b'love', 93
-   b'ipUnidig', 86
-   b'vac', 85
-   b'ip330', 81
-   b'alive', 78
-   b'mca', 77
-   b'delaygen', 75
-   b'lua', 72
-   b'camac', 71
-   b'quadEM', 69
-   b'vme', 68
-   b'measComp', 59
+   b'asyn', 433
+   b'autosave', 329
+   b'busy', 329
+   b'iocStats', 321
+   b'calc', 252
+   b'ipac', 228
+   b'motor', 219
+   b'optics', 170
+   b'sscan', 146
+   b'std', 127
+   b'ip', 126
+   b'modbus', 123
+   b'xxx', 112
+   b'caputRecorder', 100
+   b'love', 91
+   b'ipUnidig', 84
+   b'vac', 83
+   b'ip330', 78
+   b'alive', 76
+   b'mca', 75
+   b'delaygen', 74
+   b'camac', 69
+   b'lua', 69
+   b'quadEM', 67
+   b'vme', 66
    b'mrfioc2', 59
-   b'softGlueZynq', 42
-   b'dac128V', 39
-   b'softGlue', 38
-   b'Yokogawa_DAS', 37
-   b'xspress3', 36
-   b'dxpSITORO', 25
-   b'dxp', 23
+   b'measComp', 57
+   b'softGlueZynq', 40
+   b'dac128V', 37
+   b'softGlue', 36
+   b'Yokogawa_DAS', 35
+   b'xspress3', 34
+   b'dxpSITORO', 24
+   b'dxp', 21
    b'tpmac', 7
-   b'ecmc', 5
+   b'ecmc', 4
    b'Dante', 2
 
 
@@ -54,18 +54,18 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'motor', 353
-   b'asyn', 341
+   b'motor', 368
+   b'asyn', 346
+   b'xspress3', 230
    b'mrfioc2', 206
-   b'xspress3', 201
-   b'xxx', 168
-   b'modbus', 146
+   b'xxx', 152
+   b'modbus', 132
    b'measComp', 99
+   b'optics', 98
    b'iocStats', 84
-   b'optics', 63
    b'ecmc', 62
-   b'quadEM', 58
-   b'calc', 46
+   b'quadEM', 59
+   b'calc', 45
    b'autosave', 43
    b'tpmac', 38
    b'dxpSITORO', 34
@@ -74,7 +74,7 @@ Repository Views (last 14 days)
    b'ipac', 19
    b'mca', 17
    b'dxp', 14
-   b'ip', 13
+   b'ip', 12
    b'delaygen', 11
    b'alive', 7
    b'caputRecorder', 7
