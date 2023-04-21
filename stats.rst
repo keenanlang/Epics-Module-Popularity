@@ -9,33 +9,33 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 449
-   b'autosave', 296
-   b'busy', 281
-   b'calc', 267
-   b'iocStats', 259
-   b'ipac', 248
-   b'motor', 195
-   b'sscan', 168
-   b'optics', 113
-   b'modbus', 95
-   b'ip', 88
-   b'std', 80
-   b'mrfioc2', 78
-   b'love', 76
-   b'caputRecorder', 73
-   b'delaygen', 70
-   b'xxx', 65
-   b'vac', 60
-   b'ipUnidig', 59
-   b'alive', 56
-   b'camac', 55
-   b'ip330', 50
-   b'quadEM', 50
-   b'measComp', 48
-   b'vme', 48
-   b'mca', 39
-   b'lua', 34
+   b'asyn', 404
+   b'autosave', 301
+   b'iocStats', 264
+   b'calc', 256
+   b'busy', 252
+   b'ipac', 244
+   b'motor', 180
+   b'sscan', 178
+   b'ip', 95
+   b'optics', 87
+   b'std', 81
+   b'love', 80
+   b'modbus', 76
+   b'caputRecorder', 74
+   b'delaygen', 74
+   b'camac', 69
+   b'vac', 64
+   b'ipUnidig', 63
+   b'alive', 61
+   b'xxx', 60
+   b'vme', 58
+   b'measComp', 55
+   b'ip330', 54
+   b'quadEM', 54
+   b'mrfioc2', 52
+   b'mca', 43
+   b'lua', 37
    b'softGlueZynq', 26
    b'xspress3', 24
    b'Yokogawa_DAS', 19
@@ -54,40 +54,40 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 462
-   b'motor', 357
+   b'asyn', 443
+   b'motor', 358
    b'xspress3', 252
-   b'modbus', 167
-   b'measComp', 150
-   b'ecmc', 123
-   b'mrfioc2', 101
-   b'iocStats', 78
-   b'quadEM', 69
+   b'measComp', 170
+   b'modbus', 151
+   b'ecmc', 117
+   b'mrfioc2', 76
+   b'quadEM', 70
+   b'calc', 69
    b'tpmac', 68
-   b'xxx', 67
-   b'optics', 58
-   b'calc', 38
-   b'autosave', 36
-   b'sscan', 30
-   b'ipac', 23
-   b'dxp', 22
-   b'ip', 18
+   b'iocStats', 64
+   b'autosave', 50
+   b'xxx', 50
+   b'optics', 46
+   b'sscan', 45
+   b'dxp', 18
+   b'ipac', 17
    b'dxpSITORO', 16
    b'std', 16
-   b'busy', 10
+   b'busy', 12
+   b'ip', 11
    b'delaygen', 10
+   b'mca', 10
    b'softGlueZynq', 10
-   b'mca', 9
-   b'camac', 5
+   b'camac', 6
    b'Dante', 5
    b'caputRecorder', 4
    b'alive', 3
-   b'lua', 2
+   b'lua', 3
    b'vme', 2
    b'ip330', 1
    b'ipUnidig', 1
-   b'Yokogawa_DAS', 1
    b'dac128V', 0
    b'love', 0
    b'softGlue', 0
    b'vac', 0
+   b'Yokogawa_DAS', 0
