@@ -9,40 +9,40 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 418
-   b'autosave', 312
-   b'iocStats', 264
-   b'busy', 260
-   b'calc', 260
-   b'ipac', 244
-   b'sscan', 185
-   b'motor', 178
-   b'ip', 95
-   b'optics', 85
-   b'love', 82
-   b'std', 81
-   b'delaygen', 76
-   b'modbus', 76
-   b'caputRecorder', 74
-   b'camac', 71
-   b'measComp', 69
-   b'vac', 66
+   b'asyn', 423
+   b'autosave', 319
+   b'iocStats', 272
+   b'calc', 267
+   b'busy', 266
+   b'ipac', 243
+   b'sscan', 191
+   b'motor', 186
+   b'ip', 94
+   b'std', 88
+   b'optics', 84
+   b'modbus', 82
+   b'love', 81
+   b'measComp', 77
+   b'delaygen', 75
+   b'caputRecorder', 73
+   b'camac', 70
    b'alive', 65
-   b'ipUnidig', 65
-   b'vme', 60
-   b'xxx', 60
-   b'ip330', 56
-   b'quadEM', 56
+   b'vac', 65
+   b'ipUnidig', 64
+   b'vme', 59
+   b'xxx', 59
+   b'ip330', 55
+   b'quadEM', 55
+   b'mca', 54
    b'mrfioc2', 51
-   b'mca', 43
-   b'lua', 36
-   b'softGlueZynq', 28
-   b'xspress3', 27
-   b'Yokogawa_DAS', 22
-   b'dac128V', 20
-   b'softGlue', 20
-   b'dxpSITORO', 16
-   b'dxp', 15
+   b'lua', 43
+   b'softGlueZynq', 27
+   b'xspress3', 23
+   b'Yokogawa_DAS', 21
+   b'dac128V', 19
+   b'softGlue', 19
+   b'dxpSITORO', 15
+   b'dxp', 14
    b'ecmc', 8
    b'tpmac', 5
    b'Dante', 0
@@ -54,23 +54,24 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'asyn', 420
-   b'motor', 370
-   b'xspress3', 258
-   b'measComp', 158
-   b'modbus', 151
+   b'asyn', 421
+   b'motor', 415
+   b'xspress3', 257
+   b'measComp', 182
+   b'modbus', 152
    b'ecmc', 143
    b'calc', 83
    b'mrfioc2', 75
+   b'sscan', 69
    b'quadEM', 68
    b'tpmac', 68
-   b'sscan', 63
-   b'iocStats', 47
-   b'optics', 47
-   b'autosave', 45
-   b'xxx', 37
+   b'autosave', 56
+   b'optics', 54
+   b'iocStats', 35
+   b'xxx', 28
    b'Yokogawa_DAS', 20
    b'softGlueZynq', 19
+   b'ip', 18
    b'ipac', 18
    b'dxp', 17
    b'std', 17
@@ -78,11 +79,10 @@ Repository Views (last 14 days)
    b'busy', 12
    b'caputRecorder', 12
    b'mca', 12
-   b'ip', 11
    b'delaygen', 10
    b'alive', 6
    b'camac', 6
-   b'Dante', 5
+   b'Dante', 6
    b'lua', 3
    b'vme', 2
    b'ip330', 1
