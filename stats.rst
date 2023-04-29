@@ -9,39 +9,39 @@ Repository Clonings (last 14 days)
 .. csv-table::
    :header: Module, Clones
 
-   b'asyn', 562
-   b'calc', 427
-   b'sscan', 346
-   b'autosave', 343
-   b'ipac', 337
-   b'iocStats', 287
-   b'busy', 271
-   b'motor', 254
-   b'modbus', 189
-   b'ip', 177
-   b'love', 166
-   b'std', 166
-   b'alive', 162
-   b'ipUnidig', 148
-   b'delaygen', 147
-   b'xxx', 140
-   b'ip330', 139
-   b'vac', 137
-   b'caputRecorder', 136
-   b'camac', 134
-   b'measComp', 130
-   b'optics', 130
-   b'vme', 118
-   b'mca', 106
-   b'quadEM', 103
-   b'lua', 100
-   b'dac128V', 72
-   b'softGlueZynq', 70
-   b'Yokogawa_DAS', 69
-   b'softGlue', 68
-   b'xspress3', 52
-   b'dxp', 50
-   b'dxpSITORO', 48
+   b'asyn', 563
+   b'calc', 463
+   b'sscan', 381
+   b'ipac', 341
+   b'autosave', 285
+   b'iocStats', 277
+   b'busy', 234
+   b'motor', 233
+   b'modbus', 200
+   b'ip', 156
+   b'std', 156
+   b'alive', 151
+   b'measComp', 140
+   b'ipUnidig', 137
+   b'delaygen', 136
+   b'ip330', 128
+   b'xxx', 128
+   b'love', 127
+   b'caputRecorder', 125
+   b'camac', 122
+   b'optics', 118
+   b'vac', 112
+   b'mca', 111
+   b'lua', 103
+   b'vme', 103
+   b'quadEM', 90
+   b'dac128V', 77
+   b'softGlueZynq', 74
+   b'softGlue', 72
+   b'Yokogawa_DAS', 71
+   b'dxp', 56
+   b'xspress3', 54
+   b'dxpSITORO', 53
    b'mrfioc2', 41
    b'ecmc', 8
    b'Dante', 0
@@ -54,22 +54,22 @@ Repository Views (last 14 days)
 .. csv-table::
    :header: Module, Views
 
-   b'motor', 495
-   b'asyn', 487
-   b'measComp', 240
-   b'modbus', 211
-   b'ecmc', 202
-   b'xspress3', 146
-   b'calc', 85
-   b'sscan', 75
-   b'autosave', 64
-   b'mrfioc2', 60
-   b'optics', 53
-   b'iocStats', 51
+   b'motor', 494
+   b'asyn', 491
+   b'measComp', 250
+   b'modbus', 203
+   b'ecmc', 200
+   b'xspress3', 142
+   b'calc', 81
+   b'mrfioc2', 68
+   b'sscan', 64
+   b'autosave', 59
+   b'iocStats', 53
+   b'optics', 48
    b'softGlueZynq', 48
-   b'xxx', 45
-   b'dxp', 42
+   b'dxp', 43
    b'tpmac', 34
+   b'xxx', 34
    b'dxpSITORO', 22
    b'quadEM', 21
    b'ipac', 20
@@ -82,8 +82,8 @@ Repository Views (last 14 days)
    b'delaygen', 10
    b'camac', 6
    b'alive', 5
-   b'Dante', 4
-   b'lua', 3
+   b'Dante', 3
+   b'lua', 2
    b'vme', 2
    b'ipUnidig', 1
    b'dac128V', 0
